@@ -1,0 +1,386 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-27T10:27:22Z",
+  "modifiers": {
+    "048852ed-94d2-40d1-a647-e73da227bc88": {
+      "riposte": 2,
+      "parry": 0,
+      "thrust": 2
+    },
+    "0974b11e-a06d-416d-a1be-954f72099510": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "0a6e16d7-2c18-466f-8ac6-23a463940394": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    },
+    "0bbc34d9-1e35-4286-beb3-46bddb3f04cb": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 2
+    },
+    "0d7aebe6-cd21-4719-b764-ec5c79d0013d": {
+      "riposte": 0,
+      "parry": 2,
+      "thrust": 3
+    },
+    "12d68e60-d892-4f11-8b09-ba61ee0a2241": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "1f17f936-5a35-426f-8a8b-24706c163478": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "28739848-608f-470c-a00e-8f2ea05d9554": {
+      "riposte": 0,
+      "parry": 3.5,
+      "thrust": 0
+    },
+    "2b594769-bcbb-4d6b-93e1-77948a3ff014": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "2c739e9f-8880-4a88-8717-48012fb609c2": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 3
+    },
+    "2e9e1a8c-4486-42ca-80cd-cabe86e11e62": {
+      "riposte": 0,
+      "parry": 1,
+      "thrust": 0
+    },
+    "317922ee-be6f-426e-8bce-8bbc29eaa5a7": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "35cc8e55-9eb4-4517-ac38-6b93091b12ef": {
+      "riposte": 0,
+      "parry": 1,
+      "thrust": 0
+    },
+    "363ec9c7-9825-4a89-8dbe-ca8776a9382e": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "37e3935b-8f56-4a67-9f46-6b9982dab78d": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    },
+    "3a0f405a-dc4a-4553-8919-ae9217e1c11c": {
+      "riposte": 0,
+      "parry": 2,
+      "thrust": 0
+    },
+    "3f0d31e8-14fa-480a-8e1c-2c5fe0b16484": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "4123610d-3257-4968-941e-a80447411fba": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "430124f5-9186-4555-a97a-bd9a6f56c28d": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "441114f8-1a98-4a84-9d02-2977446863f5": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "46338819-98ae-466e-bdb8-c3b3879580c9": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "46f27327-1a7b-4fc2-b069-4128523be45c": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "476d5569-3deb-4ab5-a28a-ee247a9a27d4": {
+      "riposte": 0,
+      "parry": 1,
+      "thrust": 0
+    },
+    "47719f12-215c-41db-a7c4-85749e1612be": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "4e8bb95c-e72c-42e9-a1df-0f60bf41e4a8": {
+      "riposte": 4.5,
+      "parry": 0,
+      "thrust": 0
+    },
+    "4f727b02-f805-4808-b8c3-8e3b42167ebb": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "50845444-2fed-493e-b70c-16d0d9cc4d65": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "58244fb0-5b64-4bcf-9fac-5fd608462937": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "5be734d1-a182-4740-a5e3-fc2086f0bf98": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "68e299b5-4757-47f2-ac03-4e97adcf4e6b": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "69d5e3de-bb8e-4e01-9ebc-d246be44dc4f": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "6f5e17e4-da3c-4424-8689-893cf2d16160": {
+      "riposte": 2,
+      "parry": 0,
+      "thrust": 0
+    },
+    "781e864d-bb12-47fa-ad70-988cbfe58b9a": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "7a32d0cc-2864-4008-9af1-709057f4dd7c": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "7aaf88ab-3880-493a-866a-8bf6dd5a039a": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    },
+    "7fc0a891-8b6d-4774-beca-ce040176b864": {
+      "riposte": 0,
+      "parry": -1,
+      "thrust": 0
+    },
+    "80cbd288-9a7f-419c-a460-2f08ef4c71b7": {
+      "riposte": 0,
+      "parry": 2,
+      "thrust": 0
+    },
+    "8582e8e1-b64c-40ac-9a8c-b0abf871719e": {
+      "riposte": 0,
+      "parry": 1,
+      "thrust": 1
+    },
+    "89aa90a0-d0d4-42d0-8668-f1acaf53eb6d": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 2
+    },
+    "8a986f50-5132-4fbb-b074-8bd19170a1ed": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "8a9af61e-7515-4e80-af88-b32ed24b85c3": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    },
+    "8ea32871-2b37-4aa7-bc68-3d01a4423efa": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "957f38a0-f207-4726-aa78-82b2a8dd7da1": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "987862c9-9651-4350-9d22-168735ecbae6": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 3
+    },
+    "9abf5f7a-a569-4ff2-b817-542ab673be60": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    },
+    "First Mate": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "Humble": {
+      "riposte": 0,
+      "parry": 1,
+      "thrust": 0
+    },
+    "a050494a-4908-467b-9a61-9776c668f1dd": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "a1d448fe-a94c-4e61-b2a8-7b6e8dbaef18": {
+      "riposte": 0,
+      "parry": 2,
+      "thrust": 3
+    },
+    "a8511466-f177-4f79-9613-529df1742242": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "aa1acf45-ef2c-4b17-9619-78e191f52007": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "aa5f2a16-bbe5-4e93-836b-ecc584445524": {
+      "riposte": 0,
+      "parry": 1,
+      "thrust": 0
+    },
+    "aa98db45-94a2-43eb-848d-a3590e297d0b": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "ace4e015-181d-4789-a873-6f9bfa05096e": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "ad89478c-cfad-4d5b-a38e-c49eebeb7ef4": {
+      "riposte": 2,
+      "parry": 0,
+      "thrust": 0
+    },
+    "b822cc5b-40e0-4439-836e-46e12dcaafde": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    },
+    "c75922aa-b86d-42ed-b2cb-d2dacb0a5530": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "c791206f-e278-4af2-a441-a5da83b98858": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "c96cd97d-e6ea-436f-99ab-b30bf63effea": {
+      "riposte": 0,
+      "parry": 1,
+      "thrust": 0
+    },
+    "cc08a344-fe64-472f-b335-5ba3468a76f4": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 3
+    },
+    "ccf9170d-557c-4612-9889-625c0fb2c31a": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    },
+    "d0ed8028-9916-49db-b170-d826680dcdae": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "d4c31216-3501-455b-804f-3f0984e03f90": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "d5cd9678-ccd9-4d35-a4c3-34589d2dc85b": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    },
+    "df44fae2-3124-4622-88de-d531cc4a14d8": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "e1edf443-c33e-4d1e-b800-c14882abb508": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "e309eb07-7ecc-4e97-b967-26a7d6c27745": {
+      "riposte": 0,
+      "parry": 0.940259455,
+      "thrust": 0
+    },
+    "e38a4c3e-adad-49f9-8950-d262203c15f1": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "e38d863a-6859-47b5-9635-51acc08ea489": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "f2cb2f5a-df81-41c8-b1ea-d01764341aa2": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "f35b6c17-f61e-4066-aff4-fe724ae1ea46": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "f3ae4f33-75cb-46ab-b8ca-c59e48c2fda3": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    },
+    "f71cc97f-9902-464f-8c40-10678473a5ad": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 2
+    },
+    "f8930803-d218-4e04-b360-78f460ebaf0c": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 1
+    },
+    "fa8b4fc5-f2b3-4d45-aa86-d1fb5d154c49": {
+      "riposte": 0,
+      "parry": 0,
+      "thrust": 0
+    },
+    "fef82c13-4bbb-4d71-9a50-e6addfb8b949": {
+      "riposte": 1,
+      "parry": 0,
+      "thrust": 0
+    }
+  }
+}
