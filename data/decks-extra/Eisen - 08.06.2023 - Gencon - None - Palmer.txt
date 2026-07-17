@@ -1,0 +1,51 @@
+Faction: Eisen
+Location: Gen Con 2023
+Position: Unknown
+Date: 8/6/2023
+Author: Palmer
+Deckname: 
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Kaspar Dietrich
+
+1x Uwe Zimmerman
+1x Rosine Friese
+1x Edeline Trinken
+1x Philip Hase
+1x Otto Streit
+
+1x Parley Gone Wrong
+1x Armed and Marshaled
+1x Until Morale Improves
+1x The Song of Eisen
+1x Marooned
+
+2x Langschwert
+2x Not Today
+2x Regroup
+2x Uppman's Jacket
+2x Throwing Knife
+2x Press the Advantage
+2x Matchlock Musket
+1x Dark Gift
+2x Appealing to the People
+2x Polished Flintlock
+1x Paid Off
+2x Well Equipped
+2x Stratege
+2x Opulence
+2x Last Word
+2x Hidden Corridors
+2x Breastplate
+2x Shoddy Craftsmanship
+2x Hexenjagd
+2x Sea Legs
+2x Come Hither
+
+Additional notes:
+- Source archive post 12: GenCon 2023 Eisen Palmer's Take
+- Archive attribution/date: Agent006 — 2024-05-17

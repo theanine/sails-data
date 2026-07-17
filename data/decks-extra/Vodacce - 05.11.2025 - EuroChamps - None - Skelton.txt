@@ -1,0 +1,56 @@
+Faction: Vodacce
+Location: European Championships 2025
+Position: Unknown
+Date: 5/11/2025
+Author: R. Skelton
+Deckname: 
+Archetype: Switch
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Vissenta Scarpa
+1x Servo Scarpa
+1x Vittoria Anselmo
+1x Sibella Scarpa
+1x Cirilo Naucriparos
+
+1x The Great Game
+1x Crash the Party
+1x Parley Gone Wrong
+1x Decipher the Strands
+1x Plans within Plans
+
+1x Alcee
+1x Buratino
+1x Dante
+1x Angelo
+1x Legion's Caress
+1x The Red Sceptre
+2x Arson
+2x Bleed Out
+2x Bravos
+2x Collateral Damage
+2x Concealed Flintlock
+2x For the Family
+1x Matchlock Musket
+2x Murder
+2x Not Today
+2x Objection!
+2x Pack Tactics
+2x Rough 'em Up
+2x Stiletto
+2x The Pressure is On
+2x Unyielding Loyalty
+2x Uppman's Jacket
+2x Veronica's Guile
+2x Wrath of the Don
+
+Additional notes:
+- Source archive post 70: European Championships 2025 - Vodacce - R. Skelton
+- Archive attribution/date: Agent006 — 2025-05-11
+- The supplied source list totals 41 faction cards, one above the standard 40. It is preserved exactly as displayed.
+- Validation note: the transcribed faction deck totals 41 cards rather than the standard 40.

@@ -1,0 +1,68 @@
+Faction: Ussura
+Location: Gen Con 2023
+Position: 3-2 record
+Date: 8/6/2023
+Author: Deputy Greg Melnyk
+Deckname: 
+Archetype: Dueling
+Meta: Core
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Ekaterina Ilyanava
+1x Torsten Vakt
+1x Nazem ibn Umur
+1x Valeri Mikhailov
+1x Elina Georginova
+
+1x The Boar's Guile
+1x Leshiye of the Wood
+1x Marooned
+1x Parley Gone Wrong
+1x Filling the Ranks
+
+2x Improvised Weapon
+2x Breastplate
+2x Pull
+1x Appealing to the People
+1x I Know that Trick!
+1x A New Strategy
+1x Come Hither
+2x Bleed Out
+2x Triage
+2x Shoddy Craftsmanship
+1x Grandfather's Hammer
+2x Mireli Sabre
+2x Matushka's Sight
+2x Matushka's Efficiency
+2x Matushka's Command
+1x Strength of Ten
+2x Razrushitel
+2x Indomitable Will
+2x Stubborn
+2x My Fight, Alone
+2x Strong Hands
+2x Predatory Pursuit
+2x Mireli's Revision
+
+Notes:
+My Gencon deck.  I went 3-2 and each win was a different victory condition.  I lost a slugfest against Yevgeni and economic vs Eisen, if I recall correctly.  I started with the suggested starter deck and changed a few things.
+
+Marooned - I need to remember about the city action on it
+Ekaterina Ilyanava - MVP
+Nazem Ibn Umur - I didn't get much use out of him, would consider swapping for someone else.
+Improvised Weapon - I'll probably drop.  The economy for using it in dueling doesn't make up for its mediocre statline.
+Matushka's Command - MVP - Locking down a location is super strong.  Sending your vulnerable guys home is also a solid play.
+
+Additional notes:
+- Source archive post 25: Deputy Greg Melnyk's Ussura Gencon Deck 2023
+- Archive attribution/date: Agent006 — 2024-05-17
+- The author went 3-2 and reported that each win used a different victory condition. The losses were a slugfest against Yevgeni and an economic game against Eisen. The list began as the suggested starter deck.
+- Marooned — I need to remember about the city action on it
+- Ekaterina Ilyanava — MVP
+- Nazem ibn Umur — I didn't get much use out of him, would consider swapping for someone else.
+- Improvised Weapon — I'll probably drop.  The economy for using it in dueling doesn't make up for its mediocre statline.
+- Matushka's Command — MVP - Locking down a location is super strong.  Sending your vulnerable guys home is also a solid play.

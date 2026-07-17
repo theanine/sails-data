@@ -1,0 +1,78 @@
+Faction: Montaigne
+Location: GameHole Con 2024
+Position: 1st Place, Top Montaigne
+Date: 10/20/2024
+Author: Tom Sorenson
+Deckname: Horatio's Diplomats
+Archetype: Switch
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Horatio Lockwood
+1x Urraca de Murrieta
+1x Guillén de Murrieta
+1x Sir Jack Harding
+1x Léontine Giroux
+
+1x Réputation Méritée
+1x Midnight Shipment
+1x Contempt and Hatred
+1x Tea and Cakes
+1x Marooned
+
+2x Gallant Deeds
+2x Mastercrafted Rapier
+2x Broken-time
+2x Legendary Reputation
+2x Valiant Spirit
+2x Diplomatic Immunity
+2x Battle of Wits
+2x Éventail
+1x Blood Mark
+1x Tabard of the Fallen Musketeer
+2x Triage
+2x Tending the Wounded
+2x Relentless
+2x Quick Reflexes
+2x Main Gauche
+2x Bleed Out
+2x Appealing to the People
+2x Sea Legs
+2x Come Hither
+2x Heroic Intervention
+1x Not Today
+1x Dame of Swords
+
+Additional notes:
+- Source archive post 62: Gamehole Con 2024 1st place: Horatio's Diplomats
+- Archive attribution/date: TomS Epic Gaming — 2024-10-20
+- Tournament record described by the author: 3-0, with economic wins against Servo Vodacce and pacifist Castille, plus a Day 2 assassination against Strega Vodacce. Parenthetical card notes are preserved below.
+- Tea and Cakes — Let the Sword Decide
+- Gallant Deeds — solid inclusion
+- Mastercrafted Rapier — meh, matchups
+- Broken-time — meh, matchups
+- Legendary Reputation — solid inclusion
+- Valiant Spirit — reasonable
+- Diplomatic Impunity — didn't use
+- Battle of Wits — excellent
+- Éventail — didn't use
+- Blood Mark — saved me the game
+- Tabard of the Fallen Musketeer — 3-parry out strong
+- Triage — didn't use, Horatio/Odette Heal
+- Tending the Wounded — didn't use, Horatio
+- Relentless — Scary
+- Quick Reflexes — Solid
+- Main Gauche — didn't use, matchups
+- Bleed Out — strong
+- Appealing to the People — didn't use
+- Sea Legs — *sigh* gambled into, 1-of instead
+- Come Hither — saved me the game
+- Heroic Intervention — matchup, can be great
+- Not Today — Originally had 2 Not Today when building the deck, but hitting both in a gamble could collapse the whole game plan sending Horatio home, so cut 1 for 1 Blood Mark {was a lucky call}, especially since I added Leontine back in over Anghos, which could mean I could add Pull/Porte Travel, but I don't think I want to lock myself into mustering Leontine as Sir Jack and Guillen fit the gameplan better, in theory
+- Dame of Swords — For Horatio to launch a second +2 thrust, didn't use
+
+- Date is a best-estimate (10/20/2024).

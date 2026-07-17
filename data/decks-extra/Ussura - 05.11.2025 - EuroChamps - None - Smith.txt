@@ -1,0 +1,51 @@
+Faction: Ussura
+Location: European Championships 2025
+Position: Unknown
+Date: 5/11/2025
+Author: M. Smith
+Deckname: 
+Archetype: Switch
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Elina Georginova
+1x Ved'ma
+1x Ekaterina Ilyanava
+1x Torsten Vakt
+1x Pavel Ivanov
+
+1x Parley Gone Wrong
+1x Under Cover of Night
+1x Path to Poluchatel
+1x The Boar's Guile
+1x Winter's Winds
+
+2x Uppman's Jacket
+2x Corpse Speak
+1x Temnota
+2x Blood Like Winter
+2x Heroic Intervention
+2x Indomitable Will
+2x Iron and Velvet
+2x Justice Served Cold
+2x Matushka's Command
+2x Matushka's Efficiency
+2x Matushka's Sight
+2x Mireli's Revision
+2x Predatory Pursuit
+2x Pull
+2x Razrushitel
+1x Strength of Ten
+2x Strong Hands
+2x Stubborn
+2x Sunder
+2x Ussuran Intrigue
+2x Voice of the Gods
+
+Additional notes:
+- Source archive post 79: European Championships 2025 - Ussura - M. Smith
+- Archive attribution/date: Agent006 — 2025-05-11

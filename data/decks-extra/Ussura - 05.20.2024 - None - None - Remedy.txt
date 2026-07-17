@@ -1,0 +1,61 @@
+Faction: Ussura
+Location: Unknown
+Position: Unknown
+Date: 5/20/2024
+Author: Remedy
+Deckname: Raven Bacon
+Archetype: Dueling
+Meta: Core
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Ren
+1x Valeri Mikhailov
+1x Torsten Vakt
+1x Elina Georginova
+1x Ekaterina Ilyanava
+
+1x Parley Gone Wrong
+1x Shifting Tides
+1x The Boar's Guile
+1x Inspire Generosity
+1x Filling the Ranks
+
+2x My Fight, Alone
+2x Mireli's Revision
+2x A New Strategy
+2x Matushka's Sight
+2x Matushka's Efficiency
+1x Strength of Ten
+2x Mireli Sabre
+2x Razrushitel
+1x Grandfather's Hammer
+2x Appealing to the People
+2x Predatory Pursuit
+2x Boon
+2x Pull
+2x Triage
+2x Corpse Speak
+2x Iron and Velvet
+2x Sunder
+2x Strong Hands
+2x Indomitable Will
+2x Shoddy Craftsmanship
+2x Stubborn
+
+Notes:
+Inspired by many of the lists shared on this discord this has been my approach to Ussura out of core set. 
+
+Aim is to threaten kills with Yevgeni while building a board state that allows for Strong Hands cheeky claims or Indominitable will to obtain a slow Renown advantage and occasional surprise threat of Dominance Victory.
+
+The character choice for approach deck is quite flexible but Ekaterina offers a lot of control in the first round of the game and obtaining a strong merc with filling the ranks can result in a very powerful 1st round opener. It is slightly nombo with Inspired generosity but I find that card is more useful later game for additional gas as a catch up or when needing to go first. (I might change this to shifting tides depending on further play testing).
+
+Otherwise the deck aims to utilise strong thrust value cards and ready abilities alongside additional challenges (Iron + Velvet) to threaten strong wound potentional to the opponent. I'm still not sure whether you can fit the Muskett into Ussura given the smaller parley/hand size but it is something I continue to consider...
+
+Additional notes:
+- Source archive post 37: Ussura (Core Set) -> Assassination w/ strong control elements AKA Raven Bacon
+- Archive attribution/date: Remedy — 2024-05-20
+- The author describes threatening kills with Yevgeni while Strong Hands, Indomitable Will, and board control create secondary Renown or Domination pressure. The list is Core Set only.

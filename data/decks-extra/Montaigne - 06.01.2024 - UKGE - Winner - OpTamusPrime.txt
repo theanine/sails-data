@@ -1,0 +1,68 @@
+Faction: Montaigne
+Location: UK Games Expo 2024
+Position: 1st Place, Top Montaigne
+Date: 6/1/2024
+Author: OpTamusPrime
+Deckname: 
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Jean Urbain
+1x Horatio Lockwood
+1x Maxime de Lafayette
+1x Bastien Girard
+1x Léontine Giroux
+
+1x Épée Sanglante
+1x Réputation Méritée
+1x Parley Gone Wrong
+1x Marooned
+1x Until Morale Improves
+
+1x Porté Travel
+1x Tabard of the Fallen Musketeer
+2x Mastercrafted Rapier
+2x Broken-time
+2x Cavalier Hat
+2x A Heroic End
+2x Gallant Deeds
+2x Legendary Reputation
+2x Valiant Spirit
+2x Appealing to the People
+2x Bleed Out
+2x Pull
+2x Not Today
+2x Sea Legs
+2x You're Embarrassing Yourself
+2x Friends at Court
+2x I Know that Trick!
+2x Uppman's Jacket
+2x Blood Mark
+2x Come Hither
+2x Defending Honor
+
+Notes:
+I'd change appealing to the people to master of valeroux style in hindsight.
+
+Q: How did heroic end and sea legs go for you? I've been cutting them from my Montaigne lists lately to fit in other cards (musket/triage for high thrust) I realise now bleed out achieves the same thing as triage which is nice. Neat list and congrats!
+A: Heroic end is great for dragging some one down with you in a game of attrition. Sea legs was a recent addition. Mainly to keep oddette safe from some some unpleasant experiences v ussura recently. Not always useful but when it is it can be game saving. I used to play the musket but it's pretty inefficient. Costing you 3 cards for the first damage (musket, cost and discard) is a lot of investment and its telegraphed.
+Q: Yeah, I've just been using the musket for the 5 thrust… Cool to see someone else using Haratio too.
+A: He's been amazing for me
+Q: Only feel bad is when an opponent uses I know that trick back into him haha
+A: There's some talk about the games in the general chat
+Q: Did you try opulence is the other card I wondered about you have a lot of 2 cost cards?
+A: I've never ran it. It's rpt is so bad I'd rather just pitch another card rather than risk a bad gamble 
+Q: Yeah that's the never ending debate. It really weakens your gamble.
+Q: Why Master over Appealing?
+A: I think appealing to the people is a kind of bad card. Not great rpt and it's very much a win more card. Motvs replaces itself is stop 3 send 3 back which is great rpt
+Q: I see the big trick at the bottom now! The opponent adds a +1 Thrust forcing the opponent to stay in the fight.
+
+Additional notes:
+- Source archive post 40: 6-0 Montaigne at UKGE
+- Archive attribution/date: OpTamusPrime — 2024-06-02
+- The author said they would replace Appealing to the People with Master of Valroux Style in hindsight. Spreadsheet abbreviations were expanded where the supplied transcription identified the full card name.

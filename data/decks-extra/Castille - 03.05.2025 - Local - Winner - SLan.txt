@@ -1,0 +1,53 @@
+Faction: Castille
+Location: Local tournament
+Position: Winner (approximate evolving list)
+Date: 3/5/2025
+Author: SLan'
+Deckname: Castille Toolbox
+Archetype: Switch
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Soline el Gato
+
+1x "Prima" Rosa
+1x Sanjay
+1x "Madre" Dolores
+1x Maya de La Rioja
+1x Torvo Espada
+
+1x The Cat's Embargo
+1x Shifting Blame
+1x Castillian Caper
+1x Rumours of the Crimson Roger
+1x Let's Haggle
+
+1x Mysta
+2x Triage
+1x Adaptable
+2x Roll the Bones
+1x Robbery
+2x Uppman's Jacket
+2x Gold or Steel
+2x Main Gauche
+2x Improvising
+2x Carnaval
+2x Drinking Games
+2x Nothing Personal
+2x Night of Drinking
+2x Siesta
+2x Hidden Corridors
+1x Amour
+2x Concealed Flintlock
+2x Life in the Canals
+2x You Cheated!
+2x Taunt
+2x Tending the Wounded
+2x Raise the Stakes
+
+Additional notes:
+- Source archive post 65: My Castille Toolbox list
+- Archive attribution/date: SLan' — 2025-03-05
+- Approximate, evolving Tooth & Claw toolbox list transcribed from two angled photographs. Exact copy counts could not be determined, so faction cards use '?x'. Some cards may have been obscured or omitted.

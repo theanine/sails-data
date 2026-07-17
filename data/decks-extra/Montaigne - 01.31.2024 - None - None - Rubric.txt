@@ -1,0 +1,83 @@
+Faction: Montaigne
+Location: Unknown
+Position: Unknown
+Date: 1/31/2024
+Author: Rubric
+Deckname: 
+Archetype: Switch
+Meta: TaC
+
+Link1: https://discord.com/channels/643518732999589892/1006361189141446686/1202201104998211625
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Bastien Girard
+1x Henri Michelet
+1x Sir Jack Harding
+1x Jean Urbain
+1x Urraca de Murrieta
+
+1x Épée Sanglante
+1x Gutter Full of Roses
+1x Réputation Méritée
+1x Shifting Tides
+1x Tea and Cakes
+
+2x Mastercrafted Rapier
+2x Cavalier Hat
+1x Tabard of the Fallen Musketeer
+2x Defending Honor
+2x Master of Valroux Style
+1x A Heroic End
+2x Legendary Reputation
+2x Blood Mark
+2x Broken-time
+2x You're Embarrassing Yourself
+2x I Know that Trick!
+2x I'm Done with You
+2x Not Today
+1x Fratarnité!
+1x Croc de Lion
+2x Heroic Intervention
+2x Diplomatic Immunity
+2x Quick Reflexes
+2x Unsanctioned Duel
+2x Éventail
+2x Battle of Wits
+2x Concealed Flintlock
+
+Notes:
+Sir Jack Harding - This character is great.  Generally defensive, but you can set up situations where you funnel one of their characters into your Musket stack
+Jean Urbain
+Urraca de Murrieta - The combination with Gutter Full of Roses represents a potentially enormous swing in Renown, I had a 5 point swing on day 4 of a game which necessitated an all in attempt, which I was able to fend off.
+Épée Sanglante
+Gutter Full of Roses - This is a LOT of Renown, potentially need to be wary of factions that have the ability to alpha your characters just pilfering Renown off you.  Definitely needs a concerted effort to set up.
+Tea and Cakes - Can be used to help set up Gutter, or just selectively murder a character, or force them to burn actions/cards to evade you, was pretty impressed with this, understand it's now lower initiative, but not sure that's particularly impactful
+Fraternité - Never got used, improved version MIGHT be better, can see this staying as a 1 of to help out on your Gutter turn by giving you additional soak through Bastien
+Croc de Lion - Never drew it, but I can't envision this card being anything less than amazing
+Heroic Intervention - Unfortunately this ran into Night of Drinking every time I played it, but would have been enormously impactful.  Probably at it's worst against Castille, directly led to me losing game 1.
+Diplomatic Impunity - Pretty mediocre early, but is at least a 2/1 R/P card for Odette , which helps her survive a little better.  Didn't come up, but having reactive ways to flip location control, even if they're 0's, seems really strong
+Quick Reflexes - Incredibly good for defending Odette, both against incidental poke and also just being a 3 Riposte card for her when things get dicey.  Same applies for Bastien.
+Unsanctioned Duel - Whoops, all challenges.  This one's pretty great because you're almost guaranteed to get several bites at the apple to get someone dead.
+Éventail - Original version was mediocre, the updated version is a significant upgrade.  Consider throwing one of these on Jack or Jean so they hit the 3 Reflex breakpoint for Quick Reflexes.  Alternatively pair with a hat for the most fabulous Bastien who ever did get to 6+ Reflexes.
+Battle of Wits - While I lost the game I did it, I got to do this with Odette holding a fan, and sent 6 Lethal threat back at Patricia.  The change to no longer permit Riposte I think is significant for using this with other characters (Particularly during Épée Sanglante), but as a card specifically for Odette, this probably is an upgrade, which I'm actually very pleased with.  The Action on it is similarly great, and in general, this is exactly the kind of card I want to see for Montaigne.
+Concealed Flintlock - Only got to use it for base Riposte, I think because of how I'd build my version of the deck, I didn't get to see it really shine, but it's very plausible that you can pressure people's health with this and Bastien/Stranahan.
+
+Additional notes:
+- Source archive post 13: Rubric's Montaigne Deck 1-31-24
+- Archive attribution/date: Agent006 — 2024-05-17
+- The source included extensive card-by-card play notes; those inline comments are preserved below.
+- Sir Jack Harding — This character is great.  Generally defensive, but you can set up situations where you funnel one of their characters into your Musket stack
+- Urraca de Murrieta — The combination with Gutter Full of Roses represents a potentially enormous swing in Renown, I had a 5 point swing on day 4 of a game which necessitated an all in attempt, which I was able to fend off.
+- Gutter Full of Roses — This is a LOT of Renown, potentially need to be wary of factions that have the ability to alpha your characters just pilfering Renown off you.  Definitely needs a concerted effort to set up.
+- Tea and Cakes — Can be used to help set up Gutter, or just selectively murder a character, or force them to burn actions/cards to evade you, was pretty impressed with this, understand it's now lower initiative, but not sure that's particularly impactful
+- Fraternité — Never got used, improved version MIGHT be better, can see this staying as a 1 of to help out on your Gutter turn by giving you additional soak through Bastien
+- Croc de Lion — Never drew it, but I can't envision this card being anything less than amazing
+- Heroic Intervention — Unfortunately this ran into Night of Drinking every time I played it, but would have been enormously impactful.  Probably at it's worst against Castille, directly led to me losing game 1.
+- Diplomatic Impunity — Pretty mediocre early, but is at least a 2/1 R/P card for Odette , which helps her survive a little better.  Didn't come up, but having reactive ways to flip location control, even if they're 0's, seems really strong
+- Quick Reflexes — Incredibly good for defending Odette, both against incidental poke and also just being a 3 Riposte card for her when things get dicey.  Same applies for Bastien.
+- Unsanctioned Duel — Whoops, all challenges.  This one's pretty great because you're almost guaranteed to get several bites at the apple to get someone dead.
+- Éventail — Original version was mediocre, the updated version is a significant upgrade.  Consider throwing one of these on Jack or Jean so they hit the 3 Reflex breakpoint for Quick Reflexes.  Alternatively pair with a hat for the most fabulous Bastien who ever did get to 6+ Reflexes.
+- Battle of Wits — While I lost the game I did it, I got to do this with Odette holding a fan, and sent 6 Lethal threat back at Patricia.  The change to no longer permit Riposte I think is significant for using this with other characters (Particularly during Épée Sanglante), but as a card specifically for Odette, this probably is an upgrade, which I'm actually very pleased with.  The Action on it is similarly great, and in general, this is exactly the kind of card I want to see for Montaigne.
+- Concealed Flintlock — Only got to use it for base Riposte, I think because of how I'd build my version of the deck, I didn't get to see it really shine, but it's very plausible that you can pressure people's health with this and Bastien/Stranahan.

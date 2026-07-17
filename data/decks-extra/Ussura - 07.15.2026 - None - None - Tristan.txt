@@ -1,0 +1,48 @@
+Faction: Ussura
+Location: Unknown
+Position: Unknown
+Date: 7/15/2026
+Author: Tristan
+Deckname: Tristan's Yevgeni Dueling
+Archetype: Dueling
+Meta: BaS
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Ren
+1x Tomoe Sango
+1x Valeri Mikhailov
+1x Miyato and Ota
+1x Torsten Vakt
+
+1x Stand Your Ground
+1x Leshiye of the Wood
+1x The Boar's Guile
+1x Winter's Winds
+1x Filling the Ranks
+
+2x Mireli's Revision
+1x Grandfather's Hammer
+2x Indomitable Will
+2x Mireli Sabre
+2x Justice Served Cold
+2x Strong Hands
+1x Strength of Ten
+2x Razrushitel
+2x Stubborn
+2x Pull
+2x Matchlock Musket
+2x Courageous
+2x Bleed Out
+2x Relentless
+2x Bravado
+2x Iron and Velvet
+2x Sabotage
+2x Sunder
+2x Iaijutsu Strike
+2x Celerity
+1x Syrneth Compass
+1x Severing Arc

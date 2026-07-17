@@ -1,0 +1,57 @@
+Faction: Ussura
+Location: GameHole Con 2023
+Position: Unknown
+Date: 10/22/2023
+Author: tso
+Deckname: GameHole Con Ussura
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Elina Georginova
+1x Ved'ma
+1x Ekaterina Ilyanava
+1x Valeri Mikhailov
+1x Ren
+
+1x Filling the Ranks
+1x Shifting Tides
+1x Until Morale Improves
+1x The Boar's Guile
+1x Leshiye of the Wood
+
+1x Strength of Ten
+1x Grandfather's Hammer
+2x Pull
+2x Boon
+2x Matushka's Sight
+2x Matushka's Efficiency
+2x Matushka's Command
+2x Not Today
+2x Uppman's Jacket
+2x Matchlock Musket
+2x Mireli Sabre
+2x Predatory Pursuit
+2x Stubborn
+2x Razrushitel
+2x Indomitable Will
+2x Strong Hands
+2x My Fight, Alone
+2x Borets
+2x Iron and Velvet
+2x Sunder
+2x Mireli's Revision
+
+Notes:
+Ussura decklist i brought to gameholecon. I'm still decently high on Boon with Elina. A free renown shift, self-protection, and she can go next door and challenge if she wants. It survives while Come Hither is dead to me, from all the times Castille has Improvised it. Don't think I ended up using Valeri.
+
+Additional notes:
+- Source archive post 21: Tso's Ussura Deck Gameholecon 2023
+- Archive attribution/date: Agent006 — 2024-05-17
+- The author said this was the Ussura list brought to GameHole Con 2023, remained high on Boon with Elina, and did not think Valeri was used.
+
+- Date is a best-estimate (10/22/2023).

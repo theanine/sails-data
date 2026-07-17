@@ -1,0 +1,55 @@
+Faction: Vodacce
+Location: Gen Con 2023
+Position: Quarterfinalist
+Date: 8/6/2023
+Author: Nick Pruitt
+Deckname: 
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Cirilo Naucriparos
+1x Servo Scarpa
+1x Sarafina
+1x Vittoria Anselmo
+1x Vissenta Scarpa
+
+1x Contempt and Hatred
+1x Until Morale Improves
+1x The Great Game
+1x Plans within Plans
+1x Marooned
+
+2x Wrath of the Don
+1x Buratino
+1x Angelo
+1x Alcee
+2x Paid Off
+2x Opulence
+2x Veronica's Guile
+1x Unyielding Loyalty
+1x Shoddy Craftsmanship
+2x Rough 'em Up
+2x For the Family
+1x Not Today
+2x A New Strategy
+2x Bravos
+2x Liberating Goods
+2x Ambush
+2x The Pressure is On
+2x Pack Tactics
+1x Objection!
+2x Bleed Out
+1x I Know that Trick!
+2x Stiletto
+1x Legion's Caress
+1x Dante
+2x Come Hither
+
+Additional notes:
+- Source archive post 30: GenCon 2023 Vodacce Quarterfinalist - Pruitt
+- Archive attribution/date: Agent006 — 2024-05-17

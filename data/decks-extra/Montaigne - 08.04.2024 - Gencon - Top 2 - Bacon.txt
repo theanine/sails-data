@@ -1,0 +1,139 @@
+Faction: Montaigne
+Location: Gen Con 2024
+Position: 2nd Place, Top Montaigne
+Date: 8/4/2024
+Author: D. Bacon
+Deckname: Montaigne Diplomacy
+Archetype: Passive
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Maxime de Lafayette
+1x Lord Stranahan III
+1x Sir Jack Harding
+1x Guillén de Murrieta
+1x Urraca de Murrieta
+
+1x Shifting Tides
+1x Réputation Méritée
+1x Tea and Cakes
+1x Until Morale Improves
+1x Contempt and Hatred
+
+2x Breastplate
+2x Concealed Flintlock
+1x Porté Travel
+2x Gallant Deeds
+2x Quick Reflexes
+2x Blood Mark
+2x Diplomatic Immunity
+2x Battle of Wits
+2x Éventail
+2x Devotion
+2x Tending the Wounded
+2x Pull
+2x Fratarnité!
+2x Not Today
+2x Sea Legs
+2x I'm Done with You
+2x Hidden Corridors
+2x Come Hither
+2x Appealing to the People
+2x Uppman's Jacket
+1x Tabard of the Fallen Musketeer
+
+Notes:
+The goal of this deck was to win on Renown, either outright or during tie-breakers on Day 5. This deck’s only job is to rack up money as fast as possible and stay alive doing it.
+
+Deck Construction
+T&C gave Montaigne a big boost to the money game and we’re going to use almost all of it
+
+Characters
+Max: Inf3 and doesn't get dinged by BloodMark and Porte, almost always a round 1 pick, particularly against Vodacce 
+Stranahan: Incredibly average stats and his Technique won't help much, but he can protect your Diplomats and has a whopping 4 Finesse to boot his way to a parry-out easily
+Sir Jack: Sir Jack is a prince, put him on a high renown location turn 1 of any day and watch him kick a Duelist or a high influence support character to the curb.  That and the idea of a tiny British man flinging Yevgeni out a window is priceless
+Guillen: Odette can move money if someone fights you, but Guillen guarantees money movement if your dancing around with fellow cowards, having both in the early days of a match is a must if your not getting chased around by duelists 
+Urraca: If you know deep in your bones someone is going to Tides (lots of renown left over on a location or scary mercenaries on multiple locations) bring out Urraca to stack up more money.  If your opponent is also playing the money game, she’s great at spreading it out 
+
+Schemes: 
+
+Tides: Shifting Tides has one job, make mercenaries go away, its good at that job
+
+Reputation: Reputation Merite is usually going to be your Day 1 play because it has high initiative and gets you an extra dude, this necessitates taking Max day 1 as well because nothing sucks more than getting your Pressure denied by Objection
+
+Tea and Cakes: Some folks hate on Snack Time but it's a free move, free money movement, and free enemy movement. Between Oddette, Guillian and Tea and Cakes, you can shift 3 renown from one location to another.  Imagine someone stacking 3 renown on the forums, stacking up all their most dangerous Duelists on that location, then everything shifts over to the Grand Bizarre where they have no presence at all.
+
+Until Moral Improves: This scheme is in here in case you are behind against fight decks. I know what you're thinking, “But Derek, -2 Penache is crippling!” and you might be right if Odette didn't have the highest Panache in the game. A five card hand hurts but the ability to recruit a merc, then stand up, then claim the location with extra merc influence can flip a location.  Another fantastic use is telling a Duelist/Yevgeni to sit down. That shift in action economy can turn the tide of a day quickly
+
+Contempt and Hatred: Contempt is like Tides, it has one job, make mercenaries go away; being able to win locations on a tie is icing on the cake
+Faction Deck:
+
+The entire deck revolves around grabbing money, moving around, and avoiding fights (with one exception).
+
+Breastplate: Blocks a hit, this is in here just to turn a 2 Parry Blood Mark able to stop 3 threat
+Concealed Flintlock: Extra Parry, the Approach deck is full of 1 Combat characters, works well
+Porte: Usually a Parry-Out, but moving someone (or several someones) from the middle of nowhere to a contested area is always valuable 
+Gallant Deeds: Mostly here for the great RPT, but standing up a dude to claim when everyone else is engaged can turn a location
+Quick Reflexes: Avoid getting bled-out, Stiletto’d, Relentless’d, etc
+Blood Mark: Interesting thing about Blood Mark, it's an action and not a CITY action, don't be afraid to bring Odette and Max from home to a location with high renown day 1 turn 1 just to establish absolute dominance of that area with 6 influence on-location right off the beat
+Diplomatic Impunity: Better in the late game when you have more diplomats, this can however enable a sneaky Day 1 Dominance victory if your lucky
+Battle of Wits: This is the exception to violence I was talking about, use Battle of Wits to either put down low influence Duelists or snipe a high influence support character.  Use an influence boosting equipment first to really stack up the damage
+Eventail: The extra Influence while standing is great, but the real value is the extra Finesse, bringing Guillien to 2 Finesse almost guarantees that he’ll get a Parry-Out during a duel.  Getting Urraca to 3 Finesse is a magic number with Quick Reflexes
+Devotion: Devotion is a controversial card in most decks, but in any deck which is specialized, it is vital.  This is another card that gains value if your A. Paying attention to your discard pile and B. You need to draw an answer to a delicate board state.  There will be times when you are facing down Yevgeni next action no matter what you do and just NEED to pull a Parry-Out card; Devotion will either A. Get you that card outright or B. bring you 3 cards closer to that Parry-Out. Pitching two cards of nebulous value in a fight for one answer is an easy choice
+Tending the Wounded: Keeps Stranahan alive
+Pull: Never forget that Pull works for friend and foe, occasionally you need to pull Odette out of a sticky situation, or yank a high influence character off a location stacked with renown
+Fraternite: Turn a merc into a meat-shield for Odette
+Not Today: Everyone runs Not Today
+Sea Legs: A must-have answer to Pull, Taunt, Come Hither, Last Word, etc.  You will be tempted to pitch it to pay for something else, the moment you do, they’ll pop Dante and drag Odette kicking and screaming to a murder-pile; never, ever pitch your answers to pay for something else 
+I'm Done With You: Another Parry-Out
+Hidden Corridors: Parry-Out with a twist, sometimes the maneuver can move you onto a location you need to be in to bump the Influence over the top
+Come Hither: Works for friend and foe, useful for pushing Duelists to the middle of nowhere or bait-and-switching your own high influence character to a secondary renown location (which you can make primary renown location with Odette and/or Guillen)
+Appealing to the People: Very useful with Eventail, grab a location and then stand up to force your opponent to over-commit their high influence characters
+Uppman's Jacket: Mutually exclusive with Eventail (who wears a fan and a jacket? That's basically socks with sandals, gauche in the extreme) but kicking up Odette to 4 Influence and then throwing a Battle of Wits at Yevgeni is very funny
+Tabard: Your best Parry-Out, you can slap it on a merc to stand in front of Odette, but that should only happen if Stranahan is dead and the merc is Duelist so as to benefit from Odette’s city action (So really only Leja and Carmella)
+Day by Day Guidelines
+
+Day 1: Your default Day 1 is going to be Max and Reputation Merite, Max gets you another 3 influence character to ensure Voddace has a much harder time pulling off a day 1 Dominance Victory, and he’s your only sorcerer, so if you pull a Bloodmark or Porte they aren't dead cards in your hand. Reputation gets you another body, who that body is depends on your opponent: If you know your opponent is going to throw fights and you don't have any Parry-Out cards in hand, grab Stranahan, otherwise grab Guillen to move money or if you’ve got all 2 or 3 renown on lock, grab Urraca to put more money on the table the next day.  If you’ve got a crowd around your squishies, bring in Jack to kick em to the curb.
+
+Day 1 is about grabbing money and staying alive, if you’ve got the magic hand of Battle of Wits and a few movement cards, you could theoretically get a turn 1 dominance, but I've only ever pulled that off day 2.  Have Max either back up Odette to ensure the recruitment goes off uncontested or send Max to buy up a merc so you’re two bodies ahead if you have the first turn.
+Day 2: Now things start getting a bit more flow-chart-ish.  Your dude should be Jack if you haven't grabbed him already because he can kick other dudes around.  Day 1 is usually 1 renown on every location, but day 2 has more stacked money, thats where Jack shines.  The scheme is a bit more flexible, if you see some scary mercenaries, Tide or Contempt is your friend, otherwise go Tea and Cakes for movement and to synergize with Jack.  If you're down on bodies, pick up Until Morale Improves to win on action economy.
+
+If you're up on influence and up on bodies, play aggressively. Move Jack to the spot with the highest renown and have him kick whoever they send to the curb.  An intelligent opponent will send someone with an inbuilt movement effect (Soline or Elina come to mind), watch for this and don't jump the gun, always kick a duelist or a high influence character to the middle of nowhere with Jack.  This will either make that character a non-issue for the day or force your opponent to play an answer early, both are valuable.
+It's a well-known trope that Montaigne always wants to camp out at the forums, and usually that's true, but with Tea and Cakes we can subvert that perception to our advantage. Your opponent will put their gifted renown from Tea and Cakes pretty much anywhere but the Forums to force you to spread your forces out or pick fights to drag it back.  Odette and Guillen say that any location can be our ‘Forums’.
+
+Force your opponent to over-commit to the forums, and then send your characters to the secondary renown location and start siphoning money out from under them.  Use Jack at the Forums to grab a renown with Tea and Cakes and grab one of their more harmless characters (someone engaged or a non-combatant).  By the time your opponent realizes that the Forums coffers are empty in a turn or two, it will be too late, they’ll either have to play some expensive answers or shake their heads as they witness you bucketing renown like water out of a leaky boat.
+Day 3+: From here on out it's all vibes.  You should have so much renown by this stage in the game that your opponent is sweating bullets. If you're at 5+ renown, spread your money as wide as you can, if you get even one location on lock, that's it and your opponent knows it.  This is normally where I put Until Morale Improves ( UMI from here on) to ensure I'm getting at least one location.  Jack will shut someone down by booting them, UMI will shut someone down by sitting them down. That means you're up by 2 on action economy, and you should have a few cards saved up by this point to mitigate the -2 panache.
+
+Mustering Urraca will ensure that there’s more money for your opponent to keep track of, again, make sure it's spread out. Don't be afraid to keep some people Home at this stage if your up on money, watch where they put their characters and move high influence characters where they need to be to ensure a balance of location dominance and safety; all if your careful planning will be for naught if Valeri comes screaming out of Home and dunks on Odette Batman-style.
+City Deck Cards: 
+You always want to be on the lookout for a few city deck cards that will turn a calculated advantage into to a sure victory, but more often than not the City Deck is full of dangerous tools for your opponent, given the generally low Initiative this deck’s schemes have:
+
+Tide or Contempt the following if you see them: 
+Equal Claim, Crabs in a Bucket, Chance Meeting, Syrinth Hand, So It Begins: all of these events either mess with taking locations, erase the advantage of characters and renown you’ve gathered, or in the case of Syrinth Hand, just flat out kill you, Parry-Out or not.  If you see one, Contempt; if you see two, Tides
+
+Mercenary recruitment depends on board state: if you're down on dudes, grab a merc, if you're up on dudes and only one merc is on a location, Contempt it away so your opponent doesn't have the opportunity to grab them up.  Using Tides on one merc is just asking for two mercs to come up on the flop, only Tides away 2+ mercs.
+
+The exception to this is Penya, this deck is incredibly movement focused and if you see Penya, grab up the little scamp and let him enable your bait-and-switch money siphoning schemes. 
+
+Also remember that Gustavo and Giacinto are Diplomats as well! Add them to the ranks when opportunities allow.  Most opponents will see Gustavo and Giacinto as low-priority recruits if a combat monster like Carmella is up for the taking, use this to your advantage and grab up more Diplomat buddies!  There’s nothing quite like having 4 diplomats on the forums and watching Yevgeni get all the threat he throws at you get bounced back by Diplomatic Impunity.
+Play Tips
+-The deck is one quarter Parry-Out cards that only block and send no threat back, this means on average if you gamble twice, you're going to get a Parry-Out card.  Keep your discard pile spread out so you can do some card-counting before you gamble, if you’ve got a Hidden Corridors in hand and your discard pile is full of Blood Marks and I’m Done With You’s, save yourself the risk and play the Hidden Corridors instead of gambling.
+
+-Odette should always be fashionably late to the party; ensure she’s always protected, even a single bad duel can end our dainty diplomat. 
+
+-Only put the minimum number of characters on a location to take it with Influence, keep the rest home.  If you preemptively stack up on a high renown location with everyone you have, you're just asking for a big control card like Matuska’s Command or Indomitable Will to ruin your day and have you scrambling for answers. If you have some people in reserve (particularly Max since he can move people with Pull, Bloodmark or Porte) you can more easily wiggle out of a single-area control situation
+-You’ve got 11 movement cards in the deck use them! Don't feel the need to overcommit to a single area, sometimes it's enough to grab two locations and make your opponent decide where they’re going to put the lion’s share of their forces, then move like the wind and leave them high and dry in the middle of nowhere.  Your opponent has answers to you moving his characters (Sea Legs, Stubborn, etc.), but he’ll have far fewer answers to you moving your own people.  Bait out fights to engage his Duelists and then book it and take your money with you. 
+
+-Prioritize keeping answers to playing actions: Every other faction wants to be proactive, Ussura wants to get in fights, Eisen wants to recruit mercs and start fights, Castille wants to steal stuff and drain your hand, but this decks wants to carefully place high influence people in places with a lot of money and wait.  Grab a location with money, then pass, they’ll play a control card, you’ll play an answer from hand as a reaction, then you’ll pass, and you’ll pass and pass and pass and pass.  Once you have a location with the lion’s share of money, you don't need to do anything.  Keep your answers in hand and if you don't have answers in hand, Devotion/Uppman’s Jacket to try to draw one.  You should only be as proactive as you absolutely need to be otherwise you should sit there on a pile of money like a spider in its web, patiently waiting for your opponent to run out of things to do.  This is admittedly an extremely boring way to play the game, but by Theus it works
+
+Q: Why not "You're Embarrassing Yourself" for the cancel to a merc challenge.  With a deck that is all about not fighting, I think it may have a place?
+A: I seriously thought about it, and it was in the original iteration of the deck but a combination of high expense, incredibly mediocre RPT, and it's inherently situational nature, made it a lower priority than a true parry-out card, which does the same effect for one card rather than two, or an answer to some shenanigans like Sea Legs
+
+Additional notes:
+- Source archive post 55: D. Bacon's GenCon 2024 Montaigne Diplomacy - 2nd Place
+- Archive attribution/date: Baconator — 2024-08-06
+- The author's stated goal was to win on Renown (including Day 5 tie-breakers), accumulate money quickly, and survive. Abbreviated spreadsheet names were expanded where unambiguous.

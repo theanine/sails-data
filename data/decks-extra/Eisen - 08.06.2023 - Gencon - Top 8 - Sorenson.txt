@@ -1,0 +1,214 @@
+Faction: Eisen
+Location: Gen Con 2023
+Position: Quarterfinalist
+Date: 8/6/2023
+Author: Tom Sorenson
+Deckname: Chip Damage
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Kaspar Dietrich
+
+1x Rena Klingenhalter
+1x Terrell Brandt
+1x Rosine Friese
+1x Daniella Dietrich
+1x Otto Streit
+
+1x Armed and Marshaled
+1x Let's Haggle
+1x Let the Sword Decide
+1x The Song of Eisen
+1x Midnight Shipment
+
+2x Regroup
+1x Uppman's Jacket
+2x Langschwert
+2x Not Today
+2x Throwing Knife
+1x Kaspar's Panzerhand
+2x Press the Advantage
+2x Matchlock Musket
+1x Dark Gift
+2x Move Along
+2x Appealing to the People
+2x Polished Flintlock
+2x Bleed Out
+2x Well Equipped
+2x Unsavory Salve
+1x Stratege
+1x Opulence
+2x Last Word
+2x Iron Reply
+2x Breastplate
+2x Tending the Wounded
+1x Shoddy Craftsmanship
+2x Fight Through the Pain
+
+Notes:
+Initial Deck Idea
+Generally speaking, I intended this to be a midrange deck that could win with any of the three victory conditions. The major idea I wanted to experiment with was shrugging off challenges while pushing through small amounts of damage at a time, not necessarily focusing on initiating challenges myself. I wanted only-parry cards (ex. Regroup) to end duels (if you send no threat back, the duel ends), and I wanted to use the guns (ex. Polished Flintlock) to whittle down characters.
+
+Unsavory Salve's ability to erase a threat and turn it into a wound had me salivating over the idea of achieving both of those goals at the same time. Specifically, it could turn Appealing to the People, Breastplate, and Kaspar's Panzerhand into 3 or 4 parry cards, that inflicted an unblockable wound and ended the duel, effectively erasing the value of my opponent's Engage Action (challenge). Even getting an unlucky Opulence Gamble could at least end the duel and deal a wound. Important remainder though, you can only trigger one Technique per combat round, so you can't use 2 Unsavory Salves to cancel 2 Thrust (ex. Tending the Wounded). In addition, if your weapon is destroyed or stolen, you lose the Salve.
+
+Lastly, we packed 15 attachments into the deck to have an attachment density greater than 1/3 to make Otto likely to draw a card off his ability. Throwing Knives were primarily included to hit that threshold and to help enable Last Word.
+
+*Maniacal Laughter*
+
+For those of you who clicked and are new to the blog, I will let you know that I can go on for quite a while about very intricate strategic ideas. Welcome!
+
+*courtier bow*
+
+While there is only 1 leader to choose from, Kaspar is strong with his big butt (9 resolve) and his ability to recruit at 4 influence. The former lets him refuse challenges he doesn't want, and the latter lets him recruit strong Mercenaries with minimal card disadvantage.
+
+Approach
+Otto‘s straightforward. Muster him round 1 of every game to draw an extra card each turn.
+
+Rena was included to shield my weaker characters/mercenaries by allowing for multiple intervenes a turn, even while engaged.
+
+Daniella gives an extra challenge to any reasonable merc I recruit, even while both are engaged, which also lets me get additional value from attachments.
+
+Terrell can potentially net me a bonus card if he gambles into an attachment. (One of my most underrated cards.)
+
+Rosine can engage characters and really hurt sorcerers, 5th include.
+
+Midnight Shipment and Let's Haggle, I included them initially to put out extra city cards that I could pay for, even though I was thinking lowest initiative went first. Finding out the night before that it was highest initiative was a major boon.
+
+Armed and Marshaled seemed great as I have a ton of attachments and engaging a character is great.
+
+Let the Sword Decide seduced me with its “Draw a Card” text.
+
+Song of Eisen seemed okay, but it was Eisen specific and getting back a merc to buy later seemed reasonable in addition to the Renown.
+
+Faction
+Dark Gift, Otto enabler. Once per day extra mobility or healing seems great. 3 riposte is nice.
+
+Kaspar's Panzerhand, Otto enabler, Unsavory Salve combat. 4 parry is strong, but while all of the effects seem powerful, likely too expensive/situational to equip often.
+
+Langschwert, Otto enabler, Unsavory Salve enabler. (Another incredibly underestimated card.)
+
+Polished Flintlock, Otto enabler, Unsavory Salve enabler, Last Word Enabler. Inflict unpreventable chip/finishing damage.
+
+Unsavory Salve, Otto enabler, see above.
+
+Breastplate, Otto enabler, Unsavory Salve combat, wanted to equip it to help mitigate damage.
+
+Matchlock Musket, Otto enabler. Inflict unpreventable chip damage. (Underestimated)
+
+Throwing Knife, Otto enabler, Unsavory Salve enabler, Last Word Enabler (underestimated)
+
+Uppman's Jacket, Otto enabler. Maybe have the +1 Influence be relevant
+
+Fight Through the Pain, heal a wound to keep me fighting. (Incredibly underestimated)
+
+Iron Reply, unpreventable wound
+
+Last Word, unpreventable wound in combat even if bad RPT and possibly push people around (underestimated)
+
+Move Along, issue additional challenge even while engaged
+
+Press the Advantage, almost cut this card due to the 2-cost. Maneuver against an engaged enemy felt overcosted, but I figured I would hold onto them for the ability to engage and send home an enemy in case I happened to build up cards in hand.
+
+Regroup, 2-Parry combat ender
+
+Stratege, a little bit of extra moving surprise card, just in case, reasonable RPT
+
+Well-Equipped, En-guard a character
+
+Appealing to the People, Unsavory Salve combat, potentially En-guard a character
+
+Bleed Out, finish off a character weakened by chip damage
+
+Not Today, panic added the 2nd copy over 2nd Uppman's Jacket Friday night to protect against potential shenanigans like Yevgeni or Heroic End, which scarred me early in my playtesting against myself.
+
+Opulence, 2 cards for 1 card!
+
+Shoddy Craftmanship, just in case a non-unique attachment needs to die
+
+Tending the Wounded, 3 threat mitigation in a duel
+
+{Humph, that wasn't quite a ridiculously detailed as I was hoping…}
+
+1. Always going first with Midnight Shipment and Let's Haggle in addition to occasionally the others was incredibly powerful for getting to all of the Mercs/attachments from the City Deck I wanted
+2. The City Action on each of those and Armed and Marshalled were all incredible/unexpected by my opponents
+3. Turn 1 Domination is real and scary especially as I'm a value deck
+4. Whiffed 8 times trying for an attachment with Otto, want more attachments
+5. Rena did work, although Langshwert was the true hero
+6. Fight Through the Pain is one of the best cards in the game, supports overwhelming-force combat ideaology (briefly send as much threat as possible, ideally 2 or 3 above your restricted hostilities)
+
+Otto, added in 2nd copy of Uppman's Jacket and 2 copies of Corpse Speak almost exclusively to raise the odds of hitting with Otto to get an extra card to discard to costs. Due to all of the whiffing, he was very underwhelming a lot of the times, but I haven't given up on him yet.
+
+Rena, did not use her Engage a weapon to intervene ability once, but wrecked some face with her 3 Combat 3 Finesse when she had a Langschwert equipped. Throwing Knives was also a reasonable 0-cost way to get her up to 3 combat.
+
+Daniella, came in only a couple times when I had strong mercs. Strong in those situations though. Okay duelist against pacifist factions. Is the only user for the addition of the Corpse Speaks.
+
+Terrell, didn't particularly shine in the tournament but in post-tournament games has been a major standout. Being able to play Musket from hand followed by Panzerhand without losing either after the duel is incredible. 5 resolve is major as well.
+
+Rosine, considered using her to help me prevent the domination victory, but basically never particularly felt like bringing her out as my combat was doing so well. Ultimately cut her for Phillip Hase
+
+Phillip Hase, the movement reaction on equip feels so good to have in my pocket. The 2 influence feels nice too. (And another 3 combat character is always appreciated with the amount of combat I initiate.)
+
+Midnight Shipment, fantastic. The “I go first” card (highest initiative) that can flip up another strong card to take (or get taken). The movement City Action is also fantastic for catching people off-guard, like sending your newly recruited Merc off to fight an engaged character.
+
+Let's Haggle, fantastic. Effectively a second “I go first” card. Attachments are generally great to flip up for combat based decks as well. The ability to snipe the attachment while not on the Grand Bazaar is quite nice, as is the discount to maintain card advantage.
+
+Armed and Marshaled, that expend is great. As is the ability to get back a Langschwert to equip or a Musket to use as a deadly combat card.
+
+Let the Sword Decide, solid. Will basically always draw Eisen a card and can cancel fun things like Roll the Bones or Veronica's Guile.
+
+Song of Eisen, I keep it for the almost guaranteed Renown gain but rarely play it.
+
+Corpse Speak, attachments 17 and 18 for Otto reliability. Will be played very infrequently for its effect, however, there are quite a few reasonable Risks worth having Daniella replay.
+
+Dark Gift, solid.
+
+Kaspar's Panzerhand, great with Terrell. Might be nice against Montaigne, but I have yet to spend 2 to equip it, and I doubt I will often…ever?
+
+Langschwert, one of the best cards in the deck. The ability to throw an extra threat in your challenge and then to stack another on your haymaker follow up is enough to kill a lot of characters. 0-cost too. So good.
+
+Polished Flintlock, only came down once, but I was giggling about it for a couple days afterwards (maybe played twice). With Opulence upped to 2-of, it seems quite nice if I only have to spend 1 card for it. The threat of 1 more damage is definitely worth it and having another Last Word enabler is great.
+
+Unsavory Salve, never played it. Somewhat afraid of Shoddy, but mostly I fought factions where I didn't want the duels to end, no Montaigne opponents, and I was hunting boar. Stays in the deck as an attachment for Otto though. Likely gets pushed out as new attachments become available.
+
+Breastplate, never wanted to play it in combat unless to potentially fend off a final strike. Never wanted to use 2 cards (itself + 1) to equip it. Otto fodder.
+
+Matchlock Musket, oh man I think people are sleeping on this card. The 5 threat is absolutely incredible as it allows you to overwhelm an opponent's dueling defenses. It seems like a lot of people are enamored with cards that give 3 Riposte/Parry (I was too), but if you play a Musket with a Langschwert charge on a 3 combat hero, there 3 defense becomes literally meaningless. Turns their Appealing to the People into an Opulence. I did this to so many players and they just stared at it until they realized they just lose to it. The fact that Terrell can play this for free is incredible. The fact that Otto pulls it is great. The fact that you can also equip it to finish off a wounded card and then keep pumping out damage is delicious but generally its secondary function. This is the poster child of overwhelming-force combat. It isn't about surviving your opponent's threat with Riposte/Parry on your Gambles, its about surviving with Resolve and killing them almost instantly, even if it costs a card from hand. (Then you can gamble after to mitigate some of the return threat.)
+
+Throwing Knife, quite reasonable at enabling Rena and other “equipped” effects like Well-Equipped. The extra thrust can matter too and if it inflicts a wound, it is a better return-on-investment than all of my other unpreventable wound inflictors like Bleed Out.
+
+Uppman's Jacket, Otto fodder. Not a bad card and the +1 Influence can certainly matter, but Kaspar's 4 on recruit is usually enough.
+
+Fight Through the Pain, one of the best cards in the game. For the same overwhelming-force reasons as Musket, it trades the valuable attachment tag for a wound heal that happens after restricted hostilities. So, if someone Musket + Langschwerts me with a 3 combat character, as long as I don't die, this effectively has 4 Parry, in addition to the 5 thrust. Chef's kiss. Even though I brought it for the action heal, I would be hard pressed to ever not save it for combat, but it can get you above the 3 health threshhold to enable one round of surviving combat or refusing duels etc. Bring me all of the cards that effectively negate R/P defense.
+
+Iron Reply, meh. Haven't gotten into many situations where this can just finish off a character. Next card I would cut if I have to. Considered running New Strategies over them, but I don't want to completely cut off the Renown win.
+
+Last Word, 0-cost enemy movement is so helpful in so many ways. Move out a possible intervener. Push out influence to enable a claim. Send someone over to your smasher, etc. This card did so much work for me and no one ever saw it coming.
+
+Move Along, great, additional challenge to kill a character or send them home engaged for 2 total cards.
+
+Press the Advantage, I still never want to pay for this as combat card, unless I'm about to get an Assassination. But, the ability to engage and send someone home is so strong, especially since I frequently have a card advantage with Otto (post attachment increase) and Kaspar's 4 influence recruit.
+
+Regroup, decent movement tool. Usually don't want to be the one ending duels. It stays for the movement.
+
+Stratege, a wanted more movement after seeing the Vodacce/Solines out there. Never played it in the tournament … or after yet…However, since it is not a “City” Action, it could even move my engaged characters out of home, so I can follow up with Well-Equipped or Move Alongs!
+
+Well-Equipped, obviously excellent
+
+Appealing to the People, if it lets me En garde, it is solid, but the requirement to control the location is not meaningless. 3 Parry isn't terrible against those final gambles.
+
+Bleed Out, finishing off a character is worth 2 cards. 1 Riposte 3 Thrust isn't bad either.
+
+Not Today, cut entirely as I was the threat, not the threatened. Did save Otto from a Yevgeni once though. Not worth including… probably
+
+Opulence, deck contains a bunch of 2 cost cards and I am frequently chasing down city cards. With the deletion of Not Today, the odds of flipping two terrible gamble cards for maintaining a duel are acceptable
+
+Shoddy Craftmanship, why kill the attachment when you can kill the character? (Cut)
+
+Tending the Wounded, used once to heal 4, was okay. 3 parry is fine, other cards are better. (Cut)
+
+Additional notes:
+- Source archive post 9: GenCon 2023 Eisen QuarterFinalist - Sorenson
+- Archive attribution/date: Agent006 — 2024-05-17

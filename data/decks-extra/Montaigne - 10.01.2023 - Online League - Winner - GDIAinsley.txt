@@ -1,0 +1,53 @@
+Faction: Montaigne
+Location: New In Town Online League
+Position: 1st Place
+Date: 10/1/2023
+Author: GDIAinsley
+Deckname: Sorcerous Montaigne
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Henri Michelet
+1x Bastien Girard
+1x Maxime de Lafayette
+1x Léontine Giroux
+1x Jean Urbain
+
+1x Réputation Méritée
+1x Épée Sanglante
+1x Until Morale Improves
+1x Shifting Tides
+1x Marooned
+
+2x Not Today
+2x Uppman's Jacket
+2x Matchlock Musket
+2x Defending Honor
+2x I'm Done with You
+2x Appealing to the People
+2x Cavalier Hat
+2x Master of Valroux Style
+2x Pull
+2x Legendary Reputation
+2x Opulence
+2x Gallant Deeds
+2x Triage
+2x Broken-time
+2x You're Embarrassing Yourself
+2x Blood Mark
+2x Valiant Spirit
+1x Tabard of the Fallen Musketeer
+2x Status Matters
+2x Mastercrafted Rapier
+1x Porté Travel
+
+Additional notes:
+- Source archive post 14: Sorcerous Montaigne - 2023 New In Town Online League Winner
+- Archive attribution/date: Agent006 — 2024-05-17
+
+- Date is a best-estimate (10/1/2023).

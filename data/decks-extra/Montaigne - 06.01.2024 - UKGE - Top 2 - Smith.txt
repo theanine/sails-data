@@ -1,0 +1,52 @@
+Faction: Montaigne
+Location: UK Games Expo 2024
+Position: 2nd Place
+Date: 6/1/2024
+Author: Mike Smith
+Deckname: 
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Maxime de Lafayette
+1x Jean Urbain
+1x Léontine Giroux
+1x Bastien Girard
+1x Henri Michelet
+
+1x Épée Sanglante
+1x Let the Sword Decide
+1x Réputation Méritée
+1x Marooned
+1x Parley Gone Wrong
+
+2x Legendary Reputation
+2x Bleed Out
+2x Friends at Court
+2x Not Today
+2x Defending Honor
+2x Pull
+2x I Know that Trick!
+2x Appealing to the People
+1x Tabard of the Fallen Musketeer
+2x Mastercrafted Rapier
+2x Blood Mark
+2x Gallant Deeds
+2x Cavalier Hat
+2x A New Strategy
+2x Disarm
+2x Liberating Goods
+2x Master of Valroux Style
+2x Tending the Wounded
+2x You're Embarrassing Yourself
+2x Broken-time
+1x Porté Travel
+
+Additional notes:
+- Source archive post 41: 2nd Place Montaigne UKGE
+- Archive attribution/date: Mike Smith — 2024-06-02
+- Obvious spelling variants were normalized to canonical card names; otherwise the supplied transcription was preserved.

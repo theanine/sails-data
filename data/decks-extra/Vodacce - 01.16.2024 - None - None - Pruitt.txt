@@ -1,0 +1,63 @@
+Faction: Vodacce
+Location: Unknown
+Position: Unknown
+Date: 1/16/2024
+Author: Nick Pruitt
+Deckname: Murder Most Foul
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Cirilo Naucriparos
+1x Servo Scarpa
+1x Sarafina
+1x Vissenta Scarpa
+1x Sibella Scarpa
+
+1x Contempt and Hatred
+1x Until Morale Improves
+1x The Great Game
+1x Let the Sword Decide
+1x Plans within Plans
+
+2x For the Family
+2x A New Strategy
+2x Liberating Goods
+2x Bravos
+2x Ambush
+2x Wrath of the Don
+1x Buratino
+1x Angelo
+2x The Pressure is On
+1x Alcee
+2x Pack Tactics
+2x Paid Off
+2x Bleed Out
+2x Opulence
+2x Stiletto
+2x Veronica's Guile
+1x I Know that Trick!
+2x Unyielding Loyalty
+1x Legion's Caress
+2x Shoddy Craftsmanship
+1x Dante
+2x Rough 'em Up
+2x Come Hither
+
+Notes:
+@nickpruitt runs a really effective Vodacce assassination deck, and his showing at Gen Con ended up leading to Servo Scarpa (the linchpin of his strategy) being the one to kill the fifth Musketeer in the player-driven story.
+
+The assassination deck is a bit of a setup, and Nick may speak on it of he sees this and has time. Basically it hinges on using cards like Ambush and Rough Em Up in conjunction with Servo to score effective assassination victories. Servos's move&attack action allows him to threaten multiple locations, Ambush let's him select a specific target, and Rough Em Up + the Servo technique let him send a huge amount of threat. 
+
+As far as thugs, it is not an understatement to say that thugs are the best thing in the game by a wide margin and Vodacce's repeated top performance is thanks in large part to successful use of them. 
+
+Here's my deck list. Carl did a great job of describing the main damage dealers. Don't be afraid to throw thugs around to get a point or two of damage on a leader even if it means the thug dies. My typical turn one is plan within plans and Cirilo if there are decent mercs on the board. If there aren't great mercs then I go with servo. Though the deck is made for assassination wins, don't think you can't get a domination or renown win. I think the deck sacrifices very little effectiveness for either of those victory types to gain its lethality. Let me know if you have any questions.
+
+Additional notes:
+- Source archive post 28: Pruitt's Murder Most Foul
+- Archive attribution/date: Agent006 — 2024-05-17
+- The author describes an assassination plan centered on Servo Scarpa, Ambush, and Rough 'em Up, while retaining possible Domination or Renown wins.

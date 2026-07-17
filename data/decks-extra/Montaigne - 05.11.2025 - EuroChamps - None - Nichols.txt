@@ -1,0 +1,51 @@
+Faction: Montaigne
+Location: European Championships 2025
+Position: Unknown
+Date: 5/11/2025
+Author: J. Nichols
+Deckname: 
+Archetype: Dueling
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Jean Urbain
+1x Guillén de Murrieta
+1x Léontine Giroux
+1x Henri Michelet
+1x Bastien Girard
+
+1x Épée Sanglante
+1x Réputation Méritée
+1x Contempt and Hatred
+1x Until Morale Improves
+1x Oath of Vengeance
+
+1x Tabard of the Fallen Musketeer
+1x Sea Legs
+2x A Heroic End
+2x Appealing to the People
+2x Blood Mark
+2x Broken-time
+2x Cavalier Hat
+2x Come Hither
+2x Concealed Flintlock
+2x Defending Honor
+2x Friends at Court
+2x Gallant Deeds
+2x I Know that Trick!
+2x Legendary Reputation
+2x Main Gauche
+2x Master of Valroux Style
+2x Mastercrafted Rapier
+2x Unsanctioned Duel
+2x Uppman's Jacket
+2x Valiant Spirit
+2x You're Embarrassing Yourself
+
+Additional notes:
+- Source archive post 75: European Championships 2025 - Montaigne - J. Nichols
+- Archive attribution/date: Agent006 — 2025-05-11

@@ -1,0 +1,54 @@
+Faction: Montaigne
+Location: UK Games Expo 2024
+Position: Unknown
+Date: 6/2/2024
+Author: Hastur
+Deckname: 
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Bastien Girard
+1x Henri Michelet
+1x Jean Urbain
+1x Léontine Giroux
+1x Maxime de Lafayette
+
+1x Épée Sanglante
+1x Let's Haggle
+1x Marooned
+1x Réputation Méritée
+1x Shifting Tides
+
+2x Cavalier Hat
+2x Corpse Speak
+2x Mastercrafted Rapier
+2x Matchlock Musket
+1x Tabard of the Fallen Musketeer
+2x A Heroic End
+1x A New Strategy
+1x Appealing to the People
+2x Blood Mark
+2x Broken-time
+2x Defending Honor
+2x Friends at Court
+2x Gallant Deeds
+2x Legendary Reputation
+2x Master of Valroux Style
+2x Not Today
+1x Porté Travel
+2x Pull
+2x Sea Legs
+2x Shoddy Craftsmanship
+2x Valiant Spirit
+2x You're Embarrassing Yourself
+
+Additional notes:
+- Source archive post 49: Hastur's Montaigne - UKGE 2024
+- Archive attribution/date: Agent006 — 2024-06-16
+
+- Date is a best-estimate (6/2/2024).

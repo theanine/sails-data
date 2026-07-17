@@ -1,0 +1,54 @@
+Faction: Montaigne
+Location: Unknown
+Position: Unknown
+Date: 4/27/2025
+Author: TairutheShogun
+Deckname: Montaigne Musketeers
+Archetype: Dueling
+Meta: Core
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Bastien Girard
+1x Henri Michelet
+1x Horatio Lockwood
+1x Jean Urbain
+1x Léontine Giroux
+
+1x Réputation Méritée
+1x Épée Sanglante
+1x Let the Sword Decide
+1x Let's Haggle
+1x Filling the Ranks
+
+2x Cavalier Hat
+2x Mastercrafted Rapier
+2x Matchlock Musket
+2x Uppman's Jacket
+2x A Heroic End
+2x Appealing to the People
+2x Broken-time
+2x Come Hither
+2x Defending Honor
+2x Disarm
+2x Friends at Court
+2x Gallant Deeds
+2x I Know that Trick!
+2x I'm Done with You
+2x Legendary Reputation
+2x Master of Valroux Style
+2x Sea Legs
+2x Triage
+2x Valiant Spirit
+2x You're Embarrassing Yourself
+
+Additional notes:
+- Source archive post 67: First Timer Montaigne Musketeers Deck.
+- Archive attribution/date: TairutheShogun — 2025-04-27
+- First deck built by the author without consulting championship lists. Planned substitutions from the source are preserved as card notes.
+- Horatio Lockwood — This will change to Lord Stranahan III once I get TAC
+- Filling the Ranks — This will change to Oath of Vengence once I get TAC
+- Sea Legs — This will become Fratarnite when I get TAC

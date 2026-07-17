@@ -1,0 +1,64 @@
+Faction: Ussura
+Location: UK Games Expo 2024
+Position: 3rd Place, Semifinalist
+Date: 6/1/2024
+Author: FlukeyTony
+Deckname: Yevgeni
+Archetype: Dueling
+Meta: Core
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Ren
+1x Torsten Vakt
+1x Ekaterina Ilyanava
+1x Valeri Mikhailov
+1x Ved'ma
+
+1x Marooned
+1x Parley Gone Wrong
+1x The Boar's Guile
+1x Shifting Tides
+1x Leshiye of the Wood
+
+2x Sunder
+2x Triage
+2x Iron and Velvet
+2x Mireli's Revision
+2x Borets
+2x Appealing to the People
+2x Mireli Sabre
+2x Pull
+2x Indomitable Will
+2x My Fight, Alone
+2x Strong Hands
+2x Matchlock Musket
+2x Matushka's Sight
+1x Strength of Ten
+2x Razrushitel
+2x Corpse Speak
+2x Matushka's Command
+2x Stubborn
+2x Predatory Pursuit
+1x Grandfather's Hammer
+2x Matushka's Efficiency
+
+Notes:
+So as of late I've been playing a lot of ussura and really enjoying it. So I wanted to see how everyone else is playing them and getting on?
+
+Right now playing it like an old school Ragnar conquest deck using Yevgeni as a bully to try and push my opponents in to bad positions then using my other characters to nip out problem cards for me. Then if I can try to get a run on their boss.
+
+I cant remember who said it, the best way to duel an opponent with a ussura deck is to hit them hard and fast. So that's what I've been trying to achieve with the RPT of the deck.
+
+Q: How do you like Corpse Speak?  I'm guessing it would usually attach to Vedma?
+A: I have never attached it, its just used for the RPT. 😂
+
+Additional notes:
+- Source archive post 20: FlukeyTony's UKGE 2024 - Semifinalist (3rd Place) Ussura
+- Archive attribution/date: Agent006 — 2024-05-17
+- Transcribed from an angled photograph. Two approach-card titles were cut off and are represented as unknown placeholders. Faction counts were inferred from visible stacks and may need verification.
+- Yevgeni — Leader
+- Validation note: the transcribed faction deck totals 39 cards rather than the standard 40.

@@ -1,0 +1,58 @@
+Faction: Eisen
+Location: Unknown
+Position: Unknown
+Date: 9/15/2023
+Author: Hayes
+Deckname: Defensive Eisen
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Kaspar Dietrich
+
+1x Philip Hase
+1x Daniella Dietrich
+1x Rosine Friese
+1x Otto Streit
+1x Edeline Trinken
+
+1x Marooned
+1x The Song of Eisen
+1x Armed and Marshaled
+1x Shifting Tides
+1x Let's Haggle
+1x Midnight Shipment
+
+2x Improvised Weapon
+2x Langschwert
+2x Uppman's Jacket
+1x Dark Gift
+1x Kaspar's Panzerhand
+2x Throwing Knife
+2x Matchlock Musket
+2x Polished Flintlock
+2x Last Word
+2x Well Equipped
+2x Press the Advantage
+2x Regroup
+2x Stratege
+2x Opulence
+2x Sea Legs
+2x Answering the Call
+2x Come Hither
+2x Not Today
+2x I'm Done with You
+2x Hexenjagd
+2x Hidden Corridors
+
+Notes: Defensive
+
+Additional notes:
+- Source archive post 10: Hayes Defensive Eisen 9-2023
+- Archive attribution/date: Agent006 — 2024-05-17
+- Transcribed from a low-contrast photograph. The source did not explicitly identify the leader; Kaspar Dietrich is inferred because his card appeared among the laid-out cards. After removing Kaspar as leader, the supplied transcription contains 11 approach cards. Counts and a few names may need verification.
+- Validation note: the transcribed approach deck totals 11 cards rather than the standard 10.
+
+- Date is a best-estimate (9/15/2023).

@@ -1,0 +1,56 @@
+Faction: Vodacce
+Location: Unknown
+Position: Unknown
+Date: 9/29/2025
+Author: skelton
+Deckname: Tweaking Cesca
+Archetype: Passive
+Meta: FaF
+
+Link1: 
+Link2: 
+
+Cesca del Rosso
+
+1x Elisabetta Bonora
+1x Don Constanzo Scarpa
+1x Andriana Dondolo
+1x Elena Agnelli
+1x Sibella Scarpa
+
+1x The Great Game
+1x Plans within Plans
+1x Premonition
+1x No Mercy
+1x Decipher the Strands
+
+1x Legion's Caress
+1x Pull the Strand
+1x The Red Sceptre
+1x Matushka's Shears
+1x Buratino
+1x Angelo
+1x Dante
+1x Alcee
+2x Murder
+2x Manipulative
+2x Collateral Damage
+2x Fate's Kiss
+2x Subtle
+2x Stiletto
+2x Twist of the Arcana
+2x Pack Tactics
+2x Uppman's Jacket
+2x The Pressure is On
+2x Bleed Out
+2x Objection!
+2x Leverage
+2x Bravos
+2x Veronica's Guile
+2x Follow the Thread
+2x Fate's Burden
+
+Additional notes:
+- Source archive post 97: Tweaking Cesca
+- Archive attribution/date: skelton — 2025-09-29
+- Validation note: the transcribed faction deck totals 42 cards rather than the standard 40.

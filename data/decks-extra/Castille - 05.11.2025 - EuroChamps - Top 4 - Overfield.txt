@@ -1,0 +1,54 @@
+Faction: Castille
+Location: European Championships 2025
+Position: Semifinalist
+Date: 5/11/2025
+Author: C. Overfield
+Deckname: 
+Archetype: Passive
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Soline el Gato
+
+1x Ratón
+1x Sanjay
+1x Lorenzo de Zepeda
+1x Patricia Moustakas
+1x Lucas Martinez - Doomed
+
+1x Until Morale Improves
+1x Shifting Blame
+1x The Cat's Embargo
+1x Rumours of the Crimson Roger
+1x Castillian Caper
+
+1x Adaptable
+1x Mysta
+1x Not Today
+1x Research
+1x The Cat's Glass
+1x You Cheated!
+2x Amour
+2x Appealing to the People
+2x Carnaval
+2x Come Hither
+2x Drinking Games
+2x Gold or Steel
+2x Hidden Corridors
+2x I'm Done with You
+2x Improvising
+2x Life in the Canals
+2x Night of Drinking
+2x Raise the Stakes
+2x Robbery
+2x Roll the Bones
+2x Siesta
+2x Taunt
+2x Quick Reflexes
+
+Additional notes:
+- Source archive post 76: European Championships 2025 - Castille Semi Finalist - C. Overfield
+- Archive attribution/date: Agent006 — 2025-05-11
+- The approach card 'Lucas Martinez - Doomed' is preserved exactly as transcribed.

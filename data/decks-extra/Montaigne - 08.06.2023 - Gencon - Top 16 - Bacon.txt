@@ -1,0 +1,50 @@
+Faction: Montaigne
+Location: Gen Con 2023
+Position: Top 16
+Date: 8/6/2023
+Author: Bacon
+Deckname: 
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Henri Michelet
+1x Bastien Girard
+1x Maxime de Lafayette
+1x Léontine Giroux
+1x Jean Urbain
+
+1x Réputation Méritée
+1x Épée Sanglante
+1x Contempt and Hatred
+1x Until Morale Improves
+1x Let the Sword Decide
+
+2x Not Today
+2x Defending Honor
+2x I'm Done with You
+2x Appealing to the People
+2x Cavalier Hat
+2x Pull
+2x Master of Valroux Style
+2x Legendary Reputation
+2x A Heroic End
+2x Opulence
+2x Gallant Deeds
+2x You're Embarrassing Yourself
+2x Broken-time
+2x Breastplate
+2x Blood Mark
+2x Valiant Spirit
+2x Devotion
+2x Come Hither
+2x Mastercrafted Rapier
+2x Friends at Court
+
+Additional notes:
+- Source archive post 17: GenCon 2023 Montaigne Top 16 - Bacon
+- Archive attribution/date: Agent006 — 2024-05-17

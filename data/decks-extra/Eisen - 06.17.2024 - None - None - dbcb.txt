@@ -1,0 +1,61 @@
+Faction: Eisen
+Location: Durham, NC Salon (first and second)
+Position: 1st (at first) and 2nd (at second)
+Date: 6/17/2024
+Author: dbcb / Coxatris
+Deckname: NC Eisen
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Kaspar Dietrich
+
+1x Philip Hase
+1x Rosine Friese
+1x Edeline Trinken
+1x Rena Klingenhalter
+1x Otto Streit
+
+1x Midnight Shipment
+1x Shifting Tides
+1x Armed and Marshaled
+1x Marooned
+1x The Song of Eisen
+
+1x Dark Gift
+1x Kaspar's Panzerhand
+2x Langschwert
+2x Matchlock Musket
+2x Polished Flintlock
+2x Throwing Knife
+2x Uppman's Jacket
+2x Appealing to the People
+2x Come Hither
+2x Fight Through the Pain
+2x Hidden Corridors
+2x Hexenjagd
+2x Last Word
+2x I'm Done with You
+2x Not Today
+2x Opulence
+2x Press the Advantage
+2x Regroup
+2x Sea Legs
+2x Stratege
+2x Well Equipped
+
+Notes:
+This is the deck that finished 1st and 2nd at the first Durham, NC Salon and finished 2nd at the second one.
+
+The deck is extremely defensive, focused on blocking out of attacks and winning incremental renown wins using movement tech. It has been fine tuned against a lot of high end Montaigne and the mirror locally.
+
+The standard character line is: Philip, Rosine, Edeline, Rena, Otto.
+Rena can be played after Philip if going for an aggressive strategy (and you have a weapon).
+
+Additional notes:
+- Source archive post 50: NC Eisen (Core Set)
+- Archive attribution/date: dbcb — 2024-06-17
+- Core Set Eisen list. Short names from the original post were expanded where unambiguous.
+- Kaspar Dietrich — Leader

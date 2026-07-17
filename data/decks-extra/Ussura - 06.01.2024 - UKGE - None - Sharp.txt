@@ -1,0 +1,54 @@
+Faction: Ussura
+Location: UK Games Expo 2024
+Position: Unknown
+Date: 6/1/2024
+Author: Sharp
+Deckname: 
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Elina Georginova
+1x Pavel Ivanov
+1x Torsten Vakt
+1x Valeri Mikhailov
+1x Ved'ma
+
+1x Filling the Ranks
+1x Inspire Generosity
+1x Leshiye of the Wood
+1x Parley Gone Wrong
+1x The Boar's Guile
+
+2x Breastplate
+1x Grandfather's Hammer
+2x Improvised Weapon
+2x Mireli Sabre
+1x A New Strategy
+1x Appealing to the People
+2x Boon
+2x I Know that Trick!
+2x Indomitable Will
+1x Iron and Velvet
+2x Matushka's Command
+2x Matushka's Efficiency
+2x Matushka's Sight
+2x Mireli's Revision
+2x My Fight, Alone
+1x Not Today
+2x Predatory Pursuit
+2x Pull
+2x Razrushitel
+1x Strength of Ten
+2x Strong Hands
+2x Stubborn
+1x Sunder
+1x Triage
+
+Additional notes:
+- Source archive post 48: Sharp - Ussura - UKGE 2024
+- Archive attribution/date: Agent006 — 2024-06-16

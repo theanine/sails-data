@@ -1,0 +1,55 @@
+Faction: Castille
+Location: Post Beta
+Position: Unknown
+Date: 11/9/2022
+Author: Lapp
+Deckname: Post-Beta Castille
+Archetype: Passive
+Meta: Beta
+
+Link1: 
+Link2: 
+
+Soline el Gato
+
+1x Ratón
+1x Patricia Moustakas
+1x Sanjay
+1x "Madre" Dolores
+1x Lorenzo de Zepeda
+
+1x The Cat's Embargo
+1x Shifting Blame
+1x Shifting Tides
+1x Marooned
+1x Filling the Ranks
+
+2x Carnaval
+2x Paid Off
+2x Hidden Corridors
+1x Adaptable
+2x Life in the Canals
+2x Taunt
+2x Night of Drinking
+2x Gallegos Blade
+2x Opulence
+2x Not Today
+2x Drinking Games
+2x Sea Legs
+2x I'm Done with You
+2x Triage
+2x Amour
+2x Improvising
+2x Unfortunate
+1x The Cat's Glass
+2x Roll the Bones
+2x Devotion
+2x Uppman's Jacket
+
+Notes:
+This can give you a starting point. It was my list to test post Gen Con for Beta changes so keep in mind that some of the cards were specifically in there just for testing so feel free to adjust and make this your own
+
+Additional notes:
+- Source archive post 4: Lapp's Post Beta Castille 2022
+- Archive attribution/date: Agent006 — 2024-05-17
+- The author described this as a post-Gen Con beta-testing list and warned that some cards were included specifically for testing.

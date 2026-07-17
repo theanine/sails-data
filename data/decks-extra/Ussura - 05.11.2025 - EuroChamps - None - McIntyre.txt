@@ -1,0 +1,54 @@
+Faction: Ussura
+Location: European Championships 2025
+Position: Unknown
+Date: 5/11/2025
+Author: T. McIntyre
+Deckname: 
+Archetype: Switch
+Meta: TaC
+
+Link1: https://sailsdb.onrender.com/decks/c2e02775-9945-494d-814e-8b3a6b4723b5
+Link2: 
+
+Yevgeni
+
+1x Pavel Ivanov
+1x Elina Georginova
+1x Ved'ma
+1x Valeri Mikhailov
+1x Ekaterina Ilyanava
+
+1x Leshiye of the Wood
+1x Winter's Winds
+1x Path to Poluchatel
+1x Parley Gone Wrong
+1x The Boar's Guile
+
+1x Grandfather's Hammer
+1x Strength of Ten
+1x Temnota
+2x Blood Like Winter
+2x Borets
+2x Corpse Speak
+2x Heroic Intervention
+2x Indomitable Will
+2x Iron and Velvet
+2x Matushka's Command
+2x Matushka's Efficiency
+2x Matushka's Sight
+2x Mireli's Revision
+2x My Fight, Alone
+2x Predatory Pursuit
+2x Pull
+2x Razrushitel
+2x Strong Hands
+2x Stubborn
+2x Sunder
+2x Ussuran Intrigue
+2x Voice of the Gods
+
+Additional notes:
+- Source archive post 82: European Championships 2025 - Ussura - T. McIntyre
+- Archive attribution/date: Agent006 — 2025-05-11
+- The supplied SailsDB transcription totals 41 faction cards, one above the standard 40. It is preserved exactly as displayed.
+- Validation note: the transcribed faction deck totals 41 cards rather than the standard 40.

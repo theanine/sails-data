@@ -1,0 +1,53 @@
+Faction: Vodacce
+Location: Unknown
+Position: Unknown
+Date: 5/17/2024
+Author: lonki
+Deckname: 
+Archetype: Passive
+Meta: Core
+
+Link1: https://discord.com/channels/643518732999589892/1006361093414862928/1197199503317536880
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Servo Scarpa
+1x Vittoria Anselmo
+1x Sibella Scarpa
+1x Cesca Del Rosso
+1x Aldo Bussotti
+
+1x Contempt and Hatred
+1x Until Morale Improves
+1x The Great Game
+1x Marooned
+1x Plans within Plans
+
+2x Uppman's Jacket
+2x For the Family
+2x Not Today
+2x Bravos
+2x I'm Done with You
+2x Wrath of the Don
+2x Ambush
+1x Buratino
+2x The Pressure is On
+1x Angelo
+2x Pack Tactics
+1x Alcee
+2x Objection!
+2x Pull
+2x Bleed Out
+2x Stiletto
+2x Veronica's Guile
+2x Corpse Speak
+2x Unyielding Loyalty
+2x Hidden Corridors
+2x Rough 'em Up
+1x Dante
+
+Additional notes:
+- Source archive post 27: lonki's Vodacce Deck
+- Archive attribution/date: Agent006 — 2024-05-17
+- The leader was obscured in the screenshot. Don Constanzo Scarpa is inferred from the faction and list. Exact transcription should be checked against the original image if available.

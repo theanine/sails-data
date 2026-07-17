@@ -1,0 +1,53 @@
+Faction: Vodacce
+Location: European Championships 2025
+Position: Unknown
+Date: 5/11/2025
+Author: R. Hunt
+Deckname: 
+Archetype: Passive
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Vittoria Anselmo
+1x Sibella Scarpa
+1x Servo Scarpa
+1x Andriana Dondolo
+1x Cesca Del Rosso
+
+1x Plans within Plans
+1x Until Morale Improves
+1x Contempt and Hatred
+1x The Great Game
+1x Crash the Party
+
+1x Alcee
+1x Buratino
+1x Dante
+1x Angelo
+2x Unyielding Loyalty
+2x Veronica's Guile
+2x The Pressure is On
+2x Collateral Damage
+2x Murder
+1x For the Family
+1x Pull the Strand
+2x Pull
+2x Twist of the Arcana
+2x Objection!
+2x Relentless
+2x Bravos
+2x Bleed Out
+2x I'm Done with You
+2x Pack Tactics
+2x Rough 'em Up
+2x Stiletto
+2x Wrath of the Don
+2x Hidden Corridors
+
+Additional notes:
+- Source archive post 68: European Championships 2025 - Vodacce - R. Hunt
+- Archive attribution/date: Agent006 — 2025-05-11

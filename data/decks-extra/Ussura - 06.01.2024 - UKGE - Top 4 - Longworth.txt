@@ -1,0 +1,51 @@
+Faction: Ussura
+Location: UK Games Expo 2024
+Position: 4th Place, Semifinalist
+Date: 6/1/2024
+Author: Longworth
+Deckname: Full Boar
+Archetype: Dueling
+Meta: Core
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Ekaterina Ilyanava
+1x Nazem ibn Umur
+1x Torsten Vakt
+1x Valeri Mikhailov
+1x Ved'ma
+
+1x Contempt and Hatred
+1x Inspire Generosity
+1x Leshiye of the Wood
+1x The Boar's Guile
+1x Until Morale Improves
+
+2x Breastplate
+2x Corpse Speak
+1x Grandfather's Hammer
+2x Matchlock Musket
+2x Mireli Sabre
+2x Appealing to the People
+2x Boon
+2x Come Hither
+2x Indomitable Will
+2x Iron and Velvet
+2x Liberating Goods
+2x Matushka's Command
+2x My Fight, Alone
+2x Predatory Pursuit
+2x Pull
+2x Razrushitel
+1x Strength of Ten
+2x Strong Hands
+2x Stubborn
+2x Sunder
+2x Triage
+
+Additional notes:
+- Source archive post 47: Longworth - Full Boar - Semifinalist (4th place) UKGE 2024
+- Archive attribution/date: Agent006 — 2024-06-16

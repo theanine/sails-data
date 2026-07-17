@@ -1,0 +1,55 @@
+Faction: Vodacce
+Location: Unknown
+Position: Unknown
+Date: 7/3/2025
+Author: flukeytuba
+Deckname: Get it off your Cesca (Cesca v1)
+Archetype: Passive
+Meta: FaF
+
+Link1: 
+Link2: 
+
+Cesca del Rosso
+
+1x Vittoria Anselmo
+1x Sibella Scarpa
+1x Mourad
+1x Elisabetta Bonora
+1x Andriana Dondolo
+
+1x Until Morale Improves
+1x Premonition
+1x Plans within Plans
+1x No Mercy
+1x Crash the Party
+
+1x Alcee
+2x Bleed Out
+2x Bravos
+2x Fate's Kiss
+2x Follow the Thread
+2x Murder
+2x Objection!
+2x Pack Tactics
+2x Pull
+1x Pull the Strand
+2x The Pressure is On
+2x Veronica's Guile
+2x Wrath of the Don
+1x Buratino
+1x Dante
+1x Legion's Caress
+2x Stiletto
+2x Subtle
+2x Uppman's Jacket
+1x Angelo
+1x The Red Sceptre
+1x Matushka's Shears
+2x Manipulative
+1x Ambitious
+1x Matchlock Musket
+
+Additional notes:
+- Source archive post 85: Get it off your Cesca
+- Archive attribution/date: flukeytuba — 2025-07-03

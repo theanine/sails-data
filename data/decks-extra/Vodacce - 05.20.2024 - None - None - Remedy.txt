@@ -1,0 +1,63 @@
+Faction: Vodacce
+Location: Unknown
+Position: Unknown
+Date: 5/20/2024
+Author: Remedy
+Deckname: Blood on the Streets
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Servo Scarpa
+1x Sarafina
+1x Vittoria Anselmo
+1x Sibella Scarpa
+1x Cesca Del Rosso
+
+1x Contempt and Hatred
+1x Until Morale Improves
+1x The Great Game
+1x Plans within Plans
+1x Marooned
+
+2x Not Today
+2x For the Family
+2x Uppman's Jacket
+2x Matchlock Musket
+2x Bravos
+2x I'm Done with You
+2x Wrath of the Don
+1x Buratino
+1x Angelo
+2x The Pressure is On
+1x Alcee
+2x Pack Tactics
+2x Objection!
+2x Pull
+2x Bleed Out
+2x Stiletto
+2x Corpse Speak
+2x Veronica's Guile
+1x Legion's Caress
+2x Hidden Corridors
+2x Unyielding Loyalty
+1x Dante
+1x Pull the Strand
+
+Notes:
+Early days playing with Vodacce but gameplan is predominalty to accumulate renown advantage while slowly haemorraging the opponent with wounds from non-dueling interactions + thug duels. Mid-game can consider switching to an assassination game plan using Scarpa biggest issue with my current list is the absence of Ambush...will probably need to fit it back into the deck and cut the 2 unique cards, I'm just enjoying exploring the card pool space atm.
+
+Overall the vast majority of the Vodacce cards feel very very powerful and I think as a faction they do a lot of the core fundementals towards obtaining victory quite well. As others have noted including I beleive the desigeners, thugs appear to be the strongest card type in the game at present. There is some hate coming to them next set but in the interim it's been really fun to explore the strengths and limited weaknesses of a Vodacce deck. 
+
+Not sure how others feel about the scheme selection, I wish for 1 more +1 scheme but I find it hard to cut any of the ones selected for the current game plan as above. 
+
+I also cut Fate's Burden due to the Errata but not sure whether it still has a home in this sort of deck.
+
+Additional notes:
+- Source archive post 38: Vodacce (Core Set) -> Renown/Domination with sneaky chance at assassination.
+- Archive attribution/date: Remedy — 2024-05-20
+- The author describes a Renown/Domination plan with incremental wounds and an opportunistic switch to assassination. The list is Core Set only.

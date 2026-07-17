@@ -1,0 +1,54 @@
+Faction: Castille
+Location: Unknown
+Position: Unknown
+Date: 4/8/2026
+Author: Tom Sorenson
+Deckname: High Aggro Sanjay
+Archetype: Dueling
+Meta: BaS
+
+Link1: https://tinyurl.com/etzf8cd7
+Link2: 
+
+Sanjay
+
+1x "Madre" Dolores
+1x Torvo Espada
+1x Maya de La Rioja
+1x Iago Carlos de Soldano
+1x Giacinto
+
+1x Castillian Caper
+1x The Cat's Embargo
+1x Let the Sword Decide
+1x Proper Study
+1x Explosive Ultimatum
+
+1x Passionate
+2x Gold or Steel
+2x Roll the Bones
+2x Sabre
+2x Quick Reflexes
+2x Concealed Flintlock
+2x Life in the Canals
+2x Bleed Out
+2x Curious
+1x Main Gauche
+1x Adaptable
+1x Ambitious
+1x The Cat's Glass
+1x El Gato's Mask
+2x Worldly
+2x Taunt
+2x Panacea
+2x Night of Drinking
+2x Improvising
+2x Solvente Universal
+2x Cats in Every Corner
+2x Raise the Stakes
+2x Unsanctioned Duel
+
+Additional notes:
+- Source archive post 99: High Aggro Sanjay vs Low Aggro Sanjay
+- Archive attribution/date: TomS Epic Gaming — 2026-04-08
+- The Cat's Glass — RPT only

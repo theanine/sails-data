@@ -1,0 +1,54 @@
+Faction: Montaigne
+Location: Unknown
+Position: Unknown
+Date: 4/7/2026
+Author: flukeytuba
+Deckname: Monty's Flying Circus
+Archetype: Switch
+Meta: FaF
+
+Link1: 
+Link2: 
+
+Angeline Dèmone
+
+1x Odette Dubois d'Arrent
+1x Sir Jack Harding
+1x Jean Urbain
+1x Léontine Giroux
+1x Guillén de Murrieta
+
+1x Until Morale Improves
+1x Sworn Swords
+1x Midnight Shipment
+1x Let's Haggle
+1x Let the Sword Decide
+
+1x A Heroic End
+2x Bleed Out
+2x Blood Mark
+2x Bloody Entrance
+2x Broken-time
+2x Comforting
+1x Croc de Lion
+2x Defending Honor
+2x Friends at Court
+2x Harpoon
+2x Hidden Corridors
+1x La Voix des Sans Voix
+2x Legendary Reputation
+2x Mastercrafted Rapier
+2x Master of Valroux Style
+1x Porté Travel
+2x Quick Reflexes
+2x Relentless
+1x Tabard of the Fallen Musketeer
+2x Unsanctioned Duel
+2x Uppman's Jacket
+1x Ambitious
+2x Gallant Deeds
+
+Additional notes:
+- Source archive post 98: Montys flying circus 🎪
+- Archive attribution/date: flukeytuba — 2026-04-07
+- Work-in-progress Angeline bounce deck. The author credited Rubric with the initial framework and requested feedback from experienced Montaigne players.

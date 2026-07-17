@@ -1,0 +1,60 @@
+Faction: Castille
+Location: Unknown
+Position: Unknown
+Date: 5/20/2024
+Author: Remedy
+Deckname: 9.5 Lives
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Soline el Gato
+
+1x Patricia Moustakas
+1x Maya de La Rioja
+1x Makepeace Botwighte
+1x Sanjay
+1x "Madre" Dolores
+
+1x Parley Gone Wrong
+1x Shifting Blame
+1x The Cat's Embargo
+1x Let the Sword Decide
+1x Marooned
+
+2x Night of Drinking
+1x Adaptable
+2x Uppman's Jacket
+2x Not Today
+2x Robbery
+2x A New Strategy
+2x Liberating Goods
+2x Matchlock Musket
+2x Gallegos Blade
+2x Carnaval
+2x I'm Done with You
+1x The Cat's Glass
+2x Improvising
+2x Drinking Games
+2x Amour
+2x Taunt
+2x Breastplate
+2x Hidden Corridors
+2x Tending the Wounded
+2x Shoddy Craftsmanship
+2x Come Hither
+
+Notes:
+Played close to 10 games now with the below style of list. Core Set only.
+I've found Castille to be a very reactive and flexibile faction out of the core set with it's strength been the disruption it brings to opponents strategy or gameplan. A well timed night of drinking or a taunt/come hither can really disrupt an opponent's Day.
+Duel only if absolutely necessary and predominantly with Maya or Soline as required. The deck is filled with multiple high parry cards to try and mitigate wounds as well as 8 effects that don't send threat back to try and have duels stop in their tracks.
+Main win condition is renown/cheeky control of key locations (especially docks thanks to Patricia) and multiple discard abilities to leverage a hand size advantage going into the mid-late game. 
+I did test a version of the deck using the larger majority of duelists + wound manouvres to try and outvalue opponents but found the RPT values just don't compare particularly vs Montaigne or Eissen. The surprise moves, exhausts, cancels and send homes are what make Castille strong out of the core set. This deck aims to capitalise on that.
+As always Adaptable used at the right time can eek out a surprise domination victory and this should always be kept in mind when moving into the mid to late game.
+
+Additional notes:
+- Source archive post 36: Castille (Core Set) -> Renown/Cheeky Dominance game plan AKA 9.5 Lives
+- Archive attribution/date: Remedy — 2024-05-20
+- The author identifies Renown as the main plan, with opportunistic Domination through location control and Adaptable. The list is Core Set only.

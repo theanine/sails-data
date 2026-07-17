@@ -1,0 +1,52 @@
+Faction: Eisen
+Location: European Championships 2025
+Position: Unknown
+Date: 5/11/2025
+Author: S. Aston
+Deckname: 
+Archetype: Dueling
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Kaspar Dietrich
+
+1x Edeline Trinken
+1x Philip Hase
+1x Rena Klingenhalter
+1x Otto Streit
+1x Terrell Brandt
+
+1x Filling the Ranks
+1x Teeth of the Drachen
+1x Let the Sword Decide
+1x The Song of Eisen
+1x Let's Haggle
+
+2x Breastplate
+2x Unsavory Salve
+2x Move Along
+2x Answering the Call
+1x Cross of the Martyrs
+1x Dame of Swords
+1x Dark Gift
+2x Divine Discipline
+2x Fight Through the Pain
+2x Iron Reply
+1x Kaspar's Panzerhand
+2x Langschwert
+2x Matchlock Musket
+2x Panzerhand
+2x Polished Flintlock
+2x Precision
+2x Regroup
+2x Stratege
+2x Throwing Knife
+2x Uppman's Jacket
+2x Well Equipped
+2x Yield
+
+Additional notes:
+- Source archive post 74: European Championships 2025 - Eisen - S. Aston
+- Archive attribution/date: Agent006 — 2025-05-11

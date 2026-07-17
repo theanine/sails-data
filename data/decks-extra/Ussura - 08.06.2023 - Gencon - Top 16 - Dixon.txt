@@ -1,0 +1,51 @@
+Faction: Ussura
+Location: Gen Con 2023
+Position: Top 16
+Date: 8/6/2023
+Author: Dixon
+Deckname: 
+Archetype: Dueling
+Meta: Core
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Nazem ibn Umur
+1x Pavel Ivanov
+1x Ved'ma
+1x Valeri Mikhailov
+1x Torsten Vakt
+
+1x Parley Gone Wrong
+1x The Boar's Guile
+1x Let the Sword Decide
+1x Midnight Shipment
+1x Leshiye of the Wood
+
+2x My Fight, Alone
+2x Uppman's Jacket
+2x Mireli's Revision
+2x Matushka's Sight
+2x Matchlock Musket
+2x Liberating Goods
+2x Matushka's Efficiency
+2x Mireli Sabre
+1x Strength of Ten
+1x Grandfather's Hammer
+2x Razrushitel
+2x Appealing to the People
+2x Predatory Pursuit
+2x Matushka's Command
+2x Triage
+2x Sunder
+2x Iron and Velvet
+2x Indomitable Will
+2x Devotion
+2x Strong Hands
+2x Stubborn
+
+Additional notes:
+- Source archive post 24: GenCon 2023 Ussura Top 16 - Dixon
+- Archive attribution/date: Agent006 — 2024-05-17

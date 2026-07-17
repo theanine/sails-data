@@ -1,0 +1,51 @@
+Faction: Eisen
+Location: UK Games Expo 2024
+Position: Unknown
+Date: 6/1/2024
+Author: Hazelden
+Deckname: 
+Archetype: Dueling
+Meta: Core
+
+Link1: 
+Link2: 
+
+Kaspar Dietrich
+
+1x Daniella Dietrich
+1x Otto Streit
+1x Philip Hase
+1x Rena Klingenhalter
+1x Terrell Brandt
+
+1x Armed and Marshaled
+1x Let the Sword Decide
+1x Let's Haggle
+1x Midnight Shipment
+1x The Song of Eisen
+
+2x Breastplate
+2x Corpse Speak
+1x Dark Gift
+1x Kaspar's Panzerhand
+2x Langschwert
+2x Matchlock Musket
+2x Polished Flintlock
+2x Throwing Knife
+2x Unsavory Salve
+2x Uppman's Jacket
+2x Appealing to the People
+2x Bleed Out
+2x Fight Through the Pain
+2x Iron Reply
+2x Last Word
+2x Move Along
+2x Opulence
+2x Press the Advantage
+2x Regroup
+2x Stratege
+2x Well Equipped
+
+Additional notes:
+- Source archive post 42: Hazelden - Eisen - UKGE 2024
+- Archive attribution/date: Agent006 — 2024-06-16

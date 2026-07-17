@@ -1,0 +1,55 @@
+Faction: Ussura
+Location: Gen Con 2024
+Position: 1st Place, Grand Admiral, Top Ussura
+Date: 8/4/2024
+Author: Tom Sorenson
+Deckname: 
+Archetype: Dueling
+Meta: TaC
+
+Link1: https://www.tomsepicgaming.com/ussuran-grand-admiral-gen-con-2024/
+Link2: 
+
+Yevgeni
+
+1x Ekaterina Ilyanava
+1x Elina Georginova
+1x Miyato and Ota
+1x Torsten Vakt
+1x Ved'ma
+
+1x Leshiye of the Wood
+1x Let's Haggle
+1x Midnight Shipment
+1x The Boar's Guile
+1x Winter's Winds
+
+1x Grandfather's Hammer
+1x Matchlock Musket
+2x Mireli Sabre
+2x Throwing Knife
+2x Appealing to the People
+2x Bleed Out
+1x Blood Like Winter
+1x Collateral Damage
+2x Indomitable Will
+2x Iron and Velvet
+1x Justice Served Cold
+2x Matushka's Command
+2x Matushka's Efficiency
+1x Matushka's Sight
+2x Mireli's Revision
+2x Predatory Pursuit
+2x Pull
+2x Razrushitel
+1x Relentless
+1x Strength of Ten
+2x Strong Hands
+2x Stubborn
+2x Sunder
+1x Ussuran Intrigue
+1x Voice of the Gods
+
+Additional notes:
+- Source archive post 61: GenCon 2024 - 1st Place (Grand Admiral) - Ussura - Tom Sorenson
+- Archive attribution/date: Agent006 — 2024-08-13

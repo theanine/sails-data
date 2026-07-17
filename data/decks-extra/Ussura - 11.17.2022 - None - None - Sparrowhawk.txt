@@ -1,0 +1,98 @@
+Faction: Ussura
+Location: Unknown
+Position: Unknown
+Date: 11/17/2022
+Author: Sparrowhawk
+Deckname: A Hammer is for Hammering
+Archetype: Dueling
+Meta: Core
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Torsten Vakt
+1x Nazem ibn Umur
+1x Valeri Mikhailov
+1x Ren
+1x Elina Georginova
+
+1x Parley Gone Wrong
+1x Filling the Ranks
+1x The Boar's Guile
+1x Leshiye of the Wood
+1x Shifting Tides
+
+1x Strength of Ten
+1x Grandfather's Hammer
+2x Razrushitel
+2x Strong Hands
+2x Sunder
+2x Matushka's Sight
+2x Predatory Pursuit
+2x Stubborn
+2x Liberating Goods
+2x Corpse Speak
+2x Boon
+2x Devotion
+2x Pull
+2x Come Hither
+2x A New Strategy
+2x Matushka's Efficiency
+2x Mireli's Revision
+2x Shoddy Craftsmanship
+2x Appealing to the People
+2x Indomitable Will
+2x Iron and Velvet
+
+Notes:
+No dueling only cards. Concept is to make every gamble into "very likely to parry 2 and counter threat 3+" to grind duels and have a predictable safe pick.
+
+Also to play the limited core pool meta. Assuming Liberating Goods becomes non-Unique like Robbery, there are no targets for Shoddy Craftsmanship + Liberating (yes, no using our Uppman's Jacket against us) as Yevgeny cannot afford card parity trades like Jacket -> Shoddy. Mireli Sabre and similar are perfect "I Know That Trick!" targets. Yevgeny unable to afford X+2 cards to deal X wounds on adj. engaged enemies over X days via Musket (--5 too aggressive). Opponent can play attachment on Yevgeny to prevent Iron and Velvet play (other reason to avoid attachments).
+
+Parley Gone Wrong: open, no recruit ever
+Filling the Ranks: ASAP then culling
+The Boar's Guile: their leader near death
+Leshiye of the Wood: other opener, 2 dudes
+Shifting Tides: disrupt renown/cards
+Torsten: open, 2inf
+Nazem: high resolve early
+Valeri: best vs. Odette
+Ren: catch-up
+Elina: double engages
+Strength of Ten: double action assassinate
+Hammer: edge case: Torsten/Ren final strike assassinate
+Matushka's Sight: edge case seed 3 gambles
+Predatory Pursuit: anti-escape when assassinating
+Corpse Speak: edge case play by Elina
+Boon: edge case play by Elina
+Devotion: edge case play post-errata
+Mireli's Revision: anti-escape when assassinating
+Appeal to the People: Yevgeny extra challenge
+Iron and Velvet: Yevgeny extra challenge, no attachments on him
+
+Additional notes:
+- Source archive post 26: Sparrowhawk's "A Hammer is for Hammering"
+- Archive attribution/date: Agent006 — 2024-05-17
+- Core-pool assassination concept built to make gambles likely to parry 2 and return 3+ threat, grinding duels while avoiding duel-only cards.
+- Parley Gone Wrong — open, no recruit ever
+- Filling the Ranks — ASAP then culling
+- The Boar's Guile — their leader near death
+- Leshiye of the Wood — other opener, 2 dudes
+- Shifting Tides — disrupt renown/cards
+- Torsten Vakt — open, 2inf
+- Nazem ibn Umur — high resolve early
+- Valeri Mikhailov — best vs. Odette
+- Ren — catch-up
+- Elina Georginova — double engages
+- Strength of Ten — double action assassinate
+- Grandfather's Hammer — edge case: Torsten/Ren final strike assassinate
+- Matushka's Sight — edge case seed 3 gambles
+- Predatory Pursuit — anti-escape when assassinating
+- Corpse Speak — edge case play by Elina
+- Boon — edge case play by Elina
+- Devotion — edge case play post-errata
+- Mireli's Revision — anti-escape when assassinating
+- Appealing to the People — Yevgeny extra challenge
+- Iron and Velvet — Yevgeny extra challenge, no attachments on him

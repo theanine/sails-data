@@ -1,0 +1,51 @@
+Faction: Castille
+Location: Gen Con 2023
+Position: Top 16
+Date: 8/6/2023
+Author: Valle
+Deckname: 
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Soline el Gato
+
+1x Patricia Moustakas
+1x Maya de La Rioja
+1x Makepeace Botwighte
+1x Sanjay
+1x "Madre" Dolores
+
+1x Shifting Blame
+1x The Cat's Embargo
+1x Shifting Tides
+1x Let's Haggle
+1x Filling the Ranks
+
+2x Night of Drinking
+2x Life in the Canals
+1x Adaptable
+2x Not Today
+2x Uppman's Jacket
+2x Robbery
+2x Carnaval
+2x Gallegos Blade
+2x Improvised Weapon
+2x I'm Done with You
+2x Research
+1x Improvising
+2x Drinking Games
+2x Taunt
+2x Amour
+2x Paid Off
+2x Opulence
+2x Triage
+2x Hidden Corridors
+2x Come Hither
+2x Sea Legs
+
+Additional notes:
+- Source archive post 3: GenCon 2023 Castille Top 16 - Valle
+- Archive attribution/date: Agent006 — 2024-05-17

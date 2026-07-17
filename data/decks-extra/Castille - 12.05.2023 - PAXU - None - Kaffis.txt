@@ -1,0 +1,77 @@
+Faction: Castille
+Location: PAX Unplugged 2023
+Position: 6th Place, Top Castille
+Date: 12/5/2023
+Author: Kaffis
+Deckname: PAX Unplugged Castille
+Archetype: Switch
+Meta: Core
+
+Link1: https://discord.com/channels/643518732999589892/1006361008555696251/1181788703438409728
+Link2: 
+
+Soline el Gato
+
+1x Patricia Moustakas
+1x "Madre" Dolores
+1x Ratón
+1x Makepeace Botwighte
+1x Maya de La Rioja
+
+1x Marooned
+1x Let the Sword Decide
+1x The Cat's Embargo
+1x Inspire Generosity
+1x Midnight Shipment
+
+2x Amour
+2x Carnaval
+1x Uppman's Jacket
+2x Gallegos Blade
+1x Throwing Knife
+1x Matchlock Musket
+2x Come Hither
+2x Improvising
+1x Adaptable
+2x Nothing Personal
+2x Breastplate
+1x Robbery
+1x Liberating Goods
+2x Taunt
+2x Night of Drinking
+2x Triage
+2x Roll the Bones
+2x I'm Done with You
+1x Unfortunate
+1x Sea Legs
+2x Drinking Games
+1x Tending the Wounded
+1x The Cat's Glass
+1x I Know that Trick!
+2x Life in the Canals
+1x Paid Off
+
+Hey, now that I'm both a) home, and b) not sleeping or working, have a Salon report from PAX Unplugged! Bottom line up front: I went 2-1 and placed 6th out of 11 to get me best in faction for Castille. Faction split was very even with 3 Vodacce and 2 of everything else.
+
+Approach Deck
+
+Madre: go-to Day 1, MVP influence and top recruiter
+Makepeace: forces card advantage if opponent seeks to equip, likes to hang out at city locations with attachments
+Maya: secondary movement shenanigans, duelist in a pinch
+Patricia: I'm getting somewhat dissatisfied with the Docks claim action, but un-challengeable can be nice. The Docks play needs more solid exhaust and/or discard support than this deck can reliably provide, and I don't know whether the juice is worth the squeeze to fix that with the current cardpool. Claiming too early will just see the location pressured out from under me again, stalling to do it late opens me up to the double pass to end the day.
+Raton: is a sneaky sometimes if my opponent is using attachments, I leave him unrecruited if not
+Cat's Embargo: is sometimes disappointing Day 1 play. My goal is to punish aggressively spendy day 1 strategies like Vodacce day 1 Domination, Montaignes that gear up early, etc., but ultimately it's usually just equal to a discard effect that gives a draw at dusk because the opponent just chooses not to spend it. Definitely better to play on a day that opponent starts with few cards in hand.
+Marooned: goes after Mercenaries if opponent recruits, very good value if you can get a declined challenge in first to improve the card cost to kill.
+Let the Sword Decide: If I think I have a shot at mid-game all-in assassination, or need to put a wound or two on a character but am worried they will parry out, I'll play this to make them take chip damage more consistently.
+Inspire Generosity: clutch vs. Vodacce and sometimes Eisen, for use when I've been out-recruited.
+Midnight Shipment: usually best with Patricia on the board because it will make the Docks a hot commodity.
+
+Draw Deck (See picture for decklist, I'm having trouble with the export function on the deckbuilder)
+Cards that move characters: These are strong for playing for location control, isolating dueling targets to prevent intervention, and so on. Basically, turning up ready where you're not expected, or forcing others to be where they don't want to be, are some of the most powerful effects in the game. I probably want to draw one of these every day, and days where I can stockpile two can give me very dynamic options.
+Cards that disrupt plans: Right along with moving things, engaging characters or blanking control of a location are great ways to react to what my opponent is trying to do.
+Cards that defend or protect my characters: I've probably invested too much in this, but some of them are also in there for their RPT. This is where I'll be looking to trim fat to squeeze in a few more copies of MVPs like Upman's and a ready effect or two, and where I'll evaluate first when we get new cards.
+
+Additional notes:
+- Source archive post 7: Kaffis Pax Unplugged Castille 12-05-2023
+- Archive attribution/date: Agent006 — 2024-05-17
+- The author went 2-1, placed 6th of 11, and earned best-in-faction for Castille. This was transcribed from a photo; exact copy counts were inferred from visible stacks and may need verification. The supplied transcription placed Paid Off at the end of the approach list; it was moved to the faction deck because it is a Risk, producing the standard 10/40 split.

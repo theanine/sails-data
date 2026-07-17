@@ -1,0 +1,53 @@
+Faction: Montaigne
+Location: Unknown
+Position: Unknown
+Date: 8/28/2023
+Author: Clique84
+Deckname: 
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Bastien Girard
+1x Maxime de Lafayette
+1x Léontine Giroux
+1x Henri Michelet
+1x Jean Urbain
+
+1x Let's Haggle
+1x Réputation Méritée
+1x Let the Sword Decide
+1x Épée Sanglante
+1x Until Morale Improves
+
+2x Come Hither
+2x Uppman's Jacket
+1x Disarm
+1x Porté Travel
+1x Triage
+2x Friends at Court
+2x Pull
+2x You're Embarrassing Yourself
+2x Broken-time
+2x Master of Valroux Style
+2x Cavalier Hat
+2x Mastercrafted Rapier
+2x Opulence
+2x A New Strategy
+2x A Heroic End
+2x Matchlock Musket
+2x Corpse Speak
+1x Appealing to the People
+2x Devotion
+1x Blood Mark
+2x Tending the Wounded
+2x I'm Done with You
+1x Valiant Spirit
+
+Additional notes:
+- Source archive post 19: Clique84's Montaigne Deck 8-28-2023
+- Archive attribution/date: Agent006 — 2024-05-17

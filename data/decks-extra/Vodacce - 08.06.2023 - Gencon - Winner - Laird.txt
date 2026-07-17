@@ -1,0 +1,53 @@
+Faction: Vodacce
+Location: Gen Con 2023
+Position: 1st Place, Grand Admiral, Top Vodacce
+Date: 8/6/2023
+Author: Laird
+Deckname: 
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Cirilo Naucriparos
+1x Sarafina
+1x Vittoria Anselmo
+1x Sibella Scarpa
+1x Cesca Del Rosso
+
+1x Contempt and Hatred
+1x Until Morale Improves
+1x The Great Game
+1x Plans within Plans
+1x Marooned
+
+2x For the Family
+2x Not Today
+2x Uppman's Jacket
+2x Fate's Burden
+1x Matchlock Musket
+2x Bravos
+2x I'm Done with You
+2x Wrath of the Don
+1x Buratino
+1x Angelo
+2x The Pressure is On
+1x Alcee
+2x Objection!
+2x Pull
+2x Paid Off
+2x Opulence
+2x Veronica's Guile
+2x Corpse Speak
+2x Hidden Corridors
+2x Unyielding Loyalty
+1x Dante
+1x Pull the Strand
+2x Sea Legs
+
+Additional notes:
+- Source archive post 33: GenCon 2023 Vodacce Winner (Grand Admiral) - Laird
+- Archive attribution/date: Agent006 — 2024-05-17

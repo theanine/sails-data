@@ -1,0 +1,52 @@
+Faction: Vodacce
+Location: European Championships 2025
+Position: Semifinalist
+Date: 5/11/2025
+Author: S. McLeish
+Deckname: 
+Archetype: Switch
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Servo Scarpa
+1x Sibella Scarpa
+1x Andriana Dondolo
+1x Vittoria Anselmo
+1x Vissenta Scarpa
+
+1x Until Morale Improves
+1x Contempt and Hatred
+1x Plans within Plans
+1x Crash the Party
+1x Marooned
+
+1x Alcee
+1x Angelo
+1x Buratino
+1x Dante
+2x Veronica's Guile
+2x The Pressure is On
+2x For the Family
+2x Ambush
+2x Pull
+2x Unyielding Loyalty
+2x Objection!
+2x Bravos
+2x Bleed Out
+2x Quick Reflexes
+2x Stiletto
+2x Unsanctioned Duel
+2x Pack Tactics
+2x Murder
+2x Uppman's Jacket
+2x Wrath of the Don
+2x Rough 'em Up
+2x Relentless
+
+Additional notes:
+- Source archive post 71: European Championships 2025 - Vodacce Semi Finalist - S. McLeish
+- Archive attribution/date: Agent006 — 2025-05-11

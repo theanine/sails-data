@@ -1,0 +1,53 @@
+Faction: Ussura
+Location: Gen Con 2023
+Position: Top 16
+Date: 8/6/2023
+Author: Jozwiak
+Deckname: 
+Archetype: Dueling
+Meta: Core
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Nazem ibn Umur
+1x Ren
+1x Ved'ma
+1x Valeri Mikhailov
+1x Torsten Vakt
+
+1x Until Morale Improves
+1x Shifting Tides
+1x The Boar's Guile
+1x Inspire Generosity
+1x Leshiye of the Wood
+
+2x Uppman's Jacket
+2x My Fight, Alone
+2x Mireli's Revision
+2x Matushka's Sight
+2x Matushka's Efficiency
+2x Borets
+2x Mireli Sabre
+1x Strength of Ten
+1x Grandfather's Hammer
+2x Razrushitel
+2x Appealing to the People
+2x Predatory Pursuit
+1x Pull
+2x Boon
+2x Opulence
+2x I Know that Trick!
+2x Triage
+2x Matushka's Command
+1x Sunder
+1x Iron and Velvet
+2x Indomitable Will
+2x Strong Hands
+1x Stubborn
+
+Additional notes:
+- Source archive post 23: GenCon 2023 Ussura Top 16 - Jozwiak
+- Archive attribution/date: Agent006 — 2024-05-17

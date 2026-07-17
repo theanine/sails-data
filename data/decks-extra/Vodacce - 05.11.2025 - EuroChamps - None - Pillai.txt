@@ -1,0 +1,52 @@
+Faction: Vodacce
+Location: European Championships 2025
+Position: Unknown
+Date: 5/11/2025
+Author: K. Pillai
+Deckname: 
+Archetype: Switch
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Vittoria Anselmo
+1x Vissenta Scarpa
+1x Sibella Scarpa
+1x Servo Scarpa
+1x Andriana Dondolo
+
+1x Plans within Plans
+1x The Great Game
+1x Contempt and Hatred
+1x Until Morale Improves
+1x Marooned
+
+1x Alcee
+2x Ambush
+1x Angelo
+2x Bleed Out
+2x Bravos
+1x Buratino
+1x Dante
+2x For the Family
+2x I Know that Trick!
+2x Murder
+2x Objection!
+2x Pack Tactics
+2x Pull
+2x Quick Reflexes
+2x Relentless
+2x Rough 'em Up
+2x Stiletto
+2x The Pressure is On
+2x Unsanctioned Duel
+2x Uppman's Jacket
+2x Veronica's Guile
+2x Wrath of the Don
+
+Additional notes:
+- Source archive post 77: European Championships 2025 - Vodacce - K. Pillai
+- Archive attribution/date: Agent006 — 2025-05-11

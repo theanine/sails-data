@@ -1,0 +1,51 @@
+Faction: Ussura
+Location: European Championships 2025
+Position: Unknown
+Date: 5/11/2025
+Author: P. Roberts
+Deckname: 
+Archetype: Dueling
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Valeri Mikhailov
+1x Ren
+1x Ekaterina Ilyanava
+1x Ved'ma
+1x Elina Georginova
+
+1x Marooned
+1x The Boar's Guile
+1x Winter's Winds
+1x Shifting Tides
+1x Leshiye of the Wood
+
+2x Appealing to the People
+2x Blood Like Winter
+2x Borets
+2x Come Hither
+2x Indomitable Will
+2x Iron and Velvet
+2x Matushka's Command
+2x Matushka's Efficiency
+2x Matushka's Sight
+2x Mireli's Revision
+2x Predatory Pursuit
+2x Pull
+2x Razrushitel
+2x Shoddy Craftsmanship
+1x Strength of Ten
+2x Strong Hands
+2x Stubborn
+1x Temnota
+2x Uppman's Jacket
+2x Ussuran Intrigue
+2x Voice of the Gods
+
+Additional notes:
+- Source archive post 78: European Championships 2025 - Ussura - P. Roberts
+- Archive attribution/date: Agent006 — 2025-05-11

@@ -1,0 +1,52 @@
+Faction: Vodacce
+Location: Gen Con 2024
+Position: Top 8
+Date: 8/4/2024
+Author: Nick Pruitt
+Deckname: Servo Bomb! Part 2
+Archetype: Switch
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Don Constanzo Scarpa
+
+1x Andriana Dondolo
+1x Cirilo Naucriparos
+1x Servo Scarpa
+1x Sibella Scarpa
+1x Vissenta Scarpa
+
+1x Contempt and Hatred
+1x Let the Sword Decide
+1x Plans within Plans
+1x The Great Game
+1x Until Morale Improves
+
+1x Alcee
+1x Angelo
+1x Buratino
+1x Dante
+2x Stiletto
+2x A New Strategy
+2x Ambush
+2x Bleed Out
+2x Bravos
+2x Come Hither
+2x For the Family
+2x Liberating Goods
+2x Murder
+2x Pack Tactics
+2x Paid Off
+2x Relentless
+2x Rough 'em Up
+2x Shoddy Craftsmanship
+2x The Pressure is On
+2x Unyielding Loyalty
+2x Veronica's Guile
+2x Wrath of the Don
+
+Additional notes:
+- Source archive post 57: GenCon 2024 - Top 8 Vodacce - Nick Pruitt
+- Archive attribution/date: Agent006 — 2024-08-07

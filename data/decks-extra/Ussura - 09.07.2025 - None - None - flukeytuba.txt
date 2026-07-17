@@ -1,0 +1,53 @@
+Faction: Ussura
+Location: Unknown
+Position: Unknown
+Date: 9/7/2025
+Author: flukeytuba
+Deckname: Ekat Dueling
+Archetype: Dueling
+Meta: FaF
+
+Link1: 
+Link2: 
+
+Ekaterina Ilyanava
+
+1x Pavel Ivanov
+1x Ren
+1x Nazem ibn Umur
+1x Mōri Daichi
+1x Miyato and Ota
+
+1x The Boar's Guile
+1x Midnight Shipment
+1x Marooned
+1x Leshiye of the Wood
+1x Until Morale Improves
+
+2x Astute
+1x Censure
+2x Courageous
+1x Grandfather's Hammer
+2x Indomitable Will
+1x Justice Served Cold
+2x Mireli Sabre
+2x Mireli's Revision
+2x Predatory Pursuit
+2x Razrushitel
+1x Strength of Ten
+2x Strong Hands
+2x Stubborn
+1x Syrneth Compass
+2x Uppman's Jacket
+2x Unsanctioned Duel
+2x Relentless
+2x Quick Reflexes
+2x Hop on Board
+2x Hidden Corridors
+2x Heroic Intervention
+2x Appealing to the People
+1x Ambitious
+
+Additional notes:
+- Source archive post 96: Ekat Dueling
+- Archive attribution/date: flukeytuba — 2025-09-07

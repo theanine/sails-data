@@ -1,0 +1,51 @@
+Faction: Eisen
+Location: UK Games Expo 2024
+Position: Unknown
+Date: 6/1/2024
+Author: Gadd
+Deckname: 
+Archetype: Switch
+Meta: Core
+
+Link1: 
+Link2: 
+
+Kaspar Dietrich
+
+1x Daniella Dietrich
+1x Otto Streit
+1x Philip Hase
+1x Terrell Brandt
+1x Uwe Zimmerman
+
+1x Armed and Marshaled
+1x Let the Sword Decide
+1x Let's Haggle
+1x Midnight Shipment
+1x The Song of Eisen
+
+2x Breastplate
+1x Dark Gift
+1x Kaspar's Panzerhand
+2x Langschwert
+2x Matchlock Musket
+2x Polished Flintlock
+2x Throwing Knife
+2x Uppman's Jacket
+2x Answering the Call
+2x Precision
+2x Fight Through the Pain
+2x Iron Reply
+2x Last Word
+2x Move Along
+2x Press the Advantage
+2x Regroup
+2x Stratege
+2x I'm Done with You
+2x Not Today
+2x Well Equipped
+2x Triage
+
+Additional notes:
+- Source archive post 43: Gadd - Eisen - UKGE 2024
+- Archive attribution/date: Agent006 — 2024-06-16

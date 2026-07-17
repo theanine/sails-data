@@ -1,0 +1,58 @@
+Faction: Montaigne
+Location: Gen Con 2023
+Position: Top 16
+Date: 8/6/2023
+Author: Cranor
+Deckname: 
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Odette Dubois d'Arrent
+
+1x Urraca de Murrieta
+1x Henri Michelet
+1x Maxime de Lafayette
+1x Léontine Giroux
+1x Jean Urbain
+
+1x Parley Gone Wrong
+1x Réputation Méritée
+1x Épée Sanglante
+1x Contempt and Hatred
+1x Midnight Shipment
+
+1x Uppman's Jacket
+2x Matchlock Musket
+2x Disarm
+2x Defending Honor
+2x Appealing to the People
+1x Pull
+2x Cavalier Hat
+1x Opulence
+1x Triage
+2x Broken-time
+2x Corpse Speak
+1x Blood Mark
+1x Tabard of the Fallen Musketeer
+1x Mastercrafted Rapier
+1x Sea Legs
+1x I'm Done with You
+2x Master of Valroux Style
+1x Boon
+2x Legendary Reputation
+1x A Heroic End
+1x You're Embarrassing Yourself
+1x Hidden Corridors
+2x Valiant Spirit
+2x Status Matters
+1x Devotion
+1x Porté Travel
+1x Come Hither
+2x Friends at Court
+
+Additional notes:
+- Source archive post 16: GenCon 2023 Montaigne Top 16 - Cranor
+- Archive attribution/date: Agent006 — 2024-05-17

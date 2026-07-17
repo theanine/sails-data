@@ -1,0 +1,51 @@
+Faction: Castille
+Location: GenCon 2023
+Position: Finalist
+Date: 8/6/2023
+Author: Verhagen
+Deckname: 
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Soline el Gato
+
+1x Maya de La Rioja
+1x Makepeace Botwighte
+1x Sanjay
+1x Ratón
+1x "Madre" Dolores
+
+1x The Cat's Embargo
+1x Shifting Tides
+1x Let's Haggle
+1x Filling the Ranks
+1x Marooned
+
+2x Night of Drinking
+2x Life in the Canals
+2x Roll the Bones
+1x Adaptable
+2x Robbery
+2x A New Strategy
+2x Carnaval
+2x Gallegos Blade
+2x Research
+1x The Cat's Glass
+2x Improvising
+2x Drinking Games
+2x Appealing to the People
+2x Amour
+2x Opulence
+2x Triage
+2x Breastplate
+2x Hidden Corridors
+2x Tending the Wounded
+2x Shoddy Craftsmanship
+2x Come Hither
+
+Additional notes:
+- Source archive post 1: GenCon 2023 Castille Finalist - Verhagen
+- Archive attribution/date: Agent006 — 2024-05-17

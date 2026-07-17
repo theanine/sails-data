@@ -1,0 +1,54 @@
+Faction: Ussura
+Location: European Championships 2025
+Position: Unknown
+Date: 5/11/2025
+Author: D. Hazelden
+Deckname: 
+Archetype: Dueling
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Yevgeni
+
+1x Ekaterina Ilyanava
+1x Elina Georginova
+1x Miyato and Ota
+1x Torsten Vakt
+1x Ved'ma
+
+1x Midnight Shipment
+1x The Boar's Guile
+1x Leshiye of the Wood
+1x Let's Haggle
+1x Winter's Winds
+
+2x Strong Hands
+2x Matushka's Command
+1x Matushka's Sight
+1x Blood Like Winter
+2x Matushka's Efficiency
+2x Mireli's Revision
+2x Pull
+2x Sunder
+2x Stubborn
+1x Strength of Ten
+2x Iron and Velvet
+2x Predatory Pursuit
+1x Justice Served Cold
+2x Matchlock Musket
+1x Grandfather's Hammer
+2x Razrushitel
+1x Relentless
+2x Mireli Sabre
+2x Bleed Out
+1x Collateral Damage
+2x Throwing Knife
+2x Indomitable Will
+2x Appealing to the People
+1x Voice of the Gods
+
+Additional notes:
+- Source archive post 69: European Championships 2025 - Ussura - D. Hazelden
+- Archive attribution/date: Agent006 — 2025-05-11

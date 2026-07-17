@@ -1,0 +1,55 @@
+Faction: Castille
+Location: Gen Con 2024
+Position: 10th in Swiss, 3rd Castille
+Date: 8/4/2024
+Author: Scott C. (Kaffis)
+Deckname: 
+Archetype: Switch
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Soline el Gato
+
+1x "Madre" Dolores
+1x Makepeace Botwighte
+1x Maya de La Rioja
+1x Ratón
+1x Torvo Espada
+
+1x Castillian Caper
+1x Let's Haggle
+1x Rumours of the Crimson Roger
+1x Shifting Tides
+1x The Cat's Embargo
+
+1x Adaptable
+2x Amour
+2x Improvising
+2x Night of Drinking
+2x Not Today
+2x Nothing Personal
+2x Raise the Stakes
+2x Relentless
+1x Robbery
+2x Roll the Bones
+2x Sea Legs
+2x Taunt
+2x Triage
+2x Unsanctioned Duel
+2x You Cheated!
+2x Concealed Flintlock
+2x Gallegos Blade
+2x Main Gauche
+2x Matchlock Musket
+1x Mysta
+1x The Cat's Glass
+2x Uppman's Jacket
+
+Additional notes:
+- Source archive post 53: Scott C's GenCon 2024 Castille - 10th in Swiss, 3rd in faction
+- Archive attribution/date: Kaffis — 2024-08-05
+- The author went 3-2, including two Castille mirrors and three Vodacce opponents. The deck tests whether Tooth & Claw lets Castille compete through violence while retaining movement and disruption.
+
+- Date is a best-estimate (8/4/2024).

@@ -1,0 +1,52 @@
+Faction: Castille
+Location: GenCon 2023
+Position: Top 16
+Date: 8/6/2023
+Author: Horn
+Deckname: 
+Archetype: Passive
+Meta: Core
+
+Link1: 
+Link2: 
+
+Soline el Gato
+
+1x Patricia Moustakas
+1x Sanjay
+1x Ratón
+1x "Madre" Dolores
+1x Maya de La Rioja
+
+1x Parley Gone Wrong
+1x Shifting Blame
+1x The Cat's Embargo
+1x Let the Sword Decide
+1x Marooned
+
+2x Night of Drinking
+2x Life in the Canals
+2x Not Today
+2x Roll the Bones
+1x Adaptable
+1x Unfortunate
+2x Robbery
+2x Gallegos Blade
+2x Carnaval
+1x The Cat's Glass
+2x Research
+2x Improvising
+2x Drinking Games
+2x Taunt
+2x Appealing to the People
+2x Amour
+1x Paid Off
+2x Opulence
+2x I Know that Trick!
+2x Tending the Wounded
+2x Breastplate
+2x Come Hither
+
+Additional notes:
+- Source archive post 2: GenCon 2023 Castille Top 16 - Horn
+- Archive attribution/date: Agent006 — 2024-05-17

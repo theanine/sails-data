@@ -1,0 +1,51 @@
+Faction: Eisen
+Location: European Championships 2025
+Position: 2nd Place, Top Eisen
+Date: 5/11/2025
+Author: E. Zonneveld
+Deckname: 
+Archetype: Dueling
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Kaspar Dietrich
+
+1x Terrell Brandt
+1x Rosine Friese
+1x Uwe Zimmerman
+1x Edeline Trinken
+1x Philip Hase
+
+1x Teeth of the Drachen
+1x Armed and Marshaled
+1x Kaspar's Occupation
+1x Contempt and Hatred
+1x The Song of Eisen
+
+2x Well Equipped
+2x Polished Flintlock
+1x Dark Gift
+1x Kaspar's Panzerhand
+2x Throwing Knife
+2x Uppman's Jacket
+2x Concealed Flintlock
+2x Last Word
+2x Hexenjagd
+2x Collateral Damage
+2x Unsavory Salve
+2x Appealing to the People
+2x Bleed Out
+2x Opulence
+2x Matchlock Musket
+2x Fight Through the Pain
+2x Stratege
+2x Press the Advantage
+2x Regroup
+2x Langschwert
+2x Move Along
+
+Additional notes:
+- Source archive post 73: European Championships 2025 - Eisen 2nd Place - E. Zonneveld
+- Archive attribution/date: Agent006 — 2025-05-11

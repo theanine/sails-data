@@ -1,0 +1,63 @@
+Faction: Eisen
+Location: GameHole Con 2023
+Position: 1st Place, Top Eisen
+Date: 10/22/2023
+Author: Tom Sorenson
+Deckname: Beatdown
+Archetype: Dueling
+Meta: Core
+
+Link1: https://www.tomsepicgaming.com/author/thomas-d-sorensongmail-com/
+Link2: https://www.tomsepicgaming.com/eisen-full-strategic-breakdown/
+
+Kaspar Dietrich
+
+1x Daniella Dietrich
+1x Otto Streit
+1x Philip Hase
+1x Uwe Zimmerman
+1x Terrell Brandt
+
+1x Midnight Shipment
+1x Let's Haggle
+1x Armed and Marshaled
+1x Let the Sword Decide
+1x The Song of Eisen
+
+1x Dark Gift
+1x Kaspar's Panzerhand
+2x Langschwert
+2x Polished Flintlock
+2x Unsavory Salve
+2x Breastplate
+2x Corpse Speak
+2x Matchlock Musket
+2x Throwing Knife
+2x Uppman's Jacket
+2x Fight Through the Pain
+2x Precision
+2x Last Word
+2x Move Along
+2x Press the Advantage
+2x Regroup
+2x Stratege
+2x Well Equipped
+2x Appealing to the People
+2x Bleed Out
+2x Opulence
+
+Swapped out both precision/iron reply for two of the zealot card that damages your guy and gives you +influence for a check
+swapped out corpse speaks for 1 dame of swords 1 of the unique Eisen cross
+swapped out 1 opulence for 1 Relentless
+Turais tales the 5th character slot from Rena/Use
+Song of Eisen swapped out for the scheme that lets you discard cards from the city deck to set up a recruit with ability if no mercs flop day 1
+Untested changes though, happy to answer further questions (I check irregularly though so an @ helps to summon me)
+Glad you've been enjoying the list, been good to me
+
+Additional notes:
+- Source archive post 52: Tom Sorenson's Eisen Beatdown - 1st Place - GameHole Con 2023
+- Archive attribution/date: Agent006 — 2024-07-06
+- Dark Gift — unique
+- Kaspar's Panzerhand — unique
+
+- Date is a best-estimate (10/22/2023).

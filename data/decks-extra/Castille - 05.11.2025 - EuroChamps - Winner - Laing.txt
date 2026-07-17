@@ -1,0 +1,51 @@
+Faction: Castille
+Location: European Championships 2025
+Position: 1st Place, Top Castille
+Date: 5/11/2025
+Author: D. Laing
+Deckname: 
+Archetype: Passive
+Meta: TaC
+
+Link1: 
+Link2: 
+
+Soline el Gato
+
+1x Lorenzo de Zepeda
+1x Sanjay
+1x Makepeace Botwighte
+1x "Prima" Rosa
+1x Torvo Espada
+
+1x Marooned
+1x Shifting Blame
+1x The Cat's Embargo
+1x Until Morale Improves
+1x Castillian Caper
+
+1x Adaptable
+1x Not Today
+2x Improvising
+2x Roll the Bones
+2x Night of Drinking
+2x Taunt
+2x Siesta
+2x Tending the Wounded
+2x Nothing Personal
+2x You Cheated!
+2x Amour
+2x Life in the Canals
+2x Raise the Stakes
+2x Concealed Flintlock
+2x Hidden Corridors
+2x Uppman's Jacket
+2x Quick Reflexes
+2x Unsanctioned Duel
+2x I'm Done with You
+2x Heroic Intervention
+2x Carnaval
+
+Additional notes:
+- Source archive post 72: European Championships 2025 - Castille 1st Place - D. Laing
+- Archive attribution/date: Agent006 — 2025-05-11
