@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-17T00:18:39Z",
+  "generated_at": "2026-07-17T02:31:08Z",
   "decks": [
     {
       "id": "tourney:Castille_-_03.05.2025_-_Local_-_Winner_-_SLan.txt",
@@ -11,6 +11,7 @@
       "date": "2025-03-05",
       "author": "SLan'",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -189,6 +190,7 @@
       "date": "2026-04-08",
       "author": "Tom Sorenson",
       "archetype": "Dueling",
+      "meta": "BaS",
       "leader": {
         "id": "744d716f-2cc1-475a-96a7-dd6cd9cfe3f8",
         "name": "Sanjay"
@@ -372,6 +374,7 @@
       "date": "2026-04-08",
       "author": "Tom Sorenson",
       "archetype": "Passive",
+      "meta": "BaS",
       "leader": {
         "id": "744d716f-2cc1-475a-96a7-dd6cd9cfe3f8",
         "name": "Sanjay"
@@ -555,6 +558,7 @@
       "date": "2025-05-11",
       "author": "L. Sewell",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -733,6 +737,7 @@
       "date": "2025-05-11",
       "author": "C. Overfield",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -916,6 +921,7 @@
       "date": "2025-05-11",
       "author": "D. Laing",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -1089,6 +1095,7 @@
       "date": "2024-05-14",
       "author": "Remedy",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -1267,6 +1274,7 @@
       "date": "2024-05-20",
       "author": "Remedy",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -1440,6 +1448,7 @@
       "date": "2024-06-01",
       "author": "El Vago",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -1613,6 +1622,7 @@
       "date": "2024-06-01",
       "author": "Laing",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -1796,6 +1806,7 @@
       "date": "2024-06-01",
       "author": "Starrs",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -1969,6 +1980,7 @@
       "date": "2024-08-04",
       "author": "Scott C. (Kaffis)",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -2147,6 +2159,7 @@
       "date": "2024-08-04",
       "author": "Dustin Horn",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -2315,6 +2328,7 @@
       "date": "2024-08-04",
       "author": "AJ Valle",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -2488,6 +2502,7 @@
       "date": "2023-08-06",
       "author": "Horn",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -2666,6 +2681,7 @@
       "date": "2023-08-06",
       "author": "Valle",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -2839,6 +2855,7 @@
       "date": "2023-08-06",
       "author": "Verhagen",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -3012,6 +3029,7 @@
       "date": "2023-10-06",
       "author": "Rickbran",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -3185,6 +3203,7 @@
       "date": "2023-10-09",
       "author": "Ovilord",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -3363,6 +3382,7 @@
       "date": "2022-11-09",
       "author": "Lapp",
       "archetype": "Passive",
+      "meta": "Beta",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -3536,6 +3556,7 @@
       "date": "2023-12-05",
       "author": "Kaffis",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -3734,6 +3755,7 @@
       "date": "2025-05-11",
       "author": "S. Aston",
       "archetype": "Dueling",
+      "meta": "TaC",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -3912,6 +3934,7 @@
       "date": "2025-05-11",
       "author": "D. Hancock",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -4095,6 +4118,7 @@
       "date": "2025-05-11",
       "author": "E. Zonneveld",
       "archetype": "Dueling",
+      "meta": "TaC",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -4268,6 +4292,7 @@
       "date": "2024-06-01",
       "author": "Gadd",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -4441,6 +4466,7 @@
       "date": "2024-06-01",
       "author": "Hazelden",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -4614,6 +4640,7 @@
       "date": "2024-06-17",
       "author": "dbcb / Coxatris",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -4787,6 +4814,7 @@
       "date": "2026-06-21",
       "author": "\"Diantre\" E. Zonneveld",
       "archetype": "Passive",
+      "meta": "BaS",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -4964,6 +4992,7 @@
       "date": "2024-08-04",
       "author": "Jon Palmer",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -5137,6 +5166,7 @@
       "date": "2024-08-04",
       "author": "Alex Schmucki",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -5310,6 +5340,7 @@
       "date": "2023-08-06",
       "author": "Palmer",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -5483,6 +5514,7 @@
       "date": "2023-08-06",
       "author": "Tom Sorenson",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -5666,6 +5698,7 @@
       "date": "2023-09-15",
       "author": "Hayes",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -5844,6 +5877,7 @@
       "date": "2023-10-22",
       "author": "Tom Sorenson",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -6017,6 +6051,7 @@
       "date": "2024-01-31",
       "author": "Rubric",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -6195,6 +6230,7 @@
       "date": "2026-04-07",
       "author": "flukeytuba",
       "archetype": "Switch",
+      "meta": "FaF",
       "leader": {
         "id": "54de271b-b707-445a-b5ee-eda0b7e0abce",
         "name": "Angeline Dèmone"
@@ -6378,6 +6414,7 @@
       "date": "2025-04-27",
       "author": "TairutheShogun",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -6546,6 +6583,7 @@
       "date": "2025-05-11",
       "author": "R. Hayes",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -6724,6 +6762,7 @@
       "date": "2025-05-11",
       "author": "J. Nichols",
       "archetype": "Dueling",
+      "meta": "TaC",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -6897,6 +6936,7 @@
       "date": "2024-06-01",
       "author": "Mike Smith",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -7070,6 +7110,7 @@
       "date": "2024-06-01",
       "author": "OpTamusPrime",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -7243,6 +7284,7 @@
       "date": "2024-06-02",
       "author": "Hastur",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -7421,6 +7463,7 @@
       "date": "2024-08-04",
       "author": "D. Bacon",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -7594,6 +7637,7 @@
       "date": "2023-08-06",
       "author": "Bacon",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -7762,6 +7806,7 @@
       "date": "2023-08-06",
       "author": "Cranor",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -7970,6 +8015,7 @@
       "date": "2023-08-06",
       "author": "Urbanek",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -8143,6 +8189,7 @@
       "date": "2023-08-06",
       "author": "Nagelvoort",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -8316,6 +8363,7 @@
       "date": "2023-08-28",
       "author": "Clique84",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -8499,6 +8547,7 @@
       "date": "2023-10-01",
       "author": "GDIAinsley",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -8672,6 +8721,7 @@
       "date": "2024-10-20",
       "author": "Tom Sorenson",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -8850,6 +8900,7 @@
       "date": "2025-05-11",
       "author": "D. Hazelden",
       "archetype": "Dueling",
+      "meta": "TaC",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -9038,6 +9089,7 @@
       "date": "2025-05-11",
       "author": "T. McIntyre",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -9216,6 +9268,7 @@
       "date": "2025-05-11",
       "author": "P. Roberts",
       "archetype": "Dueling",
+      "meta": "TaC",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -9389,6 +9442,7 @@
       "date": "2025-05-11",
       "author": "M. Smith",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -9562,6 +9616,7 @@
       "date": "2024-05-20",
       "author": "Remedy",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -9735,6 +9790,7 @@
       "date": "2024-06-01",
       "author": "Sharp",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -9923,6 +9979,7 @@
       "date": "2024-06-01",
       "author": "FlukeyTony",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -10096,6 +10153,7 @@
       "date": "2024-06-01",
       "author": "Longworth",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -10269,6 +10327,7 @@
       "date": "2026-07-15",
       "author": "Tristan",
       "archetype": "Dueling",
+      "meta": "BaS",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -10446,6 +10505,7 @@
       "date": "2024-08-04",
       "author": "Tom Sorenson",
       "archetype": "Dueling",
+      "meta": "TaC",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -10639,6 +10699,7 @@
       "date": "2023-08-06",
       "author": "Deputy Greg Melnyk",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -10822,6 +10883,7 @@
       "date": "2023-08-06",
       "author": "Dixon",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -10995,6 +11057,7 @@
       "date": "2023-08-06",
       "author": "Jacobson",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -11168,6 +11231,7 @@
       "date": "2023-08-06",
       "author": "Jozwiak",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -11351,6 +11415,7 @@
       "date": "2025-09-07",
       "author": "flukeytuba",
       "archetype": "Dueling",
+      "meta": "FaF",
       "leader": {
         "id": "c6892bcc-8c56-4b4a-b09f-ee1631286957",
         "name": "Ekaterina Ilyanava"
@@ -11534,6 +11599,7 @@
       "date": "2023-10-22",
       "author": "tso",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -11707,6 +11773,7 @@
       "date": "2022-11-17",
       "author": "Sparrowhawk",
       "archetype": "Dueling",
+      "meta": "Core",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -11880,6 +11947,7 @@
       "date": "2024-01-16",
       "author": "Nick Pruitt",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -12063,6 +12131,7 @@
       "date": "2025-05-11",
       "author": "R. Hunt",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -12246,6 +12315,7 @@
       "date": "2025-05-11",
       "author": "K. Pillai",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -12424,6 +12494,7 @@
       "date": "2025-05-11",
       "author": "R. Skelton",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -12612,6 +12683,7 @@
       "date": "2025-05-11",
       "author": "S. McLeish",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -12790,6 +12862,7 @@
       "date": "2024-05-17",
       "author": "lonki",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -12968,6 +13041,7 @@
       "date": "2024-05-20",
       "author": "Remedy",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -13151,6 +13225,7 @@
       "date": "2025-07-03",
       "author": "flukeytuba",
       "archetype": "Passive",
+      "meta": "FaF",
       "leader": {
         "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
         "name": "Cesca del Rosso"
@@ -13344,6 +13419,7 @@
       "date": "2024-08-04",
       "author": "Josh Jonas",
       "archetype": "Passive",
+      "meta": "TaC",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -13522,6 +13598,7 @@
       "date": "2024-08-04",
       "author": "Nick Pruitt",
       "archetype": "Switch",
+      "meta": "TaC",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -13700,6 +13777,7 @@
       "date": "2023-08-06",
       "author": "The Don",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -13878,6 +13956,7 @@
       "date": "2023-08-06",
       "author": "Hayes",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -14056,6 +14135,7 @@
       "date": "2023-08-06",
       "author": "Nick Pruitt",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -14249,6 +14329,7 @@
       "date": "2023-08-06",
       "author": "Laird",
       "archetype": "Passive",
+      "meta": "Core",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -14432,6 +14513,7 @@
       "date": "2024-09-24",
       "author": "Abe",
       "archetype": "Switch",
+      "meta": "Core",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -14615,6 +14697,7 @@
       "date": "2025-09-29",
       "author": "skelton",
       "archetype": "Passive",
+      "meta": "FaF",
       "leader": {
         "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
         "name": "Cesca del Rosso"
