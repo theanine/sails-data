@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-17T20:53:48Z",
+  "generated_at": "2026-07-17T21:13:19Z",
   "decks": [
     {
       "id": "tourney:Castille_-_03.05.2025_-_Local_-_Winner_-_SLan.txt",
@@ -2175,7 +2175,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 53: Scott C's GenCon 2024 Castille - 10th in Swiss, 3rd in faction\n- Archive attribution/date: Kaffis — 2024-08-05\n- The author went 3-2, including two Castille mirrors and three Vodacce opponents. The deck tests whether Tooth \u0026 Claw lets Castille compete through violence while retaining movement and disruption.\n\n- Date is a best-estimate (8/4/2024).",
-      "source_file": "Castille - 08.04.2024 - Gencon - None - Kaffis.txt"
+      "source_file": "Castille - 08.04.2024 - Gencon - None - Kaffis.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5799,
+        "person": "scott-carlson",
+        "wins": 3,
+        "losses": 2,
+        "points": 30,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Castille_-_08.04.2024_-_Gencon_-_Top_4_-_Horn.txt",
@@ -3816,7 +3825,16 @@
         }
       ],
       "notes": "Hey, now that I'm both a) home, and b) not sleeping or working, have a Salon report from PAX Unplugged! Bottom line up front: I went 2-1 and placed 6th out of 11 to get me best in faction for Castille. Faction split was very even with 3 Vodacce and 2 of everything else.\n\nApproach Deck\n\nMadre: go-to Day 1, MVP influence and top recruiter\nMakepeace: forces card advantage if opponent seeks to equip, likes to hang out at city locations with attachments\nMaya: secondary movement shenanigans, duelist in a pinch\nPatricia: I'm getting somewhat dissatisfied with the Docks claim action, but un-challengeable can be nice. The Docks play needs more solid exhaust and/or discard support than this deck can reliably provide, and I don't know whether the juice is worth the squeeze to fix that with the current cardpool. Claiming too early will just see the location pressured out from under me again, stalling to do it late opens me up to the double pass to end the day.\nRaton: is a sneaky sometimes if my opponent is using attachments, I leave him unrecruited if not\nCat's Embargo: is sometimes disappointing Day 1 play. My goal is to punish aggressively spendy day 1 strategies like Vodacce day 1 Domination, Montaignes that gear up early, etc., but ultimately it's usually just equal to a discard effect that gives a draw at dusk because the opponent just chooses not to spend it. Definitely better to play on a day that opponent starts with few cards in hand.\nMarooned: goes after Mercenaries if opponent recruits, very good value if you can get a declined challenge in first to improve the card cost to kill.\nLet the Sword Decide: If I think I have a shot at mid-game all-in assassination, or need to put a wound or two on a character but am worried they will parry out, I'll play this to make them take chip damage more consistently.\nInspire Generosity: clutch vs. Vodacce and sometimes Eisen, for use when I've been out-recruited.\nMidnight Shipment: usually best with Patricia on the board because it will make the Docks a hot commodity.\n\nDraw Deck (See picture for decklist, I'm having trouble with the export function on the deckbuilder)\nCards that move characters: These are strong for playing for location control, isolating dueling targets to prevent intervention, and so on. Basically, turning up ready where you're not expected, or forcing others to be where they don't want to be, are some of the most powerful effects in the game. I probably want to draw one of these every day, and days where I can stockpile two can give me very dynamic options.\nCards that disrupt plans: Right along with moving things, engaging characters or blanking control of a location are great ways to react to what my opponent is trying to do.\nCards that defend or protect my characters: I've probably invested too much in this, but some of them are also in there for their RPT. This is where I'll be looking to trim fat to squeeze in a few more copies of MVPs like Upman's and a ready effect or two, and where I'll evaluate first when we get new cards.\n\nRound 1: Stephen/Eisen (Day 4 Renown loss)\nMadre -\u003e Makepeace -\u003e Patricia -\u003e Maya. Cat’s Embargo whiffed, turned out Stephen wasn’t equipping much, despite having plenty of attachments in is deck – I know, because I stole two Lanswercht to try to whittle down his crew and limit his options. Even with the +1T techniques and recruiting Carmella (? the once per day challenge while engaged) and Eko Eisen is just so capable of parrying out to end the duel before it starts in earnest. I missed an Eko trigger or two before he died to Marooned (IIRC), which could have been significant because I did get Kaspar to just decline two duels, I think. Ultimately, I couldn’t get movement effects to stick and he secured the Renown W.\n\nRound 2: Joe/Vodacce (Day 2 Domination win)\nJoe went for a day one Domination play, which I was able to foil thanks to Madre’s 3 influence and Soline’s reaction move. Day 2, I was able to double-claim with Soline, claiming first at the Forum and then using her reaction move to head to the Bazaar, where I was solidly out-influenced, but everybody was exhausted so Adaptable was able to win the day for me.\n\nRound 3: Andrew/Montaigne (Day 3 Domination win)\nAndrew commented at some point during the day that he suspected he leaned too far into the sorcery and not enough on combat for Montaigne. This was probably a reasonable assessment. I was able to isolate Odette at one point day 1 and took a swing at her, but she Not Todayed, much to my disappointment. I wasn’t even able to take advantage of her absence to claim because of the exhaustion state of her location.\nWe drew 2-2 day 1, but day 2 saw us have to burn actions to Siren’s Scream – fortunately, I was able to chuck Vlad over there to do it, since the location otherwise had no influence to compete for. Day 2 also saw Andrew able to win a Renown off of Reputation Merite, ultimately putting me down 5-2.\nDay 3 saw the Docks and the Bazaar each with 2 Renown, so I knew I had to either contest both or lose. I was aiming to Carnivale whichever Andrew tried to claim without Odette and her entourage, and go all-in on the other. As the day started to shake out, though, I realized that Maya and Madre could out-influence his 3 influence there, and Maya could move with her own action to the deserted Forums to claim it unopposed. This would still all be for naught if I couldn’t manage to wrest the Docks from Odette’s early claim and press of bodies. I had wounded Jean earlier in a duel, leaving him with one remaining health, and I had recruited Adelaide from the city deck last turn. So I sent her to go kill Jean, and I used Vlad to seduce Odette and convince her to take him back to her place. This left only 4 influence to my 5, (Soline and Makepeace with an Upman’s Jacket) and the final location could be mine. (Okay, okay, I think the order was different, Maya’s move was the last puzzle piece)\n\nFinal thoughts\nUltimately, I definitely benefitted from a few misplays and miscalculations, but I also caught several I had made an action or two too late, as well. The joys of playing a game where few people have a local regular scene (yet, I hope!). I leaned into the movement shenanigans and disruptive play of Castille with my play, and with the hindsight of 3 more games, there are a couple of my more dueling-centric cards that could stand to come out. I do think that I benefited from playing heavily to the City deck and being open (from a deckbuilding standpoint) to all 3 victory conditions. Recruiting heavily was definitely to my advantage (I think I recruited 4 mercenaries in 3 games’ day 1) as having the extra activations allowed me to stall and play reactively a lot, which helps one be disruptive as well as pivot to opportunities as they arise. I had a great time playing each of my opponents, and I’m glad that 7S5S is a community that can laugh and gasp with all the surprise clutch plays in good humor.\n\nAdditional notes:\n- Source archive post 7: Kaffis Pax Unplugged Castille 12-05-2023\n- Archive attribution/date: Agent006 — 2024-05-17\n- The author went 2-1, placed 6th of 11, and earned best-in-faction for Castille. This was transcribed from a photo; exact copy counts were inferred from visible stacks and may need verification. The supplied transcription placed Paid Off at the end of the approach list; it was moved to the faction deck because it is a Risk, producing the standard 10/40 split.",
-      "source_file": "Castille - 12.05.2023 - PAXU - None - Kaffis.txt"
+      "source_file": "Castille - 12.05.2023 - PAXU - None - Kaffis.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5781,
+        "person": "scott-carlson",
+        "wins": 2,
+        "losses": 1,
+        "points": 20,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Eisen_-_05.11.2025_-_EuroChamps_-_None_-_Aston.txt",
@@ -5817,7 +5835,7 @@
       "record": {
         "source": "l5r",
         "tournament_id": 5771,
-        "person": "thomas-sorenson",
+        "person": "tom-sorenson",
         "wins": 5,
         "losses": 2,
         "points": 40,
@@ -7427,7 +7445,17 @@
         }
       ],
       "notes": "Notes:\nI'd change appealing to the people to master of valeroux style in hindsight.\n\nQ: How did heroic end and sea legs go for you? I've been cutting them from my Montaigne lists lately to fit in other cards (musket/triage for high thrust) I realise now bleed out achieves the same thing as triage which is nice. Neat list and congrats!\nA: Heroic end is great for dragging some one down with you in a game of attrition. Sea legs was a recent addition. Mainly to keep oddette safe from some some unpleasant experiences v ussura recently. Not always useful but when it is it can be game saving. I used to play the musket but it's pretty inefficient. Costing you 3 cards for the first damage (musket, cost and discard) is a lot of investment and its telegraphed.\nQ: Yeah, I've just been using the musket for the 5 thrust… Cool to see someone else using Haratio too.\nA: He's been amazing for me\nQ: Only feel bad is when an opponent uses I know that trick back into him haha\nA: There's some talk about the games in the general chat\nQ: Did you try opulence is the other card I wondered about you have a lot of 2 cost cards?\nA: I've never ran it. It's rpt is so bad I'd rather just pitch another card rather than risk a bad gamble \nQ: Yeah that's the never ending debate. It really weakens your gamble.\nQ: Why Master over Appealing?\nA: I think appealing to the people is a kind of bad card. Not great rpt and it's very much a win more card. Motvs replaces itself is stop 3 send 3 back which is great rpt\nQ: I see the big trick at the bottom now! The opponent adds a +1 Thrust forcing the opponent to stay in the fight.\n\nAdditional notes:\n- Source archive post 40: 6-0 Montaigne at UKGE\n- Archive attribution/date: OpTamusPrime — 2024-06-02\n- The author said they would replace Appealing to the People with Master of Valroux Style in hindsight. Spreadsheet abbreviations were expanded where the supplied transcription identified the full card name.",
-      "source_file": "Montaigne - 06.01.2024 - UKGE - Winner - OpTamusPrime.txt"
+      "source_file": "Montaigne - 06.01.2024 - UKGE - Winner - OpTamusPrime.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "tam-fullard",
+        "wins": 5,
+        "losses": 0,
+        "ties": 1,
+        "points": 40,
+        "topx": 2
+      }
     },
     {
       "id": "tourney:Montaigne_-_06.02.2024_-_UKGE_-_None_-_Hastur.txt",
@@ -10368,7 +10396,16 @@
         }
       ],
       "notes": "Notes:\nSo as of late I've been playing a lot of ussura and really enjoying it. So I wanted to see how everyone else is playing them and getting on?\n\nRight now playing it like an old school Ragnar conquest deck using Yevgeni as a bully to try and push my opponents in to bad positions then using my other characters to nip out problem cards for me. Then if I can try to get a run on their boss.\n\nI cant remember who said it, the best way to duel an opponent with a ussura deck is to hit them hard and fast. So that's what I've been trying to achieve with the RPT of the deck.\n\nQ: How do you like Corpse Speak?  I'm guessing it would usually attach to Vedma?\nA: I have never attached it, its just used for the RPT. 😂\n\nAdditional notes:\n- Source archive post 20: FlukeyTony's UKGE 2024 - Semifinalist (3rd Place) Ussura\n- Archive attribution/date: Agent006 — 2024-05-17\n- Transcribed from an angled photograph. Two approach-card titles were cut off and are represented as unknown placeholders. Faction counts were inferred from visible stacks and may need verification.\n- Yevgeni — Leader\n- Validation note: the transcribed faction deck totals 39 cards rather than the standard 40.",
-      "source_file": "Ussura - 06.01.2024 - UKGE - Top 4 - FlukeyTony.txt"
+      "source_file": "Ussura - 06.01.2024 - UKGE - Top 4 - FlukeyTony.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "stephen-mcleish",
+        "wins": 3,
+        "losses": 2,
+        "points": 30,
+        "topx": 4
+      }
     },
     {
       "id": "tourney:Ussura_-_06.01.2024_-_UKGE_-_Top_4_-_Longworth.txt",
@@ -12042,7 +12079,16 @@
         }
       ],
       "notes": "Notes:\nUssura decklist i brought to gameholecon. I'm still decently high on Boon with Elina. A free renown shift, self-protection, and she can go next door and challenge if she wants. It survives while Come Hither is dead to me, from all the times Castille has Improvised it. Don't think I ended up using Valeri.\n\nAdditional notes:\n- Source archive post 21: Tso's Ussura Deck Gameholecon 2023\n- Archive attribution/date: Agent006 — 2024-05-17\n- The author said this was the Ussura list brought to GameHole Con 2023, remained high on Boon with Elina, and did not think Valeri was used.\n\n- Date is a best-estimate (10/22/2023).",
-      "source_file": "Ussura - 10.22.2023 - GameHoleCon - None - tso.txt"
+      "source_file": "Ussura - 10.22.2023 - GameHoleCon - None - tso.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5777,
+        "person": "brian-mazurowski",
+        "wins": 3,
+        "losses": 1,
+        "points": 30,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Ussura_-_11.17.2022_-_None_-_None_-_Sparrowhawk.txt",
@@ -14243,16 +14289,7 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 31: The Don's List GenCon 2023\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Vodacce - 08.06.2023 - Gencon - None - The Don.txt",
-      "record": {
-        "source": "l5r",
-        "tournament_id": 5771,
-        "person": "the-don",
-        "wins": 6,
-        "losses": 1,
-        "points": 46,
-        "topx": 8
-      }
+      "source_file": "Vodacce - 08.06.2023 - Gencon - None - The Don.txt"
     },
     {
       "id": "tourney:Vodacce_-_08.06.2023_-_Gencon_-_Top_4_-_Hayes.txt",
