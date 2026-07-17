@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-17T02:31:08Z",
+  "generated_at": "2026-07-17T20:53:48Z",
   "decks": [
     {
       "id": "tourney:Castille_-_03.05.2025_-_Local_-_Winner_-_SLan.txt",
@@ -1611,7 +1611,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 44: El Vago - Castille - UKGE 2024\n- Archive attribution/date: Agent006 — 2024-06-16",
-      "source_file": "Castille - 06.01.2024 - UKGE - None - El Vago.txt"
+      "source_file": "Castille - 06.01.2024 - UKGE - None - El Vago.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "liam-sewell",
+        "wins": 1,
+        "losses": 3,
+        "points": 10,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Castille_-_06.01.2024_-_UKGE_-_None_-_Laing.txt",
@@ -1795,7 +1804,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 46: Laing - Castille - UKGE 2024\n- Archive attribution/date: Agent006 — 2024-06-16",
-      "source_file": "Castille - 06.01.2024 - UKGE - None - Laing.txt"
+      "source_file": "Castille - 06.01.2024 - UKGE - None - Laing.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "dave-laing",
+        "wins": 2,
+        "losses": 2,
+        "points": 20,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Castille_-_06.01.2024_-_UKGE_-_None_-_Starrs.txt",
@@ -1969,7 +1987,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 45: Starrs - Castille - UKGE 2024\n- Archive attribution/date: Agent006 — 2024-06-16",
-      "source_file": "Castille - 06.01.2024 - UKGE - None - Starrs.txt"
+      "source_file": "Castille - 06.01.2024 - UKGE - None - Starrs.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "lee-starrs",
+        "wins": 1,
+        "losses": 3,
+        "points": 10,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Castille_-_08.04.2024_-_Gencon_-_None_-_Kaffis.txt",
@@ -2317,7 +2344,16 @@
         }
       ],
       "notes": "Notes:\nCards that are 100% coming out\nLife in the Canals: \nI thought this was still needed as an enabler for Sanjay or Shifting Blame, but Prima Rosa now has that comepletely covered and I never played this.\n\nRoll The Bones:\nI was thinking that with You Cheated I might need a little something for RPT strength, but it turns out people usually just quit the fight after you play You Cheated...\n\nReplacements\nQuick Reflexes:\nI didn't realized how needed this would be with Relentless now being a card, chalk it up to playing just 1 game with the new cards before Gencon\n\nPaid Off:\nNot having a good answer for Giacinto and Carmella lost me games 4 and 5...\n\nThe other card that is on the cutting block is Appealing to the People. I don't think I played it once as the timing is just not quite right for this style of play. I think I would replace it by adding I'm Done With You for more fight cancelling/wound mitigation.\n\n@Baron Fel what about adding Marooned scheme for that Merc issue?\n\nAdditional notes:\n- Source archive post 58: GenCon 2024 - Semi Finalist - Dustin Horn\n- Archive attribution/date: Agent006 — 2024-08-07\n- The source image left the counts for The Cat's Glass and Adaptable blank. They are recorded as 1x each, matching their usual unique copy count; the supplied list therefore totals 38 rather than 40 cards and should be verified.\n- The Cat's Glass — count blank in image — likely 1x\n- Adaptable — count blank in image — likely 1x\n- Validation note: the transcribed faction deck totals 38 cards rather than the standard 40.",
-      "source_file": "Castille - 08.04.2024 - Gencon - Top 4 - Horn.txt"
+      "source_file": "Castille - 08.04.2024 - Gencon - Top 4 - Horn.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5799,
+        "person": "dustin-horn",
+        "wins": 4,
+        "losses": 3,
+        "points": 30,
+        "topx": 4
+      }
     },
     {
       "id": "tourney:Castille_-_08.04.2024_-_Gencon_-_Top_8_-_Valle.txt",
@@ -2491,7 +2527,16 @@
         }
       ],
       "notes": "Notes:\nMy deck obviously did very well but there are still improvements I would make. \n-First change I would make is to drop Robbery. Did not do anything the whole day. Never seemed worth it to attach anything from my opponents discard pile because I’d basically be paying extra for it. Probably replace for I’m Done With You\n-Marooned underperformed as well. Most likely due to cut in Mercs in the city deck. Shifting Tides might replace.\n\nAdditional notes:\n- Source archive post 60: GenCon 2024 - Top 8 Castille - AJ Valle\n- Archive attribution/date: Agent006 — 2024-08-07",
-      "source_file": "Castille - 08.04.2024 - Gencon - Top 8 - Valle.txt"
+      "source_file": "Castille - 08.04.2024 - Gencon - Top 8 - Valle.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5799,
+        "person": "aj-valle",
+        "wins": 4,
+        "losses": 2,
+        "points": 40,
+        "topx": 8
+      }
     },
     {
       "id": "tourney:Castille_-_08.06.2023_-_Gencon_-_Top_16_-_Horn.txt",
@@ -2670,7 +2715,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 2: GenCon 2023 Castille Top 16 - Horn\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Castille - 08.06.2023 - Gencon - Top 16 - Horn.txt"
+      "source_file": "Castille - 08.06.2023 - Gencon - Top 16 - Horn.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "dustin-horn",
+        "wins": 3,
+        "losses": 3,
+        "points": 30,
+        "topx": 16
+      }
     },
     {
       "id": "tourney:Castille_-_08.06.2023_-_Gencon_-_Top_16_-_Valle.txt",
@@ -2844,7 +2898,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 3: GenCon 2023 Castille Top 16 - Valle\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Castille - 08.06.2023 - Gencon - Top 16 - Valle.txt"
+      "source_file": "Castille - 08.06.2023 - Gencon - Top 16 - Valle.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "aj-valle",
+        "wins": 3,
+        "losses": 3,
+        "points": 30,
+        "topx": 16
+      }
     },
     {
       "id": "tourney:Castille_-_08.06.2023_-_Gencon_-_Top_2_-_Verhagen.txt",
@@ -3018,7 +3081,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 1: GenCon 2023 Castille Finalist - Verhagen\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Castille - 08.06.2023 - Gencon - Top 2 - Verhagen.txt"
+      "source_file": "Castille - 08.06.2023 - Gencon - Top 2 - Verhagen.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "andrew-verhagen",
+        "wins": 7,
+        "losses": 2,
+        "points": 40,
+        "topx": 2
+      }
     },
     {
       "id": "tourney:Castille_-_10.06.2023_-_None_-_None_-_Rickbran.txt",
@@ -3743,7 +3815,7 @@
           "count": 1
         }
       ],
-      "notes": "Hey, now that I'm both a) home, and b) not sleeping or working, have a Salon report from PAX Unplugged! Bottom line up front: I went 2-1 and placed 6th out of 11 to get me best in faction for Castille. Faction split was very even with 3 Vodacce and 2 of everything else.\n\nApproach Deck\n\nMadre: go-to Day 1, MVP influence and top recruiter\nMakepeace: forces card advantage if opponent seeks to equip, likes to hang out at city locations with attachments\nMaya: secondary movement shenanigans, duelist in a pinch\nPatricia: I'm getting somewhat dissatisfied with the Docks claim action, but un-challengeable can be nice. The Docks play needs more solid exhaust and/or discard support than this deck can reliably provide, and I don't know whether the juice is worth the squeeze to fix that with the current cardpool. Claiming too early will just see the location pressured out from under me again, stalling to do it late opens me up to the double pass to end the day.\nRaton: is a sneaky sometimes if my opponent is using attachments, I leave him unrecruited if not\nCat's Embargo: is sometimes disappointing Day 1 play. My goal is to punish aggressively spendy day 1 strategies like Vodacce day 1 Domination, Montaignes that gear up early, etc., but ultimately it's usually just equal to a discard effect that gives a draw at dusk because the opponent just chooses not to spend it. Definitely better to play on a day that opponent starts with few cards in hand.\nMarooned: goes after Mercenaries if opponent recruits, very good value if you can get a declined challenge in first to improve the card cost to kill.\nLet the Sword Decide: If I think I have a shot at mid-game all-in assassination, or need to put a wound or two on a character but am worried they will parry out, I'll play this to make them take chip damage more consistently.\nInspire Generosity: clutch vs. Vodacce and sometimes Eisen, for use when I've been out-recruited.\nMidnight Shipment: usually best with Patricia on the board because it will make the Docks a hot commodity.\n\nDraw Deck (See picture for decklist, I'm having trouble with the export function on the deckbuilder)\nCards that move characters: These are strong for playing for location control, isolating dueling targets to prevent intervention, and so on. Basically, turning up ready where you're not expected, or forcing others to be where they don't want to be, are some of the most powerful effects in the game. I probably want to draw one of these every day, and days where I can stockpile two can give me very dynamic options.\nCards that disrupt plans: Right along with moving things, engaging characters or blanking control of a location are great ways to react to what my opponent is trying to do.\nCards that defend or protect my characters: I've probably invested too much in this, but some of them are also in there for their RPT. This is where I'll be looking to trim fat to squeeze in a few more copies of MVPs like Upman's and a ready effect or two, and where I'll evaluate first when we get new cards.\n\nAdditional notes:\n- Source archive post 7: Kaffis Pax Unplugged Castille 12-05-2023\n- Archive attribution/date: Agent006 — 2024-05-17\n- The author went 2-1, placed 6th of 11, and earned best-in-faction for Castille. This was transcribed from a photo; exact copy counts were inferred from visible stacks and may need verification. The supplied transcription placed Paid Off at the end of the approach list; it was moved to the faction deck because it is a Risk, producing the standard 10/40 split.",
+      "notes": "Hey, now that I'm both a) home, and b) not sleeping or working, have a Salon report from PAX Unplugged! Bottom line up front: I went 2-1 and placed 6th out of 11 to get me best in faction for Castille. Faction split was very even with 3 Vodacce and 2 of everything else.\n\nApproach Deck\n\nMadre: go-to Day 1, MVP influence and top recruiter\nMakepeace: forces card advantage if opponent seeks to equip, likes to hang out at city locations with attachments\nMaya: secondary movement shenanigans, duelist in a pinch\nPatricia: I'm getting somewhat dissatisfied with the Docks claim action, but un-challengeable can be nice. The Docks play needs more solid exhaust and/or discard support than this deck can reliably provide, and I don't know whether the juice is worth the squeeze to fix that with the current cardpool. Claiming too early will just see the location pressured out from under me again, stalling to do it late opens me up to the double pass to end the day.\nRaton: is a sneaky sometimes if my opponent is using attachments, I leave him unrecruited if not\nCat's Embargo: is sometimes disappointing Day 1 play. My goal is to punish aggressively spendy day 1 strategies like Vodacce day 1 Domination, Montaignes that gear up early, etc., but ultimately it's usually just equal to a discard effect that gives a draw at dusk because the opponent just chooses not to spend it. Definitely better to play on a day that opponent starts with few cards in hand.\nMarooned: goes after Mercenaries if opponent recruits, very good value if you can get a declined challenge in first to improve the card cost to kill.\nLet the Sword Decide: If I think I have a shot at mid-game all-in assassination, or need to put a wound or two on a character but am worried they will parry out, I'll play this to make them take chip damage more consistently.\nInspire Generosity: clutch vs. Vodacce and sometimes Eisen, for use when I've been out-recruited.\nMidnight Shipment: usually best with Patricia on the board because it will make the Docks a hot commodity.\n\nDraw Deck (See picture for decklist, I'm having trouble with the export function on the deckbuilder)\nCards that move characters: These are strong for playing for location control, isolating dueling targets to prevent intervention, and so on. Basically, turning up ready where you're not expected, or forcing others to be where they don't want to be, are some of the most powerful effects in the game. I probably want to draw one of these every day, and days where I can stockpile two can give me very dynamic options.\nCards that disrupt plans: Right along with moving things, engaging characters or blanking control of a location are great ways to react to what my opponent is trying to do.\nCards that defend or protect my characters: I've probably invested too much in this, but some of them are also in there for their RPT. This is where I'll be looking to trim fat to squeeze in a few more copies of MVPs like Upman's and a ready effect or two, and where I'll evaluate first when we get new cards.\n\nRound 1: Stephen/Eisen (Day 4 Renown loss)\nMadre -\u003e Makepeace -\u003e Patricia -\u003e Maya. Cat’s Embargo whiffed, turned out Stephen wasn’t equipping much, despite having plenty of attachments in is deck – I know, because I stole two Lanswercht to try to whittle down his crew and limit his options. Even with the +1T techniques and recruiting Carmella (? the once per day challenge while engaged) and Eko Eisen is just so capable of parrying out to end the duel before it starts in earnest. I missed an Eko trigger or two before he died to Marooned (IIRC), which could have been significant because I did get Kaspar to just decline two duels, I think. Ultimately, I couldn’t get movement effects to stick and he secured the Renown W.\n\nRound 2: Joe/Vodacce (Day 2 Domination win)\nJoe went for a day one Domination play, which I was able to foil thanks to Madre’s 3 influence and Soline’s reaction move. Day 2, I was able to double-claim with Soline, claiming first at the Forum and then using her reaction move to head to the Bazaar, where I was solidly out-influenced, but everybody was exhausted so Adaptable was able to win the day for me.\n\nRound 3: Andrew/Montaigne (Day 3 Domination win)\nAndrew commented at some point during the day that he suspected he leaned too far into the sorcery and not enough on combat for Montaigne. This was probably a reasonable assessment. I was able to isolate Odette at one point day 1 and took a swing at her, but she Not Todayed, much to my disappointment. I wasn’t even able to take advantage of her absence to claim because of the exhaustion state of her location.\nWe drew 2-2 day 1, but day 2 saw us have to burn actions to Siren’s Scream – fortunately, I was able to chuck Vlad over there to do it, since the location otherwise had no influence to compete for. Day 2 also saw Andrew able to win a Renown off of Reputation Merite, ultimately putting me down 5-2.\nDay 3 saw the Docks and the Bazaar each with 2 Renown, so I knew I had to either contest both or lose. I was aiming to Carnivale whichever Andrew tried to claim without Odette and her entourage, and go all-in on the other. As the day started to shake out, though, I realized that Maya and Madre could out-influence his 3 influence there, and Maya could move with her own action to the deserted Forums to claim it unopposed. This would still all be for naught if I couldn’t manage to wrest the Docks from Odette’s early claim and press of bodies. I had wounded Jean earlier in a duel, leaving him with one remaining health, and I had recruited Adelaide from the city deck last turn. So I sent her to go kill Jean, and I used Vlad to seduce Odette and convince her to take him back to her place. This left only 4 influence to my 5, (Soline and Makepeace with an Upman’s Jacket) and the final location could be mine. (Okay, okay, I think the order was different, Maya’s move was the last puzzle piece)\n\nFinal thoughts\nUltimately, I definitely benefitted from a few misplays and miscalculations, but I also caught several I had made an action or two too late, as well. The joys of playing a game where few people have a local regular scene (yet, I hope!). I leaned into the movement shenanigans and disruptive play of Castille with my play, and with the hindsight of 3 more games, there are a couple of my more dueling-centric cards that could stand to come out. I do think that I benefited from playing heavily to the City deck and being open (from a deckbuilding standpoint) to all 3 victory conditions. Recruiting heavily was definitely to my advantage (I think I recruited 4 mercenaries in 3 games’ day 1) as having the extra activations allowed me to stall and play reactively a lot, which helps one be disruptive as well as pivot to opportunities as they arise. I had a great time playing each of my opponents, and I’m glad that 7S5S is a community that can laugh and gasp with all the surprise clutch plays in good humor.\n\nAdditional notes:\n- Source archive post 7: Kaffis Pax Unplugged Castille 12-05-2023\n- Archive attribution/date: Agent006 — 2024-05-17\n- The author went 2-1, placed 6th of 11, and earned best-in-faction for Castille. This was transcribed from a photo; exact copy counts were inferred from visible stacks and may need verification. The supplied transcription placed Paid Off at the end of the approach list; it was moved to the faction deck because it is a Risk, producing the standard 10/40 split.",
       "source_file": "Castille - 12.05.2023 - PAXU - None - Kaffis.txt"
     },
     {
@@ -4455,7 +4527,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 43: Gadd - Eisen - UKGE 2024\n- Archive attribution/date: Agent006 — 2024-06-16",
-      "source_file": "Eisen - 06.01.2024 - UKGE - None - Gadd.txt"
+      "source_file": "Eisen - 06.01.2024 - UKGE - None - Gadd.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "stuart-gadd",
+        "wins": 2,
+        "losses": 2,
+        "points": 20,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Eisen_-_06.01.2024_-_UKGE_-_None_-_Hazelden.txt",
@@ -4629,7 +4710,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 42: Hazelden - Eisen - UKGE 2024\n- Archive attribution/date: Agent006 — 2024-06-16",
-      "source_file": "Eisen - 06.01.2024 - UKGE - None - Hazelden.txt"
+      "source_file": "Eisen - 06.01.2024 - UKGE - None - Hazelden.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "darren-hazelden",
+        "wins": 2,
+        "losses": 2,
+        "points": 20,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Eisen_-_06.17.2024_-_None_-_None_-_dbcb.txt",
@@ -4981,7 +5071,16 @@
           "count": 2
         }
       ],
-      "source_file": "Eisen - 06.21.2026 - EuroChamps - Winner - Zonneveld.txt"
+      "source_file": "Eisen - 06.21.2026 - EuroChamps - Winner - Zonneveld.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "eleanore-zonneveld",
+        "wins": 5,
+        "losses": 1,
+        "points": 15,
+        "topx": 1
+      }
     },
     {
       "id": "tourney:Eisen_-_08.04.2024_-_Gencon_-_Top_4_-_Palmer.txt",
@@ -5155,7 +5254,16 @@
         }
       ],
       "notes": "\"Everything is Sad and Terrible\" - a card analysis:\nKaspar - he is fine. Penya's existence is not.\nPhil - the move action is still ridiculous, the technique helps on your rare fights. Stat stick + move ability is solid\nOtto - I dunno what to do with this guy. Fewer than half of the attachments are actually good on their own, they're just in here to power other cards. Which means you can't run a ton of them. But at 14 attachments, you have a little more than a 1-in-4 chance of hitting nothing. So then he's a blank guy with bad stats, because Eisen was too good at the first GenCon and his influence got reduced from 3 to 2. \nEdaline - she's amazing most of the time on day 3 or day 4\nRosine - depends on if you're seeing Sorcerers, but the fact that she says non-Leader (and so does Press the Advantage) is incredibly limiting against Ussura. Is good against Vodacce and Montaigne and has random fun against Ravenna Destine.\nWilhelm - he replaced Uwe because 2 influence is useful on turn 5 and 1 influence is less useful\n\nMarooned - almost an every-deck card at this point I think. \nArmed and Marshaled - goes off turn 2 or turn 3, Marooned is for the other turn. Action is very good if occasionally frustrating, and you should always pitch an attachment to pay a cost turn 1 so you have a target turn 2 if you want to use this\nShifting Tides - I think I used it once? In case of emergency break glass\nUntil Morale Improves - Remember where I was complaining about the lack of 0 cost actions? This has two 0 cost actions (the -2 cards is just the opportunity cost of playing the card from your hand, equivalent to a 0 cost action)\nParley Gone Wrong - this is terrible but I want another +1 panache scheme. We're apparently not allowed to have those as a faction. It has to be the turn 1 plot, so you can't really run Let the Sword Decide because you might not see a Weapon. Well, I guess you could Shifting Tides t1 but that just seems a bad plan\n\nAttachments:\n\nDark Gift - ridiculously good, best card in the deck\nCross of the Martyrs - put this in for the 1x Paid Off I ran last year. Was good like, twice. Is the only card in the deck that triggers Wilhelm's ability.\nPolished Flintlock - expensive but actually worth it since the mediocre RPT don't hurt you\nMatchlock Musket - incredibly bad RPT but sometimes you snipe a dude and hey, it lets you Last Word or in the worst case scenario Phil\nThrowing Knife - Free for Phil and Last Word\nLangschwert - Free for Phil and useless for Last Word (every sword is a Ranged Weapon if you throw it hard enough)\nConcealed Flintlock - Ranged and the 2 Riposte is kinda nice. Replaced Breastplate which was the worst card in the deck and somehow got even worse with the new set\nUppman's Jacket - Stylish. Actually good.\n\nRisks:\n\nPress the Advantage - has too many restrictions to cost 2 even tho the effect is solid. Mediocre RPT as well. But we take what we can get (I think that may actually be Eisen's national motto)\nWell-Equipped - okay, this card is really good. Requires setup but is NOT a City action which is very important\nStratege - this one's really good too, mostly because it can move you from home. It doesn't feel like I was able to effectively move 2 characters all that often\nRegroup - meh, it's in here because it ends a duel. Having a pertinent action is a plus\nHexenjagt - also in here because it ends a duel, although in an annoying way most of the time. Canceling spells is fun against Pull, at least\nLast Word - usually good late in a turn, and the fact it's free means that when you're not an idiot like I was against Tom, it's an ideal card to have as the final card in your hand\nNot Today - basically what the deck wants to do. I did have a game last year where I actually wanted to stay in a duel and gambled both of these\nOpulence - of course\nSea Legs - really good as a reactive action, especially since we don't get any cool counterspells. Can also be used as a Hidden Corridors that engages your guy - not great, but it gets you from outside to outside in one action\nShoddy Craftsmanship - for Captain's Coat. Sometimes you'll want to break something else but outside of turning off Last Word in the mirror, you usually come out behind when you do that because the pricey stuff is all Unique\nAppealing to the People - felt like I almost never got to use this, but maybe that was just situational for this event. Or maybe I'm just bad - well definitely that one\nCome Hither - better than Press the Advantage like 90% of the time\nHidden Corridors - more movement, more duel cancel\nCollapse\n\nAdditional notes:\n- Source archive post 54: GenCon 2024 3rd Place/Top Eisen - Palmer\n- Archive attribution/date: Palmer — 2024-08-06",
-      "source_file": "Eisen - 08.04.2024 - Gencon - Top 4 - Palmer.txt"
+      "source_file": "Eisen - 08.04.2024 - Gencon - Top 4 - Palmer.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5799,
+        "person": "jon-palmer",
+        "wins": 5,
+        "losses": 2,
+        "points": 40,
+        "topx": 4
+      }
     },
     {
       "id": "tourney:Eisen_-_08.04.2024_-_Gencon_-_Top_8_-_Schmucki.txt",
@@ -5329,7 +5437,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 59: GenCon 2024 - Top 8 Eisen - Alex Schmucki\n- Archive attribution/date: Agent006 — 2024-08-07\n\n- Date is a best-estimate (8/4/2024).",
-      "source_file": "Eisen - 08.04.2024 - Gencon - Top 8 - Schmucki.txt"
+      "source_file": "Eisen - 08.04.2024 - Gencon - Top 8 - Schmucki.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5799,
+        "person": "alexander-schmucki",
+        "wins": 3,
+        "losses": 3,
+        "points": 30,
+        "topx": 8
+      }
     },
     {
       "id": "tourney:Eisen_-_08.06.2023_-_Gencon_-_None_-_Palmer.txt",
@@ -5503,7 +5620,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 12: GenCon 2023 Eisen Palmer's Take\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Eisen - 08.06.2023 - Gencon - None - Palmer.txt"
+      "source_file": "Eisen - 08.06.2023 - Gencon - None - Palmer.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "jon-palmer",
+        "wins": 4,
+        "losses": 1,
+        "points": 36,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Eisen_-_08.06.2023_-_Gencon_-_Top_8_-_Sorenson.txt",
@@ -5687,7 +5813,16 @@
         }
       ],
       "notes": "Notes:\nInitial Deck Idea\nGenerally speaking, I intended this to be a midrange deck that could win with any of the three victory conditions. The major idea I wanted to experiment with was shrugging off challenges while pushing through small amounts of damage at a time, not necessarily focusing on initiating challenges myself. I wanted only-parry cards (ex. Regroup) to end duels (if you send no threat back, the duel ends), and I wanted to use the guns (ex. Polished Flintlock) to whittle down characters.\n\nUnsavory Salve's ability to erase a threat and turn it into a wound had me salivating over the idea of achieving both of those goals at the same time. Specifically, it could turn Appealing to the People, Breastplate, and Kaspar's Panzerhand into 3 or 4 parry cards, that inflicted an unblockable wound and ended the duel, effectively erasing the value of my opponent's Engage Action (challenge). Even getting an unlucky Opulence Gamble could at least end the duel and deal a wound. Important remainder though, you can only trigger one Technique per combat round, so you can't use 2 Unsavory Salves to cancel 2 Thrust (ex. Tending the Wounded). In addition, if your weapon is destroyed or stolen, you lose the Salve.\n\nLastly, we packed 15 attachments into the deck to have an attachment density greater than 1/3 to make Otto likely to draw a card off his ability. Throwing Knives were primarily included to hit that threshold and to help enable Last Word.\n\n*Maniacal Laughter*\n\nFor those of you who clicked and are new to the blog, I will let you know that I can go on for quite a while about very intricate strategic ideas. Welcome!\n\n*courtier bow*\n\nWhile there is only 1 leader to choose from, Kaspar is strong with his big butt (9 resolve) and his ability to recruit at 4 influence. The former lets him refuse challenges he doesn't want, and the latter lets him recruit strong Mercenaries with minimal card disadvantage.\n\nApproach\nOtto‘s straightforward. Muster him round 1 of every game to draw an extra card each turn.\n\nRena was included to shield my weaker characters/mercenaries by allowing for multiple intervenes a turn, even while engaged.\n\nDaniella gives an extra challenge to any reasonable merc I recruit, even while both are engaged, which also lets me get additional value from attachments.\n\nTerrell can potentially net me a bonus card if he gambles into an attachment. (One of my most underrated cards.)\n\nRosine can engage characters and really hurt sorcerers, 5th include.\n\nMidnight Shipment and Let's Haggle, I included them initially to put out extra city cards that I could pay for, even though I was thinking lowest initiative went first. Finding out the night before that it was highest initiative was a major boon.\n\nArmed and Marshaled seemed great as I have a ton of attachments and engaging a character is great.\n\nLet the Sword Decide seduced me with its “Draw a Card” text.\n\nSong of Eisen seemed okay, but it was Eisen specific and getting back a merc to buy later seemed reasonable in addition to the Renown.\n\nFaction\nDark Gift, Otto enabler. Once per day extra mobility or healing seems great. 3 riposte is nice.\n\nKaspar's Panzerhand, Otto enabler, Unsavory Salve combat. 4 parry is strong, but while all of the effects seem powerful, likely too expensive/situational to equip often.\n\nLangschwert, Otto enabler, Unsavory Salve enabler. (Another incredibly underestimated card.)\n\nPolished Flintlock, Otto enabler, Unsavory Salve enabler, Last Word Enabler. Inflict unpreventable chip/finishing damage.\n\nUnsavory Salve, Otto enabler, see above.\n\nBreastplate, Otto enabler, Unsavory Salve combat, wanted to equip it to help mitigate damage.\n\nMatchlock Musket, Otto enabler. Inflict unpreventable chip damage. (Underestimated)\n\nThrowing Knife, Otto enabler, Unsavory Salve enabler, Last Word Enabler (underestimated)\n\nUppman's Jacket, Otto enabler. Maybe have the +1 Influence be relevant\n\nFight Through the Pain, heal a wound to keep me fighting. (Incredibly underestimated)\n\nIron Reply, unpreventable wound\n\nLast Word, unpreventable wound in combat even if bad RPT and possibly push people around (underestimated)\n\nMove Along, issue additional challenge even while engaged\n\nPress the Advantage, almost cut this card due to the 2-cost. Maneuver against an engaged enemy felt overcosted, but I figured I would hold onto them for the ability to engage and send home an enemy in case I happened to build up cards in hand.\n\nRegroup, 2-Parry combat ender\n\nStratege, a little bit of extra moving surprise card, just in case, reasonable RPT\n\nWell-Equipped, En-guard a character\n\nAppealing to the People, Unsavory Salve combat, potentially En-guard a character\n\nBleed Out, finish off a character weakened by chip damage\n\nNot Today, panic added the 2nd copy over 2nd Uppman's Jacket Friday night to protect against potential shenanigans like Yevgeni or Heroic End, which scarred me early in my playtesting against myself.\n\nOpulence, 2 cards for 1 card!\n\nShoddy Craftmanship, just in case a non-unique attachment needs to die\n\nTending the Wounded, 3 threat mitigation in a duel\n\n{Humph, that wasn't quite a ridiculously detailed as I was hoping…}\n\n1. Always going first with Midnight Shipment and Let's Haggle in addition to occasionally the others was incredibly powerful for getting to all of the Mercs/attachments from the City Deck I wanted\n2. The City Action on each of those and Armed and Marshalled were all incredible/unexpected by my opponents\n3. Turn 1 Domination is real and scary especially as I'm a value deck\n4. Whiffed 8 times trying for an attachment with Otto, want more attachments\n5. Rena did work, although Langshwert was the true hero\n6. Fight Through the Pain is one of the best cards in the game, supports overwhelming-force combat ideaology (briefly send as much threat as possible, ideally 2 or 3 above your restricted hostilities)\n\nOtto, added in 2nd copy of Uppman's Jacket and 2 copies of Corpse Speak almost exclusively to raise the odds of hitting with Otto to get an extra card to discard to costs. Due to all of the whiffing, he was very underwhelming a lot of the times, but I haven't given up on him yet.\n\nRena, did not use her Engage a weapon to intervene ability once, but wrecked some face with her 3 Combat 3 Finesse when she had a Langschwert equipped. Throwing Knives was also a reasonable 0-cost way to get her up to 3 combat.\n\nDaniella, came in only a couple times when I had strong mercs. Strong in those situations though. Okay duelist against pacifist factions. Is the only user for the addition of the Corpse Speaks.\n\nTerrell, didn't particularly shine in the tournament but in post-tournament games has been a major standout. Being able to play Musket from hand followed by Panzerhand without losing either after the duel is incredible. 5 resolve is major as well.\n\nRosine, considered using her to help me prevent the domination victory, but basically never particularly felt like bringing her out as my combat was doing so well. Ultimately cut her for Phillip Hase\n\nPhillip Hase, the movement reaction on equip feels so good to have in my pocket. The 2 influence feels nice too. (And another 3 combat character is always appreciated with the amount of combat I initiate.)\n\nMidnight Shipment, fantastic. The “I go first” card (highest initiative) that can flip up another strong card to take (or get taken). The movement City Action is also fantastic for catching people off-guard, like sending your newly recruited Merc off to fight an engaged character.\n\nLet's Haggle, fantastic. Effectively a second “I go first” card. Attachments are generally great to flip up for combat based decks as well. The ability to snipe the attachment while not on the Grand Bazaar is quite nice, as is the discount to maintain card advantage.\n\nArmed and Marshaled, that expend is great. As is the ability to get back a Langschwert to equip or a Musket to use as a deadly combat card.\n\nLet the Sword Decide, solid. Will basically always draw Eisen a card and can cancel fun things like Roll the Bones or Veronica's Guile.\n\nSong of Eisen, I keep it for the almost guaranteed Renown gain but rarely play it.\n\nCorpse Speak, attachments 17 and 18 for Otto reliability. Will be played very infrequently for its effect, however, there are quite a few reasonable Risks worth having Daniella replay.\n\nDark Gift, solid.\n\nKaspar's Panzerhand, great with Terrell. Might be nice against Montaigne, but I have yet to spend 2 to equip it, and I doubt I will often…ever?\n\nLangschwert, one of the best cards in the deck. The ability to throw an extra threat in your challenge and then to stack another on your haymaker follow up is enough to kill a lot of characters. 0-cost too. So good.\n\nPolished Flintlock, only came down once, but I was giggling about it for a couple days afterwards (maybe played twice). With Opulence upped to 2-of, it seems quite nice if I only have to spend 1 card for it. The threat of 1 more damage is definitely worth it and having another Last Word enabler is great.\n\nUnsavory Salve, never played it. Somewhat afraid of Shoddy, but mostly I fought factions where I didn't want the duels to end, no Montaigne opponents, and I was hunting boar. Stays in the deck as an attachment for Otto though. Likely gets pushed out as new attachments become available.\n\nBreastplate, never wanted to play it in combat unless to potentially fend off a final strike. Never wanted to use 2 cards (itself + 1) to equip it. Otto fodder.\n\nMatchlock Musket, oh man I think people are sleeping on this card. The 5 threat is absolutely incredible as it allows you to overwhelm an opponent's dueling defenses. It seems like a lot of people are enamored with cards that give 3 Riposte/Parry (I was too), but if you play a Musket with a Langschwert charge on a 3 combat hero, there 3 defense becomes literally meaningless. Turns their Appealing to the People into an Opulence. I did this to so many players and they just stared at it until they realized they just lose to it. The fact that Terrell can play this for free is incredible. The fact that Otto pulls it is great. The fact that you can also equip it to finish off a wounded card and then keep pumping out damage is delicious but generally its secondary function. This is the poster child of overwhelming-force combat. It isn't about surviving your opponent's threat with Riposte/Parry on your Gambles, its about surviving with Resolve and killing them almost instantly, even if it costs a card from hand. (Then you can gamble after to mitigate some of the return threat.)\n\nThrowing Knife, quite reasonable at enabling Rena and other “equipped” effects like Well-Equipped. The extra thrust can matter too and if it inflicts a wound, it is a better return-on-investment than all of my other unpreventable wound inflictors like Bleed Out.\n\nUppman's Jacket, Otto fodder. Not a bad card and the +1 Influence can certainly matter, but Kaspar's 4 on recruit is usually enough.\n\nFight Through the Pain, one of the best cards in the game. For the same overwhelming-force reasons as Musket, it trades the valuable attachment tag for a wound heal that happens after restricted hostilities. So, if someone Musket + Langschwerts me with a 3 combat character, as long as I don't die, this effectively has 4 Parry, in addition to the 5 thrust. Chef's kiss. Even though I brought it for the action heal, I would be hard pressed to ever not save it for combat, but it can get you above the 3 health threshhold to enable one round of surviving combat or refusing duels etc. Bring me all of the cards that effectively negate R/P defense.\n\nIron Reply, meh. Haven't gotten into many situations where this can just finish off a character. Next card I would cut if I have to. Considered running New Strategies over them, but I don't want to completely cut off the Renown win.\n\nLast Word, 0-cost enemy movement is so helpful in so many ways. Move out a possible intervener. Push out influence to enable a claim. Send someone over to your smasher, etc. This card did so much work for me and no one ever saw it coming.\n\nMove Along, great, additional challenge to kill a character or send them home engaged for 2 total cards.\n\nPress the Advantage, I still never want to pay for this as combat card, unless I'm about to get an Assassination. But, the ability to engage and send someone home is so strong, especially since I frequently have a card advantage with Otto (post attachment increase) and Kaspar's 4 influence recruit.\n\nRegroup, decent movement tool. Usually don't want to be the one ending duels. It stays for the movement.\n\nStratege, a wanted more movement after seeing the Vodacce/Solines out there. Never played it in the tournament … or after yet…However, since it is not a “City” Action, it could even move my engaged characters out of home, so I can follow up with Well-Equipped or Move Alongs!\n\nWell-Equipped, obviously excellent\n\nAppealing to the People, if it lets me En garde, it is solid, but the requirement to control the location is not meaningless. 3 Parry isn't terrible against those final gambles.\n\nBleed Out, finishing off a character is worth 2 cards. 1 Riposte 3 Thrust isn't bad either.\n\nNot Today, cut entirely as I was the threat, not the threatened. Did save Otto from a Yevgeni once though. Not worth including… probably\n\nOpulence, deck contains a bunch of 2 cost cards and I am frequently chasing down city cards. With the deletion of Not Today, the odds of flipping two terrible gamble cards for maintaining a duel are acceptable\n\nShoddy Craftmanship, why kill the attachment when you can kill the character? (Cut)\n\nTending the Wounded, used once to heal 4, was okay. 3 parry is fine, other cards are better. (Cut)\n\nAdditional notes:\n- Source archive post 9: GenCon 2023 Eisen QuarterFinalist - Sorenson\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Eisen - 08.06.2023 - Gencon - Top 8 - Sorenson.txt"
+      "source_file": "Eisen - 08.06.2023 - Gencon - Top 8 - Sorenson.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "thomas-sorenson",
+        "wins": 5,
+        "losses": 2,
+        "points": 40,
+        "topx": 8
+      }
     },
     {
       "id": "tourney:Eisen_-_09.15.2023_-_None_-_None_-_Hayes.txt",
@@ -6040,7 +6175,16 @@
         }
       ],
       "notes": "Swapped out both precision/iron reply for two of the zealot card that damages your guy and gives you +influence for a check\nswapped out corpse speaks for 1 dame of swords 1 of the unique Eisen cross\nswapped out 1 opulence for 1 Relentless\nTurais tales the 5th character slot from Rena/Use\nSong of Eisen swapped out for the scheme that lets you discard cards from the city deck to set up a recruit with ability if no mercs flop day 1\nUntested changes though, happy to answer further questions (I check irregularly though so an @ helps to summon me)\nGlad you've been enjoying the list, been good to me\n\nAdditional notes:\n- Source archive post 52: Tom Sorenson's Eisen Beatdown - 1st Place - GameHole Con 2023\n- Archive attribution/date: Agent006 — 2024-07-06\n- Dark Gift — unique\n- Kaspar's Panzerhand — unique\n\n- Date is a best-estimate (10/22/2023).",
-      "source_file": "Eisen - 10.22.2023 - GameHoleCon - Winner - Sorenson.txt"
+      "source_file": "Eisen - 10.22.2023 - GameHoleCon - Winner - Sorenson.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5777,
+        "person": "tom-sorenson",
+        "wins": 6,
+        "losses": 0,
+        "points": 40,
+        "topx": 1
+      }
     },
     {
       "id": "tourney:Montaigne_-_01.31.2024_-_None_-_None_-_Rubric.txt",
@@ -7099,7 +7243,17 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 41: 2nd Place Montaigne UKGE\n- Archive attribution/date: Mike Smith — 2024-06-02\n- Obvious spelling variants were normalized to canonical card names; otherwise the supplied transcription was preserved.",
-      "source_file": "Montaigne - 06.01.2024 - UKGE - Top 2 - Smith.txt"
+      "source_file": "Montaigne - 06.01.2024 - UKGE - Top 2 - Smith.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "mike-smith",
+        "wins": 4,
+        "losses": 1,
+        "ties": 1,
+        "points": 30,
+        "topx": 2
+      }
     },
     {
       "id": "tourney:Montaigne_-_06.01.2024_-_UKGE_-_Winner_-_OpTamusPrime.txt",
@@ -7452,7 +7606,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 49: Hastur's Montaigne - UKGE 2024\n- Archive attribution/date: Agent006 — 2024-06-16\n\n- Date is a best-estimate (6/2/2024).",
-      "source_file": "Montaigne - 06.02.2024 - UKGE - None - Hastur.txt"
+      "source_file": "Montaigne - 06.02.2024 - UKGE - None - Hastur.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "hastur",
+        "wins": 2,
+        "losses": 2,
+        "points": 20,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Montaigne_-_08.04.2024_-_Gencon_-_Top_2_-_Bacon.txt",
@@ -7626,7 +7789,16 @@
         }
       ],
       "notes": "Notes:\nThe goal of this deck was to win on Renown, either outright or during tie-breakers on Day 5. This deck’s only job is to rack up money as fast as possible and stay alive doing it.\n\nDeck Construction\nT\u0026C gave Montaigne a big boost to the money game and we’re going to use almost all of it\n\nCharacters\nMax: Inf3 and doesn't get dinged by BloodMark and Porte, almost always a round 1 pick, particularly against Vodacce \nStranahan: Incredibly average stats and his Technique won't help much, but he can protect your Diplomats and has a whopping 4 Finesse to boot his way to a parry-out easily\nSir Jack: Sir Jack is a prince, put him on a high renown location turn 1 of any day and watch him kick a Duelist or a high influence support character to the curb.  That and the idea of a tiny British man flinging Yevgeni out a window is priceless\nGuillen: Odette can move money if someone fights you, but Guillen guarantees money movement if your dancing around with fellow cowards, having both in the early days of a match is a must if your not getting chased around by duelists \nUrraca: If you know deep in your bones someone is going to Tides (lots of renown left over on a location or scary mercenaries on multiple locations) bring out Urraca to stack up more money.  If your opponent is also playing the money game, she’s great at spreading it out \n\nSchemes: \n\nTides: Shifting Tides has one job, make mercenaries go away, its good at that job\n\nReputation: Reputation Merite is usually going to be your Day 1 play because it has high initiative and gets you an extra dude, this necessitates taking Max day 1 as well because nothing sucks more than getting your Pressure denied by Objection\n\nTea and Cakes: Some folks hate on Snack Time but it's a free move, free money movement, and free enemy movement. Between Oddette, Guillian and Tea and Cakes, you can shift 3 renown from one location to another.  Imagine someone stacking 3 renown on the forums, stacking up all their most dangerous Duelists on that location, then everything shifts over to the Grand Bizarre where they have no presence at all.\n\nUntil Moral Improves: This scheme is in here in case you are behind against fight decks. I know what you're thinking, “But Derek, -2 Penache is crippling!” and you might be right if Odette didn't have the highest Panache in the game. A five card hand hurts but the ability to recruit a merc, then stand up, then claim the location with extra merc influence can flip a location.  Another fantastic use is telling a Duelist/Yevgeni to sit down. That shift in action economy can turn the tide of a day quickly\n\nContempt and Hatred: Contempt is like Tides, it has one job, make mercenaries go away; being able to win locations on a tie is icing on the cake\nFaction Deck:\n\nThe entire deck revolves around grabbing money, moving around, and avoiding fights (with one exception).\n\nBreastplate: Blocks a hit, this is in here just to turn a 2 Parry Blood Mark able to stop 3 threat\nConcealed Flintlock: Extra Parry, the Approach deck is full of 1 Combat characters, works well\nPorte: Usually a Parry-Out, but moving someone (or several someones) from the middle of nowhere to a contested area is always valuable \nGallant Deeds: Mostly here for the great RPT, but standing up a dude to claim when everyone else is engaged can turn a location\nQuick Reflexes: Avoid getting bled-out, Stiletto’d, Relentless’d, etc\nBlood Mark: Interesting thing about Blood Mark, it's an action and not a CITY action, don't be afraid to bring Odette and Max from home to a location with high renown day 1 turn 1 just to establish absolute dominance of that area with 6 influence on-location right off the beat\nDiplomatic Impunity: Better in the late game when you have more diplomats, this can however enable a sneaky Day 1 Dominance victory if your lucky\nBattle of Wits: This is the exception to violence I was talking about, use Battle of Wits to either put down low influence Duelists or snipe a high influence support character.  Use an influence boosting equipment first to really stack up the damage\nEventail: The extra Influence while standing is great, but the real value is the extra Finesse, bringing Guillien to 2 Finesse almost guarantees that he’ll get a Parry-Out during a duel.  Getting Urraca to 3 Finesse is a magic number with Quick Reflexes\nDevotion: Devotion is a controversial card in most decks, but in any deck which is specialized, it is vital.  This is another card that gains value if your A. Paying attention to your discard pile and B. You need to draw an answer to a delicate board state.  There will be times when you are facing down Yevgeni next action no matter what you do and just NEED to pull a Parry-Out card; Devotion will either A. Get you that card outright or B. bring you 3 cards closer to that Parry-Out. Pitching two cards of nebulous value in a fight for one answer is an easy choice\nTending the Wounded: Keeps Stranahan alive\nPull: Never forget that Pull works for friend and foe, occasionally you need to pull Odette out of a sticky situation, or yank a high influence character off a location stacked with renown\nFraternite: Turn a merc into a meat-shield for Odette\nNot Today: Everyone runs Not Today\nSea Legs: A must-have answer to Pull, Taunt, Come Hither, Last Word, etc.  You will be tempted to pitch it to pay for something else, the moment you do, they’ll pop Dante and drag Odette kicking and screaming to a murder-pile; never, ever pitch your answers to pay for something else \nI'm Done With You: Another Parry-Out\nHidden Corridors: Parry-Out with a twist, sometimes the maneuver can move you onto a location you need to be in to bump the Influence over the top\nCome Hither: Works for friend and foe, useful for pushing Duelists to the middle of nowhere or bait-and-switching your own high influence character to a secondary renown location (which you can make primary renown location with Odette and/or Guillen)\nAppealing to the People: Very useful with Eventail, grab a location and then stand up to force your opponent to over-commit their high influence characters\nUppman's Jacket: Mutually exclusive with Eventail (who wears a fan and a jacket? That's basically socks with sandals, gauche in the extreme) but kicking up Odette to 4 Influence and then throwing a Battle of Wits at Yevgeni is very funny\nTabard: Your best Parry-Out, you can slap it on a merc to stand in front of Odette, but that should only happen if Stranahan is dead and the merc is Duelist so as to benefit from Odette’s city action (So really only Leja and Carmella)\nDay by Day Guidelines\n\nDay 1: Your default Day 1 is going to be Max and Reputation Merite, Max gets you another 3 influence character to ensure Voddace has a much harder time pulling off a day 1 Dominance Victory, and he’s your only sorcerer, so if you pull a Bloodmark or Porte they aren't dead cards in your hand. Reputation gets you another body, who that body is depends on your opponent: If you know your opponent is going to throw fights and you don't have any Parry-Out cards in hand, grab Stranahan, otherwise grab Guillen to move money or if you’ve got all 2 or 3 renown on lock, grab Urraca to put more money on the table the next day.  If you’ve got a crowd around your squishies, bring in Jack to kick em to the curb.\n\nDay 1 is about grabbing money and staying alive, if you’ve got the magic hand of Battle of Wits and a few movement cards, you could theoretically get a turn 1 dominance, but I've only ever pulled that off day 2.  Have Max either back up Odette to ensure the recruitment goes off uncontested or send Max to buy up a merc so you’re two bodies ahead if you have the first turn.\nDay 2: Now things start getting a bit more flow-chart-ish.  Your dude should be Jack if you haven't grabbed him already because he can kick other dudes around.  Day 1 is usually 1 renown on every location, but day 2 has more stacked money, thats where Jack shines.  The scheme is a bit more flexible, if you see some scary mercenaries, Tide or Contempt is your friend, otherwise go Tea and Cakes for movement and to synergize with Jack.  If you're down on bodies, pick up Until Morale Improves to win on action economy.\n\nIf you're up on influence and up on bodies, play aggressively. Move Jack to the spot with the highest renown and have him kick whoever they send to the curb.  An intelligent opponent will send someone with an inbuilt movement effect (Soline or Elina come to mind), watch for this and don't jump the gun, always kick a duelist or a high influence character to the middle of nowhere with Jack.  This will either make that character a non-issue for the day or force your opponent to play an answer early, both are valuable.\nIt's a well-known trope that Montaigne always wants to camp out at the forums, and usually that's true, but with Tea and Cakes we can subvert that perception to our advantage. Your opponent will put their gifted renown from Tea and Cakes pretty much anywhere but the Forums to force you to spread your forces out or pick fights to drag it back.  Odette and Guillen say that any location can be our ‘Forums’.\n\nForce your opponent to over-commit to the forums, and then send your characters to the secondary renown location and start siphoning money out from under them.  Use Jack at the Forums to grab a renown with Tea and Cakes and grab one of their more harmless characters (someone engaged or a non-combatant).  By the time your opponent realizes that the Forums coffers are empty in a turn or two, it will be too late, they’ll either have to play some expensive answers or shake their heads as they witness you bucketing renown like water out of a leaky boat.\nDay 3+: From here on out it's all vibes.  You should have so much renown by this stage in the game that your opponent is sweating bullets. If you're at 5+ renown, spread your money as wide as you can, if you get even one location on lock, that's it and your opponent knows it.  This is normally where I put Until Morale Improves ( UMI from here on) to ensure I'm getting at least one location.  Jack will shut someone down by booting them, UMI will shut someone down by sitting them down. That means you're up by 2 on action economy, and you should have a few cards saved up by this point to mitigate the -2 panache.\n\nMustering Urraca will ensure that there’s more money for your opponent to keep track of, again, make sure it's spread out. Don't be afraid to keep some people Home at this stage if your up on money, watch where they put their characters and move high influence characters where they need to be to ensure a balance of location dominance and safety; all if your careful planning will be for naught if Valeri comes screaming out of Home and dunks on Odette Batman-style.\nCity Deck Cards: \nYou always want to be on the lookout for a few city deck cards that will turn a calculated advantage into to a sure victory, but more often than not the City Deck is full of dangerous tools for your opponent, given the generally low Initiative this deck’s schemes have:\n\nTide or Contempt the following if you see them: \nEqual Claim, Crabs in a Bucket, Chance Meeting, Syrinth Hand, So It Begins: all of these events either mess with taking locations, erase the advantage of characters and renown you’ve gathered, or in the case of Syrinth Hand, just flat out kill you, Parry-Out or not.  If you see one, Contempt; if you see two, Tides\n\nMercenary recruitment depends on board state: if you're down on dudes, grab a merc, if you're up on dudes and only one merc is on a location, Contempt it away so your opponent doesn't have the opportunity to grab them up.  Using Tides on one merc is just asking for two mercs to come up on the flop, only Tides away 2+ mercs.\n\nThe exception to this is Penya, this deck is incredibly movement focused and if you see Penya, grab up the little scamp and let him enable your bait-and-switch money siphoning schemes. \n\nAlso remember that Gustavo and Giacinto are Diplomats as well! Add them to the ranks when opportunities allow.  Most opponents will see Gustavo and Giacinto as low-priority recruits if a combat monster like Carmella is up for the taking, use this to your advantage and grab up more Diplomat buddies!  There’s nothing quite like having 4 diplomats on the forums and watching Yevgeni get all the threat he throws at you get bounced back by Diplomatic Impunity.\nPlay Tips\n-The deck is one quarter Parry-Out cards that only block and send no threat back, this means on average if you gamble twice, you're going to get a Parry-Out card.  Keep your discard pile spread out so you can do some card-counting before you gamble, if you’ve got a Hidden Corridors in hand and your discard pile is full of Blood Marks and I’m Done With You’s, save yourself the risk and play the Hidden Corridors instead of gambling.\n\n-Odette should always be fashionably late to the party; ensure she’s always protected, even a single bad duel can end our dainty diplomat. \n\n-Only put the minimum number of characters on a location to take it with Influence, keep the rest home.  If you preemptively stack up on a high renown location with everyone you have, you're just asking for a big control card like Matuska’s Command or Indomitable Will to ruin your day and have you scrambling for answers. If you have some people in reserve (particularly Max since he can move people with Pull, Bloodmark or Porte) you can more easily wiggle out of a single-area control situation\n-You’ve got 11 movement cards in the deck use them! Don't feel the need to overcommit to a single area, sometimes it's enough to grab two locations and make your opponent decide where they’re going to put the lion’s share of their forces, then move like the wind and leave them high and dry in the middle of nowhere.  Your opponent has answers to you moving his characters (Sea Legs, Stubborn, etc.), but he’ll have far fewer answers to you moving your own people.  Bait out fights to engage his Duelists and then book it and take your money with you. \n\n-Prioritize keeping answers to playing actions: Every other faction wants to be proactive, Ussura wants to get in fights, Eisen wants to recruit mercs and start fights, Castille wants to steal stuff and drain your hand, but this decks wants to carefully place high influence people in places with a lot of money and wait.  Grab a location with money, then pass, they’ll play a control card, you’ll play an answer from hand as a reaction, then you’ll pass, and you’ll pass and pass and pass and pass.  Once you have a location with the lion’s share of money, you don't need to do anything.  Keep your answers in hand and if you don't have answers in hand, Devotion/Uppman’s Jacket to try to draw one.  You should only be as proactive as you absolutely need to be otherwise you should sit there on a pile of money like a spider in its web, patiently waiting for your opponent to run out of things to do.  This is admittedly an extremely boring way to play the game, but by Theus it works\n\nQ: Why not \"You're Embarrassing Yourself\" for the cancel to a merc challenge.  With a deck that is all about not fighting, I think it may have a place?\nA: I seriously thought about it, and it was in the original iteration of the deck but a combination of high expense, incredibly mediocre RPT, and it's inherently situational nature, made it a lower priority than a true parry-out card, which does the same effect for one card rather than two, or an answer to some shenanigans like Sea Legs\n\nAdditional notes:\n- Source archive post 55: D. Bacon's GenCon 2024 Montaigne Diplomacy - 2nd Place\n- Archive attribution/date: Baconator — 2024-08-06\n- The author's stated goal was to win on Renown (including Day 5 tie-breakers), accumulate money quickly, and survive. Abbreviated spreadsheet names were expanded where unambiguous.",
-      "source_file": "Montaigne - 08.04.2024 - Gencon - Top 2 - Bacon.txt"
+      "source_file": "Montaigne - 08.04.2024 - Gencon - Top 2 - Bacon.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5799,
+        "person": "derek-bacon",
+        "wins": 5,
+        "losses": 3,
+        "points": 30,
+        "topx": 2
+      }
     },
     {
       "id": "tourney:Montaigne_-_08.06.2023_-_Gencon_-_Top_16_-_Bacon.txt",
@@ -7795,7 +7967,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 17: GenCon 2023 Montaigne Top 16 - Bacon\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Montaigne - 08.06.2023 - Gencon - Top 16 - Bacon.txt"
+      "source_file": "Montaigne - 08.06.2023 - Gencon - Top 16 - Bacon.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "derek-bacon",
+        "wins": 4,
+        "losses": 2,
+        "points": 36,
+        "topx": 16
+      }
     },
     {
       "id": "tourney:Montaigne_-_08.06.2023_-_Gencon_-_Top_16_-_Cranor.txt",
@@ -8004,7 +8185,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 16: GenCon 2023 Montaigne Top 16 - Cranor\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Montaigne - 08.06.2023 - Gencon - Top 16 - Cranor.txt"
+      "source_file": "Montaigne - 08.06.2023 - Gencon - Top 16 - Cranor.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "matthew-cranor",
+        "wins": 4,
+        "losses": 2,
+        "points": 36,
+        "topx": 16
+      }
     },
     {
       "id": "tourney:Montaigne_-_08.06.2023_-_Gencon_-_Top_16_-_Urbanek.txt",
@@ -8178,7 +8368,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 15: GenCon 2023 Montaigne Top 16 - Urbanek\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Montaigne - 08.06.2023 - Gencon - Top 16 - Urbanek.txt"
+      "source_file": "Montaigne - 08.06.2023 - Gencon - Top 16 - Urbanek.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "john-urbanek",
+        "wins": 3,
+        "losses": 3,
+        "points": 30,
+        "topx": 16
+      }
     },
     {
       "id": "tourney:Montaigne_-_08.06.2023_-_Gencon_-_Top_4_-_Nagelvoort.txt",
@@ -8352,7 +8551,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 18: GenCon 2023 Montaigne Semi Finalist - Nagelvoort\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Montaigne - 08.06.2023 - Gencon - Top 4 - Nagelvoort.txt"
+      "source_file": "Montaigne - 08.06.2023 - Gencon - Top 4 - Nagelvoort.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "alex-nagelvoort",
+        "wins": 5,
+        "losses": 3,
+        "points": 30,
+        "topx": 4
+      }
     },
     {
       "id": "tourney:Montaigne_-_08.28.2023_-_None_-_None_-_Clique84.txt",
@@ -8889,7 +9097,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 62: Gamehole Con 2024 1st place: Horatio's Diplomats\n- Archive attribution/date: TomS Epic Gaming — 2024-10-20\n- Tournament record described by the author: 3-0, with economic wins against Servo Vodacce and pacifist Castille, plus a Day 2 assassination against Strega Vodacce. Parenthetical card notes are preserved below.\n- Tea and Cakes — Let the Sword Decide\n- Gallant Deeds — solid inclusion\n- Mastercrafted Rapier — meh, matchups\n- Broken-time — meh, matchups\n- Legendary Reputation — solid inclusion\n- Valiant Spirit — reasonable\n- Diplomatic Impunity — didn't use\n- Battle of Wits — excellent\n- Éventail — didn't use\n- Blood Mark — saved me the game\n- Tabard of the Fallen Musketeer — 3-parry out strong\n- Triage — didn't use, Horatio/Odette Heal\n- Tending the Wounded — didn't use, Horatio\n- Relentless — Scary\n- Quick Reflexes — Solid\n- Main Gauche — didn't use, matchups\n- Bleed Out — strong\n- Appealing to the People — didn't use\n- Sea Legs — *sigh* gambled into, 1-of instead\n- Come Hither — saved me the game\n- Heroic Intervention — matchup, can be great\n- Not Today — Originally had 2 Not Today when building the deck, but hitting both in a gamble could collapse the whole game plan sending Horatio home, so cut 1 for 1 Blood Mark {was a lucky call}, especially since I added Leontine back in over Anghos, which could mean I could add Pull/Porte Travel, but I don't think I want to lock myself into mustering Leontine as Sir Jack and Guillen fit the gameplan better, in theory\n- Dame of Swords — For Horatio to launch a second +2 thrust, didn't use\n\n- Date is a best-estimate (10/20/2024).",
-      "source_file": "Montaigne - 10.20.2024 - GameHoleCon - Winner - Sorenson.txt"
+      "source_file": "Montaigne - 10.20.2024 - GameHoleCon - Winner - Sorenson.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5804,
+        "person": "tom-sorenson",
+        "wins": 3,
+        "losses": 0,
+        "points": 30,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Ussura_-_05.11.2025_-_EuroChamps_-_None_-_Hazelden.txt",
@@ -9968,7 +10185,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 48: Sharp - Ussura - UKGE 2024\n- Archive attribution/date: Agent006 — 2024-06-16",
-      "source_file": "Ussura - 06.01.2024 - UKGE - None - Sharp.txt"
+      "source_file": "Ussura - 06.01.2024 - UKGE - None - Sharp.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "george-sharp",
+        "wins": 0,
+        "losses": 4,
+        "points": 0,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Ussura_-_06.01.2024_-_UKGE_-_Top_4_-_FlukeyTony.txt",
@@ -10316,7 +10542,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 47: Longworth - Full Boar - Semifinalist (4th place) UKGE 2024\n- Archive attribution/date: Agent006 — 2024-06-16",
-      "source_file": "Ussura - 06.01.2024 - UKGE - Top 4 - Longworth.txt"
+      "source_file": "Ussura - 06.01.2024 - UKGE - Top 4 - Longworth.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5791,
+        "person": "darren-longworth",
+        "wins": 3,
+        "losses": 2,
+        "points": 30,
+        "topx": 4
+      }
     },
     {
       "id": "tourney:Ussura_-_07.15.2026_-_None_-_None_-_Tristan.txt",
@@ -10688,7 +10923,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 61: GenCon 2024 - 1st Place (Grand Admiral) - Ussura - Tom Sorenson\n- Archive attribution/date: Agent006 — 2024-08-13",
-      "source_file": "Ussura - 08.04.2024 - Gencon - Winner - Sorenson.txt"
+      "source_file": "Ussura - 08.04.2024 - Gencon - Winner - Sorenson.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5799,
+        "person": "tom-sorenson",
+        "wins": 7,
+        "losses": 1,
+        "points": 40,
+        "topx": 1
+      }
     },
     {
       "id": "tourney:Ussura_-_08.06.2023_-_Gencon_-_None_-_Melnyk.txt",
@@ -10872,7 +11116,16 @@
         }
       ],
       "notes": "Notes:\nMy Gencon deck.  I went 3-2 and each win was a different victory condition.  I lost a slugfest against Yevgeni and economic vs Eisen, if I recall correctly.  I started with the suggested starter deck and changed a few things.\n\nMarooned - I need to remember about the city action on it\nEkaterina Ilyanava - MVP\nNazem Ibn Umur - I didn't get much use out of him, would consider swapping for someone else.\nImprovised Weapon - I'll probably drop.  The economy for using it in dueling doesn't make up for its mediocre statline.\nMatushka's Command - MVP - Locking down a location is super strong.  Sending your vulnerable guys home is also a solid play.\n\nAdditional notes:\n- Source archive post 25: Deputy Greg Melnyk's Ussura Gencon Deck 2023\n- Archive attribution/date: Agent006 — 2024-05-17\n- The author went 3-2 and reported that each win used a different victory condition. The losses were a slugfest against Yevgeni and an economic game against Eisen. The list began as the suggested starter deck.\n- Marooned — I need to remember about the city action on it\n- Ekaterina Ilyanava — MVP\n- Nazem ibn Umur — I didn't get much use out of him, would consider swapping for someone else.\n- Improvised Weapon — I'll probably drop.  The economy for using it in dueling doesn't make up for its mediocre statline.\n- Matushka's Command — MVP - Locking down a location is super strong.  Sending your vulnerable guys home is also a solid play.",
-      "source_file": "Ussura - 08.06.2023 - Gencon - None - Melnyk.txt"
+      "source_file": "Ussura - 08.06.2023 - Gencon - None - Melnyk.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "greg-melnyk",
+        "wins": 3,
+        "losses": 2,
+        "points": 30,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Ussura_-_08.06.2023_-_Gencon_-_Top_16_-_Dixon.txt",
@@ -11046,7 +11299,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 24: GenCon 2023 Ussura Top 16 - Dixon\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Ussura - 08.06.2023 - Gencon - Top 16 - Dixon.txt"
+      "source_file": "Ussura - 08.06.2023 - Gencon - Top 16 - Dixon.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "thomas-dixon",
+        "wins": 3,
+        "losses": 3,
+        "points": 30,
+        "topx": 16
+      }
     },
     {
       "id": "tourney:Ussura_-_08.06.2023_-_Gencon_-_Top_16_-_Jacobson.txt",
@@ -11220,7 +11482,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 22: GenCon 2023 Ussura Top 16 - Jacobson\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Ussura - 08.06.2023 - Gencon - Top 16 - Jacobson.txt"
+      "source_file": "Ussura - 08.06.2023 - Gencon - Top 16 - Jacobson.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "daniel-jacobson",
+        "wins": 3,
+        "losses": 3,
+        "points": 30,
+        "topx": 16
+      }
     },
     {
       "id": "tourney:Ussura_-_08.06.2023_-_Gencon_-_Top_16_-_Jozwiak.txt",
@@ -11404,7 +11675,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 23: GenCon 2023 Ussura Top 16 - Jozwiak\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Ussura - 08.06.2023 - Gencon - Top 16 - Jozwiak.txt"
+      "source_file": "Ussura - 08.06.2023 - Gencon - Top 16 - Jozwiak.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "aaron-jozwiak",
+        "wins": 3,
+        "losses": 3,
+        "points": 30,
+        "topx": 16
+      }
     },
     {
       "id": "tourney:Ussura_-_09.07.2025_-_None_-_None_-_flukeytuba.txt",
@@ -13587,7 +13867,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 56: GenCon 2024 - Top 8 Vodacce - Josh Jonas\n- Archive attribution/date: Agent006 — 2024-08-07\n\n- Date is a best-estimate (8/4/2024).",
-      "source_file": "Vodacce - 08.04.2024 - Gencon - Top 8 - Jonas.txt"
+      "source_file": "Vodacce - 08.04.2024 - Gencon - Top 8 - Jonas.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5799,
+        "person": "joshua-jonas",
+        "wins": 3,
+        "losses": 3,
+        "points": 30,
+        "topx": 8
+      }
     },
     {
       "id": "tourney:Vodacce_-_08.04.2024_-_Gencon_-_Top_8_-_Pruitt.txt",
@@ -13766,7 +14055,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 57: GenCon 2024 - Top 8 Vodacce - Nick Pruitt\n- Archive attribution/date: Agent006 — 2024-08-07",
-      "source_file": "Vodacce - 08.04.2024 - Gencon - Top 8 - Pruitt.txt"
+      "source_file": "Vodacce - 08.04.2024 - Gencon - Top 8 - Pruitt.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5799,
+        "person": "nick-pruitt",
+        "wins": 5,
+        "losses": 1,
+        "points": 50,
+        "topx": 8
+      }
     },
     {
       "id": "tourney:Vodacce_-_08.06.2023_-_Gencon_-_None_-_The_Don.txt",
@@ -13945,7 +14243,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 31: The Don's List GenCon 2023\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Vodacce - 08.06.2023 - Gencon - None - The Don.txt"
+      "source_file": "Vodacce - 08.06.2023 - Gencon - None - The Don.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "the-don",
+        "wins": 6,
+        "losses": 1,
+        "points": 46,
+        "topx": 8
+      }
     },
     {
       "id": "tourney:Vodacce_-_08.06.2023_-_Gencon_-_Top_4_-_Hayes.txt",
@@ -14124,7 +14431,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 32: GenCon 2023 Vodacce Semi Finalist - Hayes\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Vodacce - 08.06.2023 - Gencon - Top 4 - Hayes.txt"
+      "source_file": "Vodacce - 08.06.2023 - Gencon - Top 4 - Hayes.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "hayes-hunter",
+        "wins": 7,
+        "losses": 1,
+        "points": 50,
+        "topx": 4
+      }
     },
     {
       "id": "tourney:Vodacce_-_08.06.2023_-_Gencon_-_Top_8_-_Pruitt.txt",
@@ -14318,7 +14634,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 30: GenCon 2023 Vodacce Quarterfinalist - Pruitt\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Vodacce - 08.06.2023 - Gencon - Top 8 - Pruitt.txt"
+      "source_file": "Vodacce - 08.06.2023 - Gencon - Top 8 - Pruitt.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "nick-pruitt",
+        "wins": 5,
+        "losses": 2,
+        "points": 40,
+        "topx": 8
+      }
     },
     {
       "id": "tourney:Vodacce_-_08.06.2023_-_Gencon_-_Winner_-_Laird.txt",
@@ -14502,7 +14827,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 33: GenCon 2023 Vodacce Winner (Grand Admiral) - Laird\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Vodacce - 08.06.2023 - Gencon - Winner - Laird.txt"
+      "source_file": "Vodacce - 08.06.2023 - Gencon - Winner - Laird.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "jake-laird",
+        "wins": 8,
+        "losses": 1,
+        "points": 40,
+        "topx": 1
+      }
     },
     {
       "id": "tourney:Vodacce_-_09.24.2024_-_None_-_None_-_Abe.txt",
