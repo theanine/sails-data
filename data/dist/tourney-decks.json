@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-17T21:13:19Z",
+  "generated_at": "2026-07-21T22:47:32Z",
   "decks": [
     {
       "id": "tourney:Castille_-_03.05.2025_-_Local_-_Winner_-_SLan.txt",
@@ -5459,7 +5459,7 @@
       "record": {
         "source": "l5r",
         "tournament_id": 5799,
-        "person": "alexander-schmucki",
+        "person": "alex-schmucki",
         "wins": 3,
         "losses": 3,
         "points": 30,
