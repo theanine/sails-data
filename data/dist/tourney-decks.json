@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-21T22:49:57Z",
+  "generated_at": "2026-07-21T23:03:42Z",
   "decks": [
     {
       "id": "tourney:Castille_-_03.05.2025_-_Local_-_Winner_-_SLan.txt",
@@ -9158,7 +9158,7 @@
       "record": {
         "source": "l5r",
         "tournament_id": 5791,
-        "person": "hastur",
+        "person": "hastur-phaeglos",
         "wins": 2,
         "losses": 2,
         "points": 20,
@@ -18181,7 +18181,16 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 31: The Don's List GenCon 2023\n- Archive attribution/date: Agent006 — 2024-05-17",
-      "source_file": "Vodacce - 08.06.2023 - Gencon - None - The Don.txt"
+      "source_file": "Vodacce - 08.06.2023 - Gencon - None - The Don.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5771,
+        "person": "daniel-dineen",
+        "wins": 6,
+        "losses": 1,
+        "points": 46,
+        "topx": 8
+      }
     },
     {
       "id": "tourney:Vodacce_-_08.06.2023_-_Gencon_-_Top_4_-_Hayes.txt",
