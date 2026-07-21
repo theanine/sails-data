@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-21T22:47:32Z",
+  "generated_at": "2026-07-21T22:49:57Z",
   "decks": [
     {
       "id": "tourney:Castille_-_03.05.2025_-_Local_-_Winner_-_SLan.txt",
@@ -10,7 +10,7 @@
       "position": "Winner (approximate evolving list)",
       "date": "2025-03-05",
       "author": "SLan'",
-      "archetype": "Switch",
+      "archetype": "Passive",
       "meta": "TaC",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
@@ -1999,6 +1999,570 @@
       }
     },
     {
+      "id": "tourney:Castille_-_06.23.2026_-_EuroChamps_-_Top_16_-_Sewell.txt",
+      "name": "Castille - 06.23.2026 - EuroChamps - Top 16 - Sewell",
+      "faction": "Castille",
+      "event": "European Championship 2026",
+      "position": "10th Place",
+      "date": "2026-06-23",
+      "author": "L. Sewell",
+      "archetype": "Dueling",
+      "meta": "BaS",
+      "leader": {
+        "id": "744d716f-2cc1-475a-96a7-dd6cd9cfe3f8",
+        "name": "Sanjay"
+      },
+      "cards": [
+        {
+          "id": "ba8c6def-3967-4bf4-a3f0-bfbca04aa8ae",
+          "name": "Iago Carlos de Soldano",
+          "count": 1
+        },
+        {
+          "id": "0c514e2f-40be-40ef-8886-328574ac9dc4",
+          "name": "\"Madre\" Dolores",
+          "count": 1
+        },
+        {
+          "id": "3a6e88b6-7dcf-4ac0-9ee4-0dc17d5d7806",
+          "name": "Maya de La Rioja",
+          "count": 1
+        },
+        {
+          "id": "0afc5f85-01b2-467e-a059-d8a29324bd6a",
+          "name": "\"Prima\" Rosa",
+          "count": 1
+        },
+        {
+          "id": "ea77f4d4-7aac-4b21-9ad4-0ffb0b98f72a",
+          "name": "Torvo Espada",
+          "count": 1
+        },
+        {
+          "id": "82cb292e-feb2-44d3-a065-b1950f1f24d9",
+          "name": "Let's Haggle",
+          "count": 1
+        },
+        {
+          "id": "8b1f9ef2-91a7-4df4-be81-ebdb8a1a1914",
+          "name": "Proper Study",
+          "count": 1
+        },
+        {
+          "id": "25f7c318-3f24-4530-9e93-7ca34231675c",
+          "name": "Shifting Blame",
+          "count": 1
+        },
+        {
+          "id": "111820f1-815d-4e52-988f-4d5b10b0b7ab",
+          "name": "The Cat's Embargo",
+          "count": 1
+        },
+        {
+          "id": "fd2abc17-8860-47ff-94d9-b4ad9f763b4b",
+          "name": "When Least Expected",
+          "count": 1
+        },
+        {
+          "id": "eac871cd-2130-424b-ae86-e6fdb22fc450",
+          "name": "The Cat's Glass",
+          "count": 1
+        },
+        {
+          "id": "c647bb70-e997-4574-813c-aa4fed97e1c5",
+          "name": "Ciphered Tome",
+          "count": 1
+        },
+        {
+          "id": "49968f4d-179f-4b7e-9212-7458a53c5363",
+          "name": "El Gato's Mask",
+          "count": 1
+        },
+        {
+          "id": "9e22364e-dd24-483f-b4c5-5bacc714f1b3",
+          "name": "Main Gauche",
+          "count": 1
+        },
+        {
+          "id": "048852ed-94d2-40d1-a647-e73da227bc88",
+          "name": "Adaptable",
+          "count": 1
+        },
+        {
+          "id": "f21bc3b5-50a3-4115-826d-468f5b593f8a",
+          "name": "Honorable",
+          "count": 1
+        },
+        {
+          "id": "5d2eaefb-04c2-4d67-a300-65bd44992a2d",
+          "name": "Gallegos Blade",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        },
+        {
+          "id": "775ef00c-2872-4171-b416-df62343768c0",
+          "name": "Amour",
+          "count": 2
+        },
+        {
+          "id": "987f99f0-de38-4e5d-b182-8f3821ebd25e",
+          "name": "Night of Drinking",
+          "count": 2
+        },
+        {
+          "id": "3716001b-9ed1-488a-b8fa-bd499a2934c5",
+          "name": "Passionate",
+          "count": 2
+        },
+        {
+          "id": "2213f924-ad8f-423b-bd6e-acb3a070f850",
+          "name": "Heroic Intervention",
+          "count": 2
+        },
+        {
+          "id": "37e3935b-8f56-4a67-9f46-6b9982dab78d",
+          "name": "Hop on Board",
+          "count": 2
+        },
+        {
+          "id": "ad89478c-cfad-4d5b-a38e-c49eebeb7ef4",
+          "name": "Curious",
+          "count": 2
+        },
+        {
+          "id": "46338819-98ae-466e-bdb8-c3b3879580c9",
+          "name": "Gold or Steel",
+          "count": 2
+        },
+        {
+          "id": "781e864d-bb12-47fa-ad70-988cbfe58b9a",
+          "name": "Life in the Canals",
+          "count": 2
+        },
+        {
+          "id": "957f38a0-f207-4726-aa78-82b2a8dd7da1",
+          "name": "Raise the Stakes",
+          "count": 2
+        },
+        {
+          "id": "a8511466-f177-4f79-9613-529df1742242",
+          "name": "Robbery",
+          "count": 2
+        },
+        {
+          "id": "317922ee-be6f-426e-8bce-8bbc29eaa5a7",
+          "name": "Unfortunate",
+          "count": 2
+        },
+        {
+          "id": "ccf9170d-557c-4612-9889-625c0fb2c31a",
+          "name": "Quick Reflexes",
+          "count": 2
+        },
+        {
+          "id": "60b37df0-54ad-4317-85d6-d0fa84246d6e",
+          "name": "Relentless",
+          "count": 2
+        },
+        {
+          "id": "db01b017-8d12-4394-bb8e-3bfc77bbebf1",
+          "name": "Unsanctioned Duel",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n(No thread discussion - deck list only.)",
+      "source_file": "Castille - 06.23.2026 - EuroChamps - Top 16 - Sewell.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "liam-sewell",
+        "wins": 2,
+        "losses": 2,
+        "points": 10,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Castille_-_06.23.2026_-_EuroChamps_-_Top_4_-_Laing.txt",
+      "name": "Castille - 06.23.2026 - EuroChamps - Top 4 - Laing",
+      "faction": "Castille",
+      "event": "European Championship 2026",
+      "position": "3rd Place",
+      "date": "2026-06-23",
+      "author": "D. Laing",
+      "archetype": "Passive",
+      "meta": "BaS",
+      "leader": {
+        "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
+        "name": "Soline el Gato"
+      },
+      "cards": [
+        {
+          "id": "0afc5f85-01b2-467e-a059-d8a29324bd6a",
+          "name": "\"Prima\" Rosa",
+          "count": 1
+        },
+        {
+          "id": "009b3c78-ced7-481f-b2ee-d79013c7f6bb",
+          "name": "Íñigo Rocoso",
+          "count": 1
+        },
+        {
+          "id": "dfb7db55-e21e-485a-94f1-640e414aefb7",
+          "name": "Sanjay",
+          "count": 1
+        },
+        {
+          "id": "0c514e2f-40be-40ef-8886-328574ac9dc4",
+          "name": "\"Madre\" Dolores",
+          "count": 1
+        },
+        {
+          "id": "ba8c6def-3967-4bf4-a3f0-bfbca04aa8ae",
+          "name": "Iago Carlos de Soldano",
+          "count": 1
+        },
+        {
+          "id": "8b1f9ef2-91a7-4df4-be81-ebdb8a1a1914",
+          "name": "Proper Study",
+          "count": 1
+        },
+        {
+          "id": "25f7c318-3f24-4530-9e93-7ca34231675c",
+          "name": "Shifting Blame",
+          "count": 1
+        },
+        {
+          "id": "111820f1-815d-4e52-988f-4d5b10b0b7ab",
+          "name": "The Cat's Embargo",
+          "count": 1
+        },
+        {
+          "id": "5c80725a-4cb5-41a2-bd34-ac172bfd2df9",
+          "name": "Meeting of the Minds",
+          "count": 1
+        },
+        {
+          "id": "00048c69-b09a-45ba-a4a9-d8865333312d",
+          "name": "Castillian Caper",
+          "count": 1
+        },
+        {
+          "id": "048852ed-94d2-40d1-a647-e73da227bc88",
+          "name": "Adaptable",
+          "count": 1
+        },
+        {
+          "id": "6e8ded0f-efd8-4027-b1c3-b9ff4f8101e4",
+          "name": "Ambitious",
+          "count": 1
+        },
+        {
+          "id": "c647bb70-e997-4574-813c-aa4fed97e1c5",
+          "name": "Ciphered Tome",
+          "count": 1
+        },
+        {
+          "id": "4e8bb95c-e72c-42e9-a1df-0f60bf41e4a8",
+          "name": "Wily",
+          "count": 1
+        },
+        {
+          "id": "987f99f0-de38-4e5d-b182-8f3821ebd25e",
+          "name": "Night of Drinking",
+          "count": 2
+        },
+        {
+          "id": "5590de0f-5bf5-42e9-8cba-650ee86b44ea",
+          "name": "Improvising",
+          "count": 2
+        },
+        {
+          "id": "db01b017-8d12-4394-bb8e-3bfc77bbebf1",
+          "name": "Unsanctioned Duel",
+          "count": 2
+        },
+        {
+          "id": "60b37df0-54ad-4317-85d6-d0fa84246d6e",
+          "name": "Relentless",
+          "count": 2
+        },
+        {
+          "id": "957f38a0-f207-4726-aa78-82b2a8dd7da1",
+          "name": "Raise the Stakes",
+          "count": 2
+        },
+        {
+          "id": "d4c31216-3501-455b-804f-3f0984e03f90",
+          "name": "You Cheated!",
+          "count": 2
+        },
+        {
+          "id": "05a20708-5ad2-4360-b765-6d50134f8105",
+          "name": "Greed",
+          "count": 2
+        },
+        {
+          "id": "db7c43e0-7dca-4691-989e-8ac31d34cc2f",
+          "name": "Tending the Wounded",
+          "count": 2
+        },
+        {
+          "id": "58244fb0-5b64-4bcf-9fac-5fd608462937",
+          "name": "Taunt",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "d5f3befb-2039-441f-b638-77944e5758b4",
+          "name": "Carnaval",
+          "count": 2
+        },
+        {
+          "id": "2213f924-ad8f-423b-bd6e-acb3a070f850",
+          "name": "Heroic Intervention",
+          "count": 2
+        },
+        {
+          "id": "4463a376-5041-4ebd-9d3c-9ea49c7deac9",
+          "name": "Panacea",
+          "count": 2
+        },
+        {
+          "id": "b6dc3dab-ab8b-4587-be10-062fdb0d8b45",
+          "name": "Solvente Universal",
+          "count": 2
+        },
+        {
+          "id": "775ef00c-2872-4171-b416-df62343768c0",
+          "name": "Amour",
+          "count": 2
+        },
+        {
+          "id": "e309eb07-7ecc-4e97-b967-26a7d6c27745",
+          "name": "Comforting",
+          "count": 2
+        },
+        {
+          "id": "3f0d31e8-14fa-480a-8e1c-2c5fe0b16484",
+          "name": "Hidden Corridors",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n[Thread discussion]\n\nDave Laing (OP) - on card choices: \"if I don't need it day 1, it's good in hand for Inigo; you might notice there are quite a few 3 parry 2 thrust cards in the deck (and even some 2 parry 2 thrust that could potentially be a better version of the same card)\"\n\nCoxatris asked why several of the top 4 ran 2x Lodestone - is it mostly for repositioning, given the bad RPT / -/2/2 stats?\n\nDave Laing: \"it's probably one of the best cards in the expac IMO. The reposition is what I use it for the most, but in the Eisen matchup where there's a lot of cheap send-home (Commanding, Armed \u0026 Marshalled, Rosine potentially) the passive can be huge too. Also really helps against Ussuran sorcerers. Castille have the added benefit of it being a (slightly weaker at 2 parry) Inigo card. But 1 card from hand to completely wrong-foot an opponent by relocating an en garde character can, and has, won games for me (or on occasion prevented a loss).\"\nHe gave two examples: in his game vs James' Angeline, Soline hung out at home; when Pulled to the city, he slapped a Lodestone on her, refused Angeline's challenge, and moved home still ready, only 3 wounds down. Against Stephen he overinvested in offense on day 2, and was saved from a Domination loss when the Syrneth Puzzle Box found a Lodestone so his one ready character could move home to claim a location.\n\nCoxatris: thanks.\n\nTomS Epic Gaming: \"Also great for preloading onto a leader so they can run away if Pulled while engaged.\"\n\nJester4198: confused there is no Mysta in the list, as the technique is powerful and it's an Iñigo parry out.\n\nDave Laing: \"I prefer to hold my cards in hand as much as possible to keep options open and have Sanjay online. Mysta is good, but not necessarily in this deck. In a more fight-focused deck that wants to keep defensive duels going for longer, or a more aggressive deck, she makes the cut. In this one where card advantage is a factor and both of my duelists have techniques that they want to use as early as possible, Mysta just isn't quite it.\"\n\nJester4198: makes sense; he's a fan of sticking her on Soline to make her harder to kill because opponents usually don't want to spend those cards in hand to keep the duel going.",
+      "source_file": "Castille - 06.23.2026 - EuroChamps - Top 4 - Laing.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "dave-laing",
+        "wins": 4,
+        "losses": 1,
+        "points": 20,
+        "topx": 4
+      }
+    },
+    {
+      "id": "tourney:Castille_-_06.24.2026_-_EuroChamps_-_Top_16_-_Overfield.txt",
+      "name": "Ovilord",
+      "faction": "Castille",
+      "event": "European Championship 2026",
+      "position": "13th Place",
+      "date": "2026-06-24",
+      "author": "C. Overfield",
+      "archetype": "Switch",
+      "meta": "BaS",
+      "leader": {
+        "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
+        "name": "Soline el Gato"
+      },
+      "cards": [
+        {
+          "id": "d82513ed-051e-4b17-aad8-d54ddd30aa5f",
+          "name": "Lorenzo de Zepeda",
+          "count": 1
+        },
+        {
+          "id": "0c514e2f-40be-40ef-8886-328574ac9dc4",
+          "name": "\"Madre\" Dolores",
+          "count": 1
+        },
+        {
+          "id": "ba8c6def-3967-4bf4-a3f0-bfbca04aa8ae",
+          "name": "Iago Carlos de Soldano",
+          "count": 1
+        },
+        {
+          "id": "009b3c78-ced7-481f-b2ee-d79013c7f6bb",
+          "name": "Íñigo Rocoso",
+          "count": 1
+        },
+        {
+          "id": "0afc5f85-01b2-467e-a059-d8a29324bd6a",
+          "name": "\"Prima\" Rosa",
+          "count": 1
+        },
+        {
+          "id": "5c80725a-4cb5-41a2-bd34-ac172bfd2df9",
+          "name": "Meeting of the Minds",
+          "count": 1
+        },
+        {
+          "id": "8b1f9ef2-91a7-4df4-be81-ebdb8a1a1914",
+          "name": "Proper Study",
+          "count": 1
+        },
+        {
+          "id": "825789ad-5fcb-40d8-b77f-a54cfa814c6e",
+          "name": "Let the Sword Decide",
+          "count": 1
+        },
+        {
+          "id": "0cadf8ca-fdcb-432b-b9c7-0d61dbd679e8",
+          "name": "Shifting Tides",
+          "count": 1
+        },
+        {
+          "id": "00048c69-b09a-45ba-a4a9-d8865333312d",
+          "name": "Castillian Caper",
+          "count": 1
+        },
+        {
+          "id": "048852ed-94d2-40d1-a647-e73da227bc88",
+          "name": "Adaptable",
+          "count": 1
+        },
+        {
+          "id": "6e8ded0f-efd8-4027-b1c3-b9ff4f8101e4",
+          "name": "Ambitious",
+          "count": 1
+        },
+        {
+          "id": "5d2eaefb-04c2-4d67-a300-65bd44992a2d",
+          "name": "Gallegos Blade",
+          "count": 2
+        },
+        {
+          "id": "9a9b1785-d852-4b68-b95b-d54abcafba89",
+          "name": "Sturdy Shield",
+          "count": 2
+        },
+        {
+          "id": "0af7ba1f-df9a-4067-9d1b-d704e1eb61bb",
+          "name": "Harpoon",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "781e864d-bb12-47fa-ad70-988cbfe58b9a",
+          "name": "Life in the Canals",
+          "count": 2
+        },
+        {
+          "id": "46338819-98ae-466e-bdb8-c3b3879580c9",
+          "name": "Gold or Steel",
+          "count": 2
+        },
+        {
+          "id": "0a6e16d7-2c18-466f-8ac6-23a463940394",
+          "name": "Proper Drama",
+          "count": 2
+        },
+        {
+          "id": "957f38a0-f207-4726-aa78-82b2a8dd7da1",
+          "name": "Raise the Stakes",
+          "count": 2
+        },
+        {
+          "id": "d4c31216-3501-455b-804f-3f0984e03f90",
+          "name": "You Cheated!",
+          "count": 2
+        },
+        {
+          "id": "a8511466-f177-4f79-9613-529df1742242",
+          "name": "Robbery",
+          "count": 2
+        },
+        {
+          "id": "4e8bb95c-e72c-42e9-a1df-0f60bf41e4a8",
+          "name": "Wily",
+          "count": 2
+        },
+        {
+          "id": "5590de0f-5bf5-42e9-8cba-650ee86b44ea",
+          "name": "Improvising",
+          "count": 2
+        },
+        {
+          "id": "775ef00c-2872-4171-b416-df62343768c0",
+          "name": "Amour",
+          "count": 2
+        },
+        {
+          "id": "317922ee-be6f-426e-8bce-8bbc29eaa5a7",
+          "name": "Unfortunate",
+          "count": 2
+        },
+        {
+          "id": "987f99f0-de38-4e5d-b182-8f3821ebd25e",
+          "name": "Night of Drinking",
+          "count": 2
+        },
+        {
+          "id": "04f2ce4f-71f8-4f05-8b4a-e6f6f8422ac2",
+          "name": "Cats in Every Corner",
+          "count": 2
+        },
+        {
+          "id": "2081d4df-fba8-4d55-898d-a8108f104ab8",
+          "name": "Come Hither",
+          "count": 2
+        },
+        {
+          "id": "aa5f2a16-bbe5-4e93-836b-ecc584445524",
+          "name": "I'm Done with You",
+          "count": 2
+        },
+        {
+          "id": "e309eb07-7ecc-4e97-b967-26a7d6c27745",
+          "name": "Comforting",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n(No thread discussion - deck list only. Deck labelled \"Ovilord\".)",
+      "source_file": "Castille - 06.24.2026 - EuroChamps - Top 16 - Overfield.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "callum-overfield",
+        "wins": 1,
+        "losses": 3,
+        "points": 5,
+        "topx": 257
+      }
+    },
+    {
       "id": "tourney:Castille_-_08.04.2024_-_Gencon_-_None_-_Kaffis.txt",
       "name": "Castille - 08.04.2024 - Gencon - None - Kaffis",
       "faction": "Castille",
@@ -3837,6 +4401,214 @@
       }
     },
     {
+      "id": "tourney:Castille_-_12.05.2023_-_PAXU_-_Top_8_-_Kaffis.txt",
+      "name": "PAX Unplugged Castille",
+      "faction": "Castille",
+      "event": "PAX Unplugged 2023",
+      "position": "6th Place, Top Castille",
+      "date": "2023-12-05",
+      "author": "Kaffis",
+      "archetype": "Switch",
+      "meta": "Core",
+      "leader": {
+        "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
+        "name": "Soline el Gato"
+      },
+      "cards": [
+        {
+          "id": "aba1a9c8-4903-4dbd-a9d5-77ed08f9a538",
+          "name": "Patricia Moustakas",
+          "count": 1
+        },
+        {
+          "id": "0c514e2f-40be-40ef-8886-328574ac9dc4",
+          "name": "\"Madre\" Dolores",
+          "count": 1
+        },
+        {
+          "id": "9c97feef-9452-419b-9959-08848835106a",
+          "name": "Ratón",
+          "count": 1
+        },
+        {
+          "id": "5c4cf488-045e-4494-a25d-5fb5fe7b3ea5",
+          "name": "Makepeace Botwighte",
+          "count": 1
+        },
+        {
+          "id": "3a6e88b6-7dcf-4ac0-9ee4-0dc17d5d7806",
+          "name": "Maya de La Rioja",
+          "count": 1
+        },
+        {
+          "id": "a3c1caa0-af41-4253-ac9f-8144bbbbe1b7",
+          "name": "Marooned",
+          "count": 1
+        },
+        {
+          "id": "825789ad-5fcb-40d8-b77f-a54cfa814c6e",
+          "name": "Let the Sword Decide",
+          "count": 1
+        },
+        {
+          "id": "111820f1-815d-4e52-988f-4d5b10b0b7ab",
+          "name": "The Cat's Embargo",
+          "count": 1
+        },
+        {
+          "id": "c424ca8a-ad16-4782-a198-647107842971",
+          "name": "Inspire Generosity",
+          "count": 1
+        },
+        {
+          "id": "69dbff06-f740-48cb-bd61-2671f3a327c1",
+          "name": "Midnight Shipment",
+          "count": 1
+        },
+        {
+          "id": "775ef00c-2872-4171-b416-df62343768c0",
+          "name": "Amour",
+          "count": 2
+        },
+        {
+          "id": "d5f3befb-2039-441f-b638-77944e5758b4",
+          "name": "Carnaval",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 1
+        },
+        {
+          "id": "5d2eaefb-04c2-4d67-a300-65bd44992a2d",
+          "name": "Gallegos Blade",
+          "count": 2
+        },
+        {
+          "id": "fb1dccde-31f7-429e-82cd-6081718e4c4b",
+          "name": "Throwing Knife",
+          "count": 1
+        },
+        {
+          "id": "4dba47b0-981d-4a93-9faa-8a203a806c44",
+          "name": "Matchlock Musket",
+          "count": 1
+        },
+        {
+          "id": "2081d4df-fba8-4d55-898d-a8108f104ab8",
+          "name": "Come Hither",
+          "count": 2
+        },
+        {
+          "id": "5590de0f-5bf5-42e9-8cba-650ee86b44ea",
+          "name": "Improvising",
+          "count": 2
+        },
+        {
+          "id": "048852ed-94d2-40d1-a647-e73da227bc88",
+          "name": "Adaptable",
+          "count": 1
+        },
+        {
+          "id": "50845444-2fed-493e-b70c-16d0d9cc4d65",
+          "name": "Nothing Personal",
+          "count": 2
+        },
+        {
+          "id": "d0ed8028-9916-49db-b170-d826680dcdae",
+          "name": "Breastplate",
+          "count": 2
+        },
+        {
+          "id": "a8511466-f177-4f79-9613-529df1742242",
+          "name": "Robbery",
+          "count": 1
+        },
+        {
+          "id": "c4f05188-6633-42f3-b139-e85ca343df0c",
+          "name": "Liberating Goods",
+          "count": 1
+        },
+        {
+          "id": "58244fb0-5b64-4bcf-9fac-5fd608462937",
+          "name": "Taunt",
+          "count": 2
+        },
+        {
+          "id": "987f99f0-de38-4e5d-b182-8f3821ebd25e",
+          "name": "Night of Drinking",
+          "count": 2
+        },
+        {
+          "id": "af0baae5-3b77-454d-98d3-ab4f44e1f89c",
+          "name": "Triage",
+          "count": 2
+        },
+        {
+          "id": "a1d448fe-a94c-4e61-b2a8-7b6e8dbaef18",
+          "name": "Roll the Bones",
+          "count": 2
+        },
+        {
+          "id": "aa5f2a16-bbe5-4e93-836b-ecc584445524",
+          "name": "I'm Done with You",
+          "count": 2
+        },
+        {
+          "id": "317922ee-be6f-426e-8bce-8bbc29eaa5a7",
+          "name": "Unfortunate",
+          "count": 1
+        },
+        {
+          "id": "e4d431f0-04b3-4ddd-8070-1052f1b6fcb0",
+          "name": "Sea Legs",
+          "count": 1
+        },
+        {
+          "id": "13b7d79a-473c-4ee5-8d74-a51164475630",
+          "name": "Drinking Games",
+          "count": 2
+        },
+        {
+          "id": "db7c43e0-7dca-4691-989e-8ac31d34cc2f",
+          "name": "Tending the Wounded",
+          "count": 1
+        },
+        {
+          "id": "eac871cd-2130-424b-ae86-e6fdb22fc450",
+          "name": "The Cat's Glass",
+          "count": 1
+        },
+        {
+          "id": "f35b6c17-f61e-4066-aff4-fe724ae1ea46",
+          "name": "I Know that Trick!",
+          "count": 1
+        },
+        {
+          "id": "781e864d-bb12-47fa-ad70-988cbfe58b9a",
+          "name": "Life in the Canals",
+          "count": 2
+        },
+        {
+          "id": "9d8cc098-02a5-4ce9-a872-98f85977bbb5",
+          "name": "Paid Off",
+          "count": 1
+        }
+      ],
+      "notes": "Hey, now that I'm both a) home, and b) not sleeping or working, have a Salon report from PAX Unplugged! Bottom line up front: I went 2-1 and placed 6th out of 11 to get me best in faction for Castille. Faction split was very even with 3 Vodacce and 2 of everything else.\n\nApproach Deck\n\nMadre: go-to Day 1, MVP influence and top recruiter\nMakepeace: forces card advantage if opponent seeks to equip, likes to hang out at city locations with attachments\nMaya: secondary movement shenanigans, duelist in a pinch\nPatricia: I'm getting somewhat dissatisfied with the Docks claim action, but un-challengeable can be nice. The Docks play needs more solid exhaust and/or discard support than this deck can reliably provide, and I don't know whether the juice is worth the squeeze to fix that with the current cardpool. Claiming too early will just see the location pressured out from under me again, stalling to do it late opens me up to the double pass to end the day.\nRaton: is a sneaky sometimes if my opponent is using attachments, I leave him unrecruited if not\nCat's Embargo: is sometimes disappointing Day 1 play. My goal is to punish aggressively spendy day 1 strategies like Vodacce day 1 Domination, Montaignes that gear up early, etc., but ultimately it's usually just equal to a discard effect that gives a draw at dusk because the opponent just chooses not to spend it. Definitely better to play on a day that opponent starts with few cards in hand.\nMarooned: goes after Mercenaries if opponent recruits, very good value if you can get a declined challenge in first to improve the card cost to kill.\nLet the Sword Decide: If I think I have a shot at mid-game all-in assassination, or need to put a wound or two on a character but am worried they will parry out, I'll play this to make them take chip damage more consistently.\nInspire Generosity: clutch vs. Vodacce and sometimes Eisen, for use when I've been out-recruited.\nMidnight Shipment: usually best with Patricia on the board because it will make the Docks a hot commodity.\n\nDraw Deck (See picture for decklist, I'm having trouble with the export function on the deckbuilder)\nCards that move characters: These are strong for playing for location control, isolating dueling targets to prevent intervention, and so on. Basically, turning up ready where you're not expected, or forcing others to be where they don't want to be, are some of the most powerful effects in the game. I probably want to draw one of these every day, and days where I can stockpile two can give me very dynamic options.\nCards that disrupt plans: Right along with moving things, engaging characters or blanking control of a location are great ways to react to what my opponent is trying to do.\nCards that defend or protect my characters: I've probably invested too much in this, but some of them are also in there for their RPT. This is where I'll be looking to trim fat to squeeze in a few more copies of MVPs like Upman's and a ready effect or two, and where I'll evaluate first when we get new cards.\n\nAdditional notes:\n- Source archive post 7: Kaffis Pax Unplugged Castille 12-05-2023\n- Archive attribution/date: Agent006 — 2024-05-17\n- The author went 2-1, placed 6th of 11, and earned best-in-faction for Castille. This was transcribed from a photo; exact copy counts were inferred from visible stacks and may need verification. The supplied transcription placed Paid Off at the end of the approach list; it was moved to the faction deck because it is a Risk, producing the standard 10/40 split.",
+      "source_file": "Castille - 12.05.2023 - PAXU - Top 8 - Kaffis.txt",
+      "record": {
+        "source": "l5r",
+        "tournament_id": 5781,
+        "person": "scott-carlson",
+        "wins": 2,
+        "losses": 1,
+        "points": 20,
+        "topx": 257
+      }
+    },
+    {
       "id": "tourney:Eisen_-_05.11.2025_-_EuroChamps_-_None_-_Aston.txt",
       "name": "Eisen - 05.11.2025 - EuroChamps - None - Aston",
       "faction": "Eisen",
@@ -5099,6 +5871,754 @@
         "points": 15,
         "topx": 1
       }
+    },
+    {
+      "id": "tourney:Eisen_-_06.23.2026_-_EuroChamps_-_Top_16_-_Hancock.txt",
+      "name": "Eisen - 06.23.2026 - EuroChamps - Top 16 - Hancock",
+      "faction": "Eisen",
+      "event": "European Championship 2026",
+      "position": "14th Place",
+      "date": "2026-06-23",
+      "author": "D. Hancock",
+      "archetype": "Switch",
+      "meta": "BaS",
+      "leader": {
+        "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
+        "name": "Kaspar Dietrich"
+      },
+      "cards": [
+        {
+          "id": "4da884fc-7180-4ddf-9f25-9a6a677e89ce",
+          "name": "Rosine Friese",
+          "count": 1
+        },
+        {
+          "id": "a8491c6b-17ea-4cf8-843a-bcb2ed3f1688",
+          "name": "Philip Hase",
+          "count": 1
+        },
+        {
+          "id": "4dc9e141-efa8-40dd-8192-22070903ffbe",
+          "name": "Katain DeWinter",
+          "count": 1
+        },
+        {
+          "id": "2f1ead4d-7b46-4e49-93b6-1dbba952fa1f",
+          "name": "Raven",
+          "count": 1
+        },
+        {
+          "id": "ed510c35-de9c-47ac-9fa3-e750ca657e61",
+          "name": "Edeline Trinken",
+          "count": 1
+        },
+        {
+          "id": "1ef1fd41-cf4b-4105-b87e-6e27dcdbe690",
+          "name": "Motion to Delay",
+          "count": 1
+        },
+        {
+          "id": "f61a8ccf-0f35-4c02-800e-139c3ae02eab",
+          "name": "Kaspar's Occupation",
+          "count": 1
+        },
+        {
+          "id": "adcfa8be-b22d-474d-ba77-26f6e930557f",
+          "name": "Armed and Marshaled",
+          "count": 1
+        },
+        {
+          "id": "0fa7bd04-a26e-459e-a93a-eafab7400cfe",
+          "name": "Through Thick and Thin",
+          "count": 1
+        },
+        {
+          "id": "0cadf8ca-fdcb-432b-b9c7-0d61dbd679e8",
+          "name": "Shifting Tides",
+          "count": 1
+        },
+        {
+          "id": "9652129e-a012-4ff0-bb9e-f11228210ad1",
+          "name": "Jägerarmbrust",
+          "count": 1
+        },
+        {
+          "id": "90589ac3-65a6-4d28-8613-2952031831db",
+          "name": "Panzerhand",
+          "count": 1
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 1
+        },
+        {
+          "id": "6e8ded0f-efd8-4027-b1c3-b9ff4f8101e4",
+          "name": "Ambitious",
+          "count": 1
+        },
+        {
+          "id": "1d17a7f3-3082-441b-b72f-f4f97524a8af",
+          "name": "Dark Gift",
+          "count": 1
+        },
+        {
+          "id": "fbf8c9f0-9184-4cf2-a361-9607fbcff8de",
+          "name": "Kaspar's Panzerhand",
+          "count": 1
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 1
+        },
+        {
+          "id": "0974b11e-a06d-416d-a1be-954f72099510",
+          "name": "Regroup",
+          "count": 2
+        },
+        {
+          "id": "daa6efa9-0a83-4e01-9573-41c55bfd80ef",
+          "name": "Stratege",
+          "count": 2
+        },
+        {
+          "id": "fef82c13-4bbb-4d71-9a50-e6addfb8b949",
+          "name": "Well Equipped",
+          "count": 2
+        },
+        {
+          "id": "508792f0-3c97-48b6-8c2f-566aac19f3f6",
+          "name": "Commanding",
+          "count": 2
+        },
+        {
+          "id": "df44fae2-3124-4622-88de-d531cc4a14d8",
+          "name": "Hexenjagd",
+          "count": 2
+        },
+        {
+          "id": "c96cd97d-e6ea-436f-99ab-b30bf63effea",
+          "name": "Fight Through the Pain",
+          "count": 2
+        },
+        {
+          "id": "0af7ba1f-df9a-4067-9d1b-d704e1eb61bb",
+          "name": "Harpoon",
+          "count": 2
+        },
+        {
+          "id": "3ee83ee6-6d4f-4de2-939c-406d78e3071e",
+          "name": "Appealing to the People",
+          "count": 2
+        },
+        {
+          "id": "704346f9-c5ea-42aa-a9db-fd518ae29a6e",
+          "name": "Vantage Point",
+          "count": 2
+        },
+        {
+          "id": "7e276df1-4feb-4bab-b688-9da910a11d8e",
+          "name": "Langschwert",
+          "count": 2
+        },
+        {
+          "id": "9a9b1785-d852-4b68-b95b-d54abcafba89",
+          "name": "Sturdy Shield",
+          "count": 2
+        },
+        {
+          "id": "476d5569-3deb-4ab5-a28a-ee247a9a27d4",
+          "name": "Concealed Flintlock",
+          "count": 2
+        },
+        {
+          "id": "2081d4df-fba8-4d55-898d-a8108f104ab8",
+          "name": "Come Hither",
+          "count": 2
+        },
+        {
+          "id": "1b9b5188-7008-468a-a9e6-430749bbb065",
+          "name": "No More Words!",
+          "count": 2
+        },
+        {
+          "id": "b7e059c2-fb91-4efc-917a-8149f56bda71",
+          "name": "Yield",
+          "count": 2
+        },
+        {
+          "id": "4dba47b0-981d-4a93-9faa-8a203a806c44",
+          "name": "Matchlock Musket",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n(No thread discussion - deck list only.)",
+      "source_file": "Eisen - 06.23.2026 - EuroChamps - Top 16 - Hancock.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "dave-hancock",
+        "wins": 1,
+        "losses": 3,
+        "points": 5,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Eisen_-_06.23.2026_-_EuroChamps_-_Top_16_-_Roberts.txt",
+      "name": "Eisen - 06.23.2026 - EuroChamps - Top 16 - Roberts",
+      "faction": "Eisen",
+      "event": "European Championship 2026",
+      "position": "16th Place",
+      "date": "2026-06-23",
+      "author": "P. Roberts",
+      "archetype": "Switch",
+      "meta": "BaS",
+      "leader": {
+        "id": "6e76481b-0255-432d-93ed-ceb7e02e4e11",
+        "name": "Daniella Dietrich"
+      },
+      "cards": [
+        {
+          "id": "0542c84c-110b-4539-aafd-4bd0dad8b713",
+          "name": "Wilhelm Dünst",
+          "count": 1
+        },
+        {
+          "id": "4da884fc-7180-4ddf-9f25-9a6a677e89ce",
+          "name": "Rosine Friese",
+          "count": 1
+        },
+        {
+          "id": "2f1ead4d-7b46-4e49-93b6-1dbba952fa1f",
+          "name": "Raven",
+          "count": 1
+        },
+        {
+          "id": "b8cd9181-3693-4ea9-a9d3-00968d631faf",
+          "name": "Schwester Ise",
+          "count": 1
+        },
+        {
+          "id": "4dc9e141-efa8-40dd-8192-22070903ffbe",
+          "name": "Katain DeWinter",
+          "count": 1
+        },
+        {
+          "id": "a3c1caa0-af41-4253-ac9f-8144bbbbe1b7",
+          "name": "Marooned",
+          "count": 1
+        },
+        {
+          "id": "1d4085f2-dd13-4197-b52f-b24da09a1365",
+          "name": "Suffer Not the Wicked",
+          "count": 1
+        },
+        {
+          "id": "0cadf8ca-fdcb-432b-b9c7-0d61dbd679e8",
+          "name": "Shifting Tides",
+          "count": 1
+        },
+        {
+          "id": "0fa7bd04-a26e-459e-a93a-eafab7400cfe",
+          "name": "Through Thick and Thin",
+          "count": 1
+        },
+        {
+          "id": "c35dd3dc-1c3c-459c-ba9d-90f318283188",
+          "name": "Parley Gone Wrong",
+          "count": 1
+        },
+        {
+          "id": "6e8ded0f-efd8-4027-b1c3-b9ff4f8101e4",
+          "name": "Ambitious",
+          "count": 1
+        },
+        {
+          "id": "1d17a7f3-3082-441b-b72f-f4f97524a8af",
+          "name": "Dark Gift",
+          "count": 1
+        },
+        {
+          "id": "9652129e-a012-4ff0-bb9e-f11228210ad1",
+          "name": "Jägerarmbrust",
+          "count": 1
+        },
+        {
+          "id": "329d767c-da94-47e1-b65c-6c9644a44d64",
+          "name": "Kaiser Schnurrbart",
+          "count": 1
+        },
+        {
+          "id": "6acfcced-3af3-45fd-964e-95ab55d9f044",
+          "name": "Cornered",
+          "count": 2
+        },
+        {
+          "id": "61594d1b-83ae-42a5-9651-8b8864bd773f",
+          "name": "Devotion",
+          "count": 2
+        },
+        {
+          "id": "7a32d0cc-2864-4008-9af1-709057f4dd7c",
+          "name": "Divine Discipline",
+          "count": 2
+        },
+        {
+          "id": "0af7ba1f-df9a-4067-9d1b-d704e1eb61bb",
+          "name": "Harpoon",
+          "count": 2
+        },
+        {
+          "id": "df44fae2-3124-4622-88de-d531cc4a14d8",
+          "name": "Hexenjagd",
+          "count": 2
+        },
+        {
+          "id": "5be734d1-a182-4740-a5e3-fc2086f0bf98",
+          "name": "Last Word",
+          "count": 2
+        },
+        {
+          "id": "4dba47b0-981d-4a93-9faa-8a203a806c44",
+          "name": "Matchlock Musket",
+          "count": 2
+        },
+        {
+          "id": "0c27bf33-c7e1-481f-85cd-486fe04ee859",
+          "name": "Polished Flintlock",
+          "count": 2
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "0974b11e-a06d-416d-a1be-954f72099510",
+          "name": "Regroup",
+          "count": 2
+        },
+        {
+          "id": "87840dff-81a6-4264-865f-d4f6723c31f9",
+          "name": "Seek Each Devil",
+          "count": 2
+        },
+        {
+          "id": "daa6efa9-0a83-4e01-9573-41c55bfd80ef",
+          "name": "Stratege",
+          "count": 2
+        },
+        {
+          "id": "9a9b1785-d852-4b68-b95b-d54abcafba89",
+          "name": "Sturdy Shield",
+          "count": 2
+        },
+        {
+          "id": "f71cc97f-9902-464f-8c40-10678473a5ad",
+          "name": "Superstitious",
+          "count": 2
+        },
+        {
+          "id": "db7c43e0-7dca-4691-989e-8ac31d34cc2f",
+          "name": "Tending the Wounded",
+          "count": 2
+        },
+        {
+          "id": "9b175395-1e38-4b27-b704-3c135f28899d",
+          "name": "Trial of Faith",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "704346f9-c5ea-42aa-a9db-fd518ae29a6e",
+          "name": "Vantage Point",
+          "count": 2
+        },
+        {
+          "id": "fef82c13-4bbb-4d71-9a50-e6addfb8b949",
+          "name": "Well Equipped",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n(No thread discussion - deck list only.)",
+      "source_file": "Eisen - 06.23.2026 - EuroChamps - Top 16 - Roberts.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "phil-roberts",
+        "wins": 0,
+        "losses": 4,
+        "points": 0,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Eisen_-_06.23.2026_-_EuroChamps_-_Winner_-_Zonneveld.txt",
+      "name": "Eisen - 06.23.2026 - EuroChamps - Winner - Zonneveld",
+      "faction": "Eisen",
+      "event": "European Championship 2026",
+      "position": "1st Place (Event Winner)",
+      "date": "2026-06-23",
+      "author": "\"Diantre\" E. Zonneveld",
+      "archetype": "Passive",
+      "meta": "BaS",
+      "leader": {
+        "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
+        "name": "Kaspar Dietrich"
+      },
+      "cards": [
+        {
+          "id": "4da884fc-7180-4ddf-9f25-9a6a677e89ce",
+          "name": "Rosine Friese",
+          "count": 1
+        },
+        {
+          "id": "214521fe-a1b6-4abe-919d-e99e99b690d0",
+          "name": "Otto Streit",
+          "count": 1
+        },
+        {
+          "id": "a8491c6b-17ea-4cf8-843a-bcb2ed3f1688",
+          "name": "Philip Hase",
+          "count": 1
+        },
+        {
+          "id": "ed510c35-de9c-47ac-9fa3-e750ca657e61",
+          "name": "Edeline Trinken",
+          "count": 1
+        },
+        {
+          "id": "5f4e9ce0-acd5-471a-b267-7ab2dd9ff32a",
+          "name": "Hans Offenheim",
+          "count": 1
+        },
+        {
+          "id": "0fa7bd04-a26e-459e-a93a-eafab7400cfe",
+          "name": "Through Thick and Thin",
+          "count": 1
+        },
+        {
+          "id": "a3c1caa0-af41-4253-ac9f-8144bbbbe1b7",
+          "name": "Marooned",
+          "count": 1
+        },
+        {
+          "id": "69dbff06-f740-48cb-bd61-2671f3a327c1",
+          "name": "Midnight Shipment",
+          "count": 1
+        },
+        {
+          "id": "adcfa8be-b22d-474d-ba77-26f6e930557f",
+          "name": "Armed and Marshaled",
+          "count": 1
+        },
+        {
+          "id": "a13c50f1-e6c4-43e8-8e33-fb16a0421018",
+          "name": "The Song of Eisen",
+          "count": 1
+        },
+        {
+          "id": "6e8ded0f-efd8-4027-b1c3-b9ff4f8101e4",
+          "name": "Ambitious",
+          "count": 1
+        },
+        {
+          "id": "1d17a7f3-3082-441b-b72f-f4f97524a8af",
+          "name": "Dark Gift",
+          "count": 1
+        },
+        {
+          "id": "329d767c-da94-47e1-b65c-6c9644a44d64",
+          "name": "Kaiser Schnurrbart",
+          "count": 1
+        },
+        {
+          "id": "1fd6317e-3e58-4e87-980f-d9297c283d4f",
+          "name": "Cross of the Martyrs",
+          "count": 1
+        },
+        {
+          "id": "392b9d83-b47f-4759-bcbf-dabe0bce3347",
+          "name": "Opulence",
+          "count": 2
+        },
+        {
+          "id": "87840dff-81a6-4264-865f-d4f6723c31f9",
+          "name": "Seek Each Devil",
+          "count": 2
+        },
+        {
+          "id": "5be734d1-a182-4740-a5e3-fc2086f0bf98",
+          "name": "Last Word",
+          "count": 2
+        },
+        {
+          "id": "c96cd97d-e6ea-436f-99ab-b30bf63effea",
+          "name": "Fight Through the Pain",
+          "count": 2
+        },
+        {
+          "id": "0af7ba1f-df9a-4067-9d1b-d704e1eb61bb",
+          "name": "Harpoon",
+          "count": 2
+        },
+        {
+          "id": "e05f56ca-30aa-4369-8cf0-24f58f1451b0",
+          "name": "Leather Spaulders",
+          "count": 2
+        },
+        {
+          "id": "3ee83ee6-6d4f-4de2-939c-406d78e3071e",
+          "name": "Appealing to the People",
+          "count": 2
+        },
+        {
+          "id": "704346f9-c5ea-42aa-a9db-fd518ae29a6e",
+          "name": "Vantage Point",
+          "count": 2
+        },
+        {
+          "id": "df44fae2-3124-4622-88de-d531cc4a14d8",
+          "name": "Hexenjagd",
+          "count": 2
+        },
+        {
+          "id": "89aa90a0-d0d4-42d0-8668-f1acaf53eb6d",
+          "name": "Press the Advantage",
+          "count": 2
+        },
+        {
+          "id": "3f0d31e8-14fa-480a-8e1c-2c5fe0b16484",
+          "name": "Hidden Corridors",
+          "count": 2
+        },
+        {
+          "id": "0974b11e-a06d-416d-a1be-954f72099510",
+          "name": "Regroup",
+          "count": 2
+        },
+        {
+          "id": "daa6efa9-0a83-4e01-9573-41c55bfd80ef",
+          "name": "Stratege",
+          "count": 2
+        },
+        {
+          "id": "fef82c13-4bbb-4d71-9a50-e6addfb8b949",
+          "name": "Well Equipped",
+          "count": 2
+        },
+        {
+          "id": "508792f0-3c97-48b6-8c2f-566aac19f3f6",
+          "name": "Commanding",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "fb1dccde-31f7-429e-82cd-6081718e4c4b",
+          "name": "Throwing Knife",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n(Diantre noted the schemes were initially missing from the posted list.)\n\nDiantre's decklist explanation:\nHe was mostly in fear of Cesca (two of his playmates are strong Vodacce players) but did not meet a single Vodacce. The deck is meant to be more of a pacifist deck than a control deck: avoid big threats, move characters out of danger, or use mercenaries as meatshields. Eisen's strength is its characters - the backbone of the faction, since the faction cards aren't that impactful except a couple like Commanding or Well Equipped. Press the Advantage and Last Word are strong but require setup and have strong conditions/cost.\n\nAs an opener he likes to bring Otto right away with either Through Thick and Thin or Midnight Shipment depending on the city deck. Eisen is very dependent on the city deck, especially with Kaspar. Midnight Shipment to get initiative on a mercenary, or TTAT to deny a recruitment (4-inf Cesca). Another opening character is Hans with his En Garde ability, guaranteeing crew advantage.\n\nDay 1 is a \"slow\" day: get a mercenary with Kaspar (two if possible with Well Equipped or Appealing to the People - \"still the best thing in the world\"), collect a renown or two, ideally don't spend too many cards, and luckily get an attachment with Otto's city action.\n\nDay 2: Rosine (\"the GOAT\") and the scheme depends on the situation. Armed and Marshalled is always insanely good; engaging 2 characters with it and Rosine is a good way to build a domination win or get ahead on renown while equipping (ranged weapon for Last Word, Dark Gift, Uppman's Jacket on Rosine or Kaspar, Cross of the Martyr on a meatshield mercenary). Use Eisen's insane movement to grab locations. Against wounding abilities, Leather Spaulder is fantastic, and there are 6 parry-out cards (Hexenjagd, Regroup, Hidden Corridor) - enough if you avoid fighting characters. With good setup you can bring the adversary down (Fight Through the Pain, Vantage Point, Seek Each Devil).\n\nDay 3 is usually the last with this deck. Song of Eisen can get the last renown needed to win, and Edeline is a great asset in later turns.\n\nPhilip is a great mobility character and body block to defend fragile characters/mercenaries. Marooned is always good for +1 panache or to deny an oppressive mercenary, and is even better paired with Hans.\n\nOn Opulence: hate to see it during gambling, but paired with Press the Advantage it's \"pure bliss.\" Otherwise good for getting a nice attachment from the city deck or as a dedicated cost card.\n\n[Q\u0026A]\nMike Smith: congrats; his aim for next Euros is just not to lose to Diantre in Swiss 3 years in a row.\nIMABUNNEH: joked the solution is to lose round 1 so you dodge the good players.\nMike Smith: last year he lost to Diantre in round 1, so that wouldn't have helped.\nDiantre: he lost round 1 against Dave, but came back up the leaderboard.\n\nElkor (Jay K.): Was there any difficulty keeping Otto alive?\nDiantre: \"It depends. I assume the opponent doesn't think he's a threat with his stats (4,1,2,2) on the first day but then he becomes a target because of the potential draw and the other mercenaries joining. But he is the character that dies first during games.\"\n\nSkytale: Did you get much mileage out of Press the Advantage and Seek Each Devil? He finds Press awkward to gamble into and cut Seek Each Devil's En Garde part in playtesting; also asked about the Soline matchup (Skytale falls far behind vs her early).\nDiantre: \"Press the advantage can really deny an high inf character but against some factions or leaders, it's just a cost card. Seek each devil is just a free movement in my opinion with a bonus against Sorcerers. Soline is a really difficult matchup in general, they are impactful and the reaction is very very good. The thing with Eisen against Soline is to try to surprise them and accept to step in a few traps to reach impactful city cards or get a few more renowns. I can't really help much as I don't play against Soline often.\"",
+      "source_file": "Eisen - 06.23.2026 - EuroChamps - Winner - Zonneveld.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "eleanore-zonneveld",
+        "wins": 5,
+        "losses": 1,
+        "points": 15,
+        "topx": 1
+      }
+    },
+    {
+      "id": "tourney:Eisen_-_06.23.2026_-_None_-_None_-_Sorenson.txt",
+      "name": "Daniella Domination",
+      "faction": "Eisen",
+      "event": "(Community deck / not a tournament placement)",
+      "position": "Unknown",
+      "date": "2026-06-23",
+      "author": "TomS Epic Gaming",
+      "archetype": "Passive",
+      "meta": "BaS",
+      "leader": {
+        "id": "6e76481b-0255-432d-93ed-ceb7e02e4e11",
+        "name": "Daniella Dietrich"
+      },
+      "cards": [
+        {
+          "id": "5756992e-eaaf-4187-85e6-d811eebee7fc",
+          "name": "Kaspar Dietrich",
+          "count": 1
+        },
+        {
+          "id": "a8491c6b-17ea-4cf8-843a-bcb2ed3f1688",
+          "name": "Philip Hase",
+          "count": 1
+        },
+        {
+          "id": "4da884fc-7180-4ddf-9f25-9a6a677e89ce",
+          "name": "Rosine Friese",
+          "count": 1
+        },
+        {
+          "id": "b8cd9181-3693-4ea9-a9d3-00968d631faf",
+          "name": "Schwester Ise",
+          "count": 1
+        },
+        {
+          "id": "ed510c35-de9c-47ac-9fa3-e750ca657e61",
+          "name": "Edeline Trinken",
+          "count": 1
+        },
+        {
+          "id": "0fa7bd04-a26e-459e-a93a-eafab7400cfe",
+          "name": "Through Thick and Thin",
+          "count": 1
+        },
+        {
+          "id": "a3a25566-f402-4474-9cd2-48db9dae3ad5",
+          "name": "A Shared Interest",
+          "count": 1
+        },
+        {
+          "id": "69dbff06-f740-48cb-bd61-2671f3a327c1",
+          "name": "Midnight Shipment",
+          "count": 1
+        },
+        {
+          "id": "adcfa8be-b22d-474d-ba77-26f6e930557f",
+          "name": "Armed and Marshaled",
+          "count": 1
+        },
+        {
+          "id": "c3c57925-c52e-4336-a495-cd31a05ecb32",
+          "name": "Until Morale Improves",
+          "count": 1
+        },
+        {
+          "id": "fef82c13-4bbb-4d71-9a50-e6addfb8b949",
+          "name": "Well Equipped",
+          "count": 2
+        },
+        {
+          "id": "935dd8bb-9a8b-4902-bc0a-8550d5947de4",
+          "name": "Silver Tongue",
+          "count": 2
+        },
+        {
+          "id": "3ee83ee6-6d4f-4de2-939c-406d78e3071e",
+          "name": "Appealing to the People",
+          "count": 2
+        },
+        {
+          "id": "392b9d83-b47f-4759-bcbf-dabe0bce3347",
+          "name": "Opulence",
+          "count": 2
+        },
+        {
+          "id": "89aa90a0-d0d4-42d0-8668-f1acaf53eb6d",
+          "name": "Press the Advantage",
+          "count": 2
+        },
+        {
+          "id": "9b175395-1e38-4b27-b704-3c135f28899d",
+          "name": "Trial of Faith",
+          "count": 2
+        },
+        {
+          "id": "61594d1b-83ae-42a5-9651-8b8864bd773f",
+          "name": "Devotion",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        },
+        {
+          "id": "daa6efa9-0a83-4e01-9573-41c55bfd80ef",
+          "name": "Stratege",
+          "count": 2
+        },
+        {
+          "id": "87840dff-81a6-4264-865f-d4f6723c31f9",
+          "name": "Seek Each Devil",
+          "count": 2
+        },
+        {
+          "id": "0974b11e-a06d-416d-a1be-954f72099510",
+          "name": "Regroup",
+          "count": 2
+        },
+        {
+          "id": "3f0d31e8-14fa-480a-8e1c-2c5fe0b16484",
+          "name": "Hidden Corridors",
+          "count": 2
+        },
+        {
+          "id": "1d17a7f3-3082-441b-b72f-f4f97524a8af",
+          "name": "Dark Gift",
+          "count": 1
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "0af7ba1f-df9a-4067-9d1b-d704e1eb61bb",
+          "name": "Harpoon",
+          "count": 2
+        },
+        {
+          "id": "fb1dccde-31f7-429e-82cd-6081718e4c4b",
+          "name": "Throwing Knife",
+          "count": 2
+        },
+        {
+          "id": "5be734d1-a182-4740-a5e3-fc2086f0bf98",
+          "name": "Last Word",
+          "count": 1
+        },
+        {
+          "id": "7fc0a891-8b6d-4774-beca-ce040176b864",
+          "name": "Not Today",
+          "count": 2
+        },
+        {
+          "id": "df44fae2-3124-4622-88de-d531cc4a14d8",
+          "name": "Hexenjagd",
+          "count": 2
+        },
+        {
+          "id": "508792f0-3c97-48b6-8c2f-566aac19f3f6",
+          "name": "Commanding",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\nOP (TomS Epic Gaming): \"Daniella scary. Can day 1 dominate. Press the Advantage and Commanding are pretty nasty. Tons of movement. 4 En Garde effects and Silver Tongue can provide a discount for recruiting without parlaying to get your 3rd claim/engage.\"\n(No thread discussion.)",
+      "source_file": "Eisen - 06.23.2026 - None - None - Sorenson.txt"
     },
     {
       "id": "tourney:Eisen_-_08.04.2024_-_Gencon_-_Top_4_-_Palmer.txt",
@@ -7643,6 +9163,412 @@
         "losses": 2,
         "points": 20,
         "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Montaigne_-_06.23.2026_-_EuroChamps_-_Top_16_-_Hazelden.txt",
+      "name": "Montaigne - 06.23.2026 - EuroChamps - Top 16 - Hazelden",
+      "faction": "Montaigne",
+      "event": "European Championship 2026",
+      "position": "12th Place",
+      "date": "2026-06-23",
+      "author": "D. Hazelden",
+      "archetype": "Switch",
+      "meta": "BaS",
+      "leader": {
+        "id": "54de271b-b707-445a-b5ee-eda0b7e0abce",
+        "name": "Angeline Dèmone"
+      },
+      "cards": [
+        {
+          "id": "9cdea95f-ef71-49e6-baba-640cd380fa7f",
+          "name": "Jean Urbain",
+          "count": 1
+        },
+        {
+          "id": "dd8c5a27-0009-4f77-869b-0c5f09df599e",
+          "name": "Odette Dubois d'Arrent",
+          "count": 1
+        },
+        {
+          "id": "6b0e5f8d-b447-4377-ba94-4595db5386ba",
+          "name": "Grand Merchant Anghos",
+          "count": 1
+        },
+        {
+          "id": "c3721d98-5b11-4d8d-b700-689038a0afdf",
+          "name": "Horatio Lockwood",
+          "count": 1
+        },
+        {
+          "id": "a20a3abc-de6e-42a3-bef1-879b3ae9a370",
+          "name": "Léontine Giroux",
+          "count": 1
+        },
+        {
+          "id": "3b715a25-fa75-487a-8f62-29034406ee04",
+          "name": "No Rest for the Wicked",
+          "count": 1
+        },
+        {
+          "id": "638aaa05-b17f-48be-90af-f34c3bdd3c6d",
+          "name": "Hour of Blood",
+          "count": 1
+        },
+        {
+          "id": "a3c1caa0-af41-4253-ac9f-8144bbbbe1b7",
+          "name": "Marooned",
+          "count": 1
+        },
+        {
+          "id": "1ef1fd41-cf4b-4105-b87e-6e27dcdbe690",
+          "name": "Motion to Delay",
+          "count": 1
+        },
+        {
+          "id": "825789ad-5fcb-40d8-b77f-a54cfa814c6e",
+          "name": "Let the Sword Decide",
+          "count": 1
+        },
+        {
+          "id": "0bbc34d9-1e35-4286-beb3-46bddb3f04cb",
+          "name": "A Heroic End",
+          "count": 1
+        },
+        {
+          "id": "dddd8f85-a014-4657-8e2d-c6914396d5a5",
+          "name": "La Voix des Sans Voix",
+          "count": 1
+        },
+        {
+          "id": "28739848-608f-470c-a00e-8f2ea05d9554",
+          "name": "Porté Travel",
+          "count": 1
+        },
+        {
+          "id": "6e8ded0f-efd8-4027-b1c3-b9ff4f8101e4",
+          "name": "Ambitious",
+          "count": 1
+        },
+        {
+          "id": "b7766521-0a72-4708-8abd-9654708cd1f4",
+          "name": "Bloody Entrance",
+          "count": 1
+        },
+        {
+          "id": "7690f817-f3b6-451f-b782-0585dcb8a2de",
+          "name": "Dame of Swords",
+          "count": 1
+        },
+        {
+          "id": "b822cc5b-40e0-4439-836e-46e12dcaafde",
+          "name": "Valroux Exemplar",
+          "count": 1
+        },
+        {
+          "id": "e5ad85eb-b1b7-4c42-a38d-4a0da66f13a2",
+          "name": "Mastercrafted Rapier",
+          "count": 1
+        },
+        {
+          "id": "9d0ab661-ba18-4600-b639-551d93289faf",
+          "name": "Croc de Lion",
+          "count": 1
+        },
+        {
+          "id": "9e22364e-dd24-483f-b4c5-5bacc714f1b3",
+          "name": "Main Gauche",
+          "count": 1
+        },
+        {
+          "id": "3a089cb6-6353-4007-a250-8fb5599c859e",
+          "name": "Sabre",
+          "count": 1
+        },
+        {
+          "id": "4ccff6ad-d9ca-4bd3-a983-7c30dcdd8f87",
+          "name": "Tabard of the Fallen Musketeer",
+          "count": 1
+        },
+        {
+          "id": "14240188-8ae1-4b91-a501-fda07ee9eec3",
+          "name": "Blood Mark",
+          "count": 2
+        },
+        {
+          "id": "0d7aebe6-cd21-4719-b764-ec5c79d0013d",
+          "name": "Broken-time",
+          "count": 2
+        },
+        {
+          "id": "d893e444-92ab-4fe3-8c38-86bd0b4c3f2e",
+          "name": "Friends at Court",
+          "count": 2
+        },
+        {
+          "id": "ccf9170d-557c-4612-9889-625c0fb2c31a",
+          "name": "Quick Reflexes",
+          "count": 2
+        },
+        {
+          "id": "1cda2af6-9b48-4172-a5fe-4bb006d707f1",
+          "name": "Shield Rite",
+          "count": 2
+        },
+        {
+          "id": "db01b017-8d12-4394-bb8e-3bfc77bbebf1",
+          "name": "Unsanctioned Duel",
+          "count": 2
+        },
+        {
+          "id": "98fb6f0d-9a16-43df-97c8-ece498768389",
+          "name": "Worldly",
+          "count": 2
+        },
+        {
+          "id": "bd734a73-a157-47ed-9f83-8ce3a6cfedce",
+          "name": "Defending Honor",
+          "count": 2
+        },
+        {
+          "id": "332c5d10-d8ee-4a6e-a056-ca82e193fbd3",
+          "name": "Gallant Deeds",
+          "count": 2
+        },
+        {
+          "id": "31ee5bc9-ece2-4521-b951-14d12a0d8a05",
+          "name": "Legendary Reputation",
+          "count": 2
+        },
+        {
+          "id": "e38d863a-6859-47b5-9635-51acc08ea489",
+          "name": "Valiant Spirit",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        },
+        {
+          "id": "fb1dccde-31f7-429e-82cd-6081718e4c4b",
+          "name": "Throwing Knife",
+          "count": 2
+        },
+        {
+          "id": "e05f56ca-30aa-4369-8cf0-24f58f1451b0",
+          "name": "Leather Spaulders",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n[Thread discussion]\nIMABUNNEH (D. Hazelden): \"The deck was much better than my play. Apparently playing about 6 'real' games in a full year isn't enough to not be bad. A cavalier hat instead of a Friends at Court would probably have been good.\"",
+      "source_file": "Montaigne - 06.23.2026 - EuroChamps - Top 16 - Hazelden.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "darren-hazelden",
+        "wins": 1,
+        "losses": 3,
+        "points": 5,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Montaigne_-_06.23.2026_-_EuroChamps_-_Top_2_-_Ritchie.txt",
+      "name": "Montaigne - 06.23.2026 - EuroChamps - Top 2 - Ritchie",
+      "faction": "Montaigne",
+      "event": "European Championship 2026",
+      "position": "2nd Place",
+      "date": "2026-06-23",
+      "author": "J. Ritchie",
+      "archetype": "Switch",
+      "meta": "BaS",
+      "leader": {
+        "id": "54de271b-b707-445a-b5ee-eda0b7e0abce",
+        "name": "Angeline Dèmone"
+      },
+      "cards": [
+        {
+          "id": "39d01560-d0f0-4beb-82e6-d03d8f06ae87",
+          "name": "Axelle Hubert",
+          "count": 1
+        },
+        {
+          "id": "c870f668-c521-48df-9439-e00ad206449c",
+          "name": "Guillén de Murrieta",
+          "count": 1
+        },
+        {
+          "id": "6b0e5f8d-b447-4377-ba94-4595db5386ba",
+          "name": "Grand Merchant Anghos",
+          "count": 1
+        },
+        {
+          "id": "c3721d98-5b11-4d8d-b700-689038a0afdf",
+          "name": "Horatio Lockwood",
+          "count": 1
+        },
+        {
+          "id": "88f433e2-2a02-4414-8aaf-d02c5e3a077a",
+          "name": "Maxime de Lafayette",
+          "count": 1
+        },
+        {
+          "id": "825789ad-5fcb-40d8-b77f-a54cfa814c6e",
+          "name": "Let the Sword Decide",
+          "count": 1
+        },
+        {
+          "id": "3b715a25-fa75-487a-8f62-29034406ee04",
+          "name": "No Rest for the Wicked",
+          "count": 1
+        },
+        {
+          "id": "0cadf8ca-fdcb-432b-b9c7-0d61dbd679e8",
+          "name": "Shifting Tides",
+          "count": 1
+        },
+        {
+          "id": "c62a0c4d-6c90-455a-b51a-2258aeb87ca8",
+          "name": "Sworn Swords",
+          "count": 1
+        },
+        {
+          "id": "c3c57925-c52e-4336-a495-cd31a05ecb32",
+          "name": "Until Morale Improves",
+          "count": 1
+        },
+        {
+          "id": "6e8ded0f-efd8-4027-b1c3-b9ff4f8101e4",
+          "name": "Ambitious",
+          "count": 1
+        },
+        {
+          "id": "f21bc3b5-50a3-4115-826d-468f5b593f8a",
+          "name": "Honorable",
+          "count": 1
+        },
+        {
+          "id": "28739848-608f-470c-a00e-8f2ea05d9554",
+          "name": "Porté Travel",
+          "count": 1
+        },
+        {
+          "id": "9d0ab661-ba18-4600-b639-551d93289faf",
+          "name": "Croc de Lion",
+          "count": 1
+        },
+        {
+          "id": "dddd8f85-a014-4657-8e2d-c6914396d5a5",
+          "name": "La Voix des Sans Voix",
+          "count": 1
+        },
+        {
+          "id": "0bbc34d9-1e35-4286-beb3-46bddb3f04cb",
+          "name": "A Heroic End",
+          "count": 1
+        },
+        {
+          "id": "4ccff6ad-d9ca-4bd3-a983-7c30dcdd8f87",
+          "name": "Tabard of the Fallen Musketeer",
+          "count": 1
+        },
+        {
+          "id": "31ee5bc9-ece2-4521-b951-14d12a0d8a05",
+          "name": "Legendary Reputation",
+          "count": 2
+        },
+        {
+          "id": "bd734a73-a157-47ed-9f83-8ce3a6cfedce",
+          "name": "Defending Honor",
+          "count": 2
+        },
+        {
+          "id": "e38d863a-6859-47b5-9635-51acc08ea489",
+          "name": "Valiant Spirit",
+          "count": 2
+        },
+        {
+          "id": "332c5d10-d8ee-4a6e-a056-ca82e193fbd3",
+          "name": "Gallant Deeds",
+          "count": 2
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "2081d4df-fba8-4d55-898d-a8108f104ab8",
+          "name": "Come Hither",
+          "count": 2
+        },
+        {
+          "id": "14240188-8ae1-4b91-a501-fda07ee9eec3",
+          "name": "Blood Mark",
+          "count": 2
+        },
+        {
+          "id": "b7766521-0a72-4708-8abd-9654708cd1f4",
+          "name": "Bloody Entrance",
+          "count": 2
+        },
+        {
+          "id": "0d7aebe6-cd21-4719-b764-ec5c79d0013d",
+          "name": "Broken-time",
+          "count": 2
+        },
+        {
+          "id": "e309eb07-7ecc-4e97-b967-26a7d6c27745",
+          "name": "Comforting",
+          "count": 2
+        },
+        {
+          "id": "3c7e6354-1037-463c-8fda-b878228a0d5a",
+          "name": "Master of Valroux Style",
+          "count": 2
+        },
+        {
+          "id": "b822cc5b-40e0-4439-836e-46e12dcaafde",
+          "name": "Valroux Exemplar",
+          "count": 2
+        },
+        {
+          "id": "14f0cadc-c424-4cb4-ba85-c6cc94a65e9b",
+          "name": "Cavalier Hat",
+          "count": 2
+        },
+        {
+          "id": "30926e3d-8a52-4b77-93af-306bc67a0dfd",
+          "name": "Corpse Speak",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        },
+        {
+          "id": "e5ad85eb-b1b7-4c42-a38d-4a0da66f13a2",
+          "name": "Mastercrafted Rapier",
+          "count": 2
+        },
+        {
+          "id": "3a089cb6-6353-4007-a250-8fb5599c859e",
+          "name": "Sabre",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n[Thread discussion]\n\nAmmoniaWasp asked whether the faction deck was really 41 cards.\nAgent006 (OP): \"Maybe? I just typed over what was shared. You can put more than 40 cards in your faction deck, so maybe they wanted more options?\"\nAmmoniaWasp: no worries, was just checking if the list was correct.\nDon Miguel Ramirez: recalled that with Thrones players in the UK there was a thing about putting one extra card in the deck just for the hell of it, and it caught on - though he doesn't think that's what happened here.\nCoxatris: \"At the rate that you draw through a deck in this game, one card isn't going to mess with ratios much.\"",
+      "source_file": "Montaigne - 06.23.2026 - EuroChamps - Top 2 - Ritchie.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "james-ritchie",
+        "wins": 4,
+        "losses": 2,
+        "points": 15,
+        "topx": 2
       }
     },
     {
@@ -10589,6 +12515,780 @@
         "points": 30,
         "topx": 4
       }
+    },
+    {
+      "id": "tourney:Ussura_-_06.23.2026_-_EuroChamps_-_Top_16_-_Marrote.txt",
+      "name": "Ussura - 06.23.2026 - EuroChamps - Top 16 - Marrote",
+      "faction": "Ussura",
+      "event": "European Championship 2026",
+      "position": "9th Place",
+      "date": "2026-06-23",
+      "author": "L. Marrote",
+      "archetype": "Dueling",
+      "meta": "BaS",
+      "leader": {
+        "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
+        "name": "Yevgeni"
+      },
+      "cards": [
+        {
+          "id": "ac818dea-1681-452b-a02d-f00c99381f06",
+          "name": "Yepikhodov Yepikvidich",
+          "count": 1
+        },
+        {
+          "id": "64820e7f-0421-4600-8ea3-b31a23f1a64e",
+          "name": "Ved'ma",
+          "count": 1
+        },
+        {
+          "id": "3fb36889-b1f5-4466-9009-fd1bdda654f0",
+          "name": "Ren",
+          "count": 1
+        },
+        {
+          "id": "9291852c-010c-4952-b15c-56e687acdcaf",
+          "name": "Miyato and Ota",
+          "count": 1
+        },
+        {
+          "id": "7f965a4a-7c71-460b-b331-a17d6bb7b3d8",
+          "name": "Tomoe Sango",
+          "count": 1
+        },
+        {
+          "id": "b1ea7c6d-e1d3-4953-b06a-6fdbb39aac6c",
+          "name": "The Boar's Guile",
+          "count": 1
+        },
+        {
+          "id": "ae492a51-442c-40c5-8583-b2f3058d1ae1",
+          "name": "Stand Your Ground",
+          "count": 1
+        },
+        {
+          "id": "175fcf8c-ddf8-4872-b52d-ad62a12297a3",
+          "name": "Adrift in the Wind",
+          "count": 1
+        },
+        {
+          "id": "043e026b-bae5-47a1-89a9-9c9e988d5f0e",
+          "name": "Winter's Winds",
+          "count": 1
+        },
+        {
+          "id": "69dbff06-f740-48cb-bd61-2671f3a327c1",
+          "name": "Midnight Shipment",
+          "count": 1
+        },
+        {
+          "id": "fc534906-e8a7-4a97-aef8-6b50bad74fd4",
+          "name": "Grandfather's Hammer",
+          "count": 1
+        },
+        {
+          "id": "3a8ca4b6-1a89-41a3-ab89-3bd45fd10e32",
+          "name": "Syrneth Compass",
+          "count": 1
+        },
+        {
+          "id": "77b69c5c-f055-4f3b-9ccc-f898ea541397",
+          "name": "Temnota",
+          "count": 1
+        },
+        {
+          "id": "56a12d5a-e4cd-4a71-b88c-21ab8043bd5d",
+          "name": "Severing Arc",
+          "count": 1
+        },
+        {
+          "id": "987862c9-9651-4350-9d22-168735ecbae6",
+          "name": "Strength of Ten",
+          "count": 1
+        },
+        {
+          "id": "6e8ded0f-efd8-4027-b1c3-b9ff4f8101e4",
+          "name": "Ambitious",
+          "count": 1
+        },
+        {
+          "id": "c9305680-42ff-4856-a742-015636a9ef43",
+          "name": "Mireli Sabre",
+          "count": 2
+        },
+        {
+          "id": "7a1f1f32-5073-464f-a91a-582c9f607184",
+          "name": "Blood Like Winter",
+          "count": 2
+        },
+        {
+          "id": "e1edf443-c33e-4d1e-b800-c14882abb508",
+          "name": "Borets",
+          "count": 2
+        },
+        {
+          "id": "92ebbcdb-3638-4700-ab46-d3a3c4b0557f",
+          "name": "Bravado",
+          "count": 2
+        },
+        {
+          "id": "35cc8e55-9eb4-4517-ac38-6b93091b12ef",
+          "name": "Courageous",
+          "count": 2
+        },
+        {
+          "id": "11a19ddc-a8d7-4af1-8904-5790f84b42fd",
+          "name": "Iaijutsu Strike",
+          "count": 2
+        },
+        {
+          "id": "ea137dbc-5f82-4ccb-b976-15daef28073d",
+          "name": "Indomitable Will",
+          "count": 2
+        },
+        {
+          "id": "8ea32871-2b37-4aa7-bc68-3d01a4423efa",
+          "name": "Iron and Velvet",
+          "count": 2
+        },
+        {
+          "id": "8a9af61e-7515-4e80-af88-b32ed24b85c3",
+          "name": "Justice Served Cold",
+          "count": 2
+        },
+        {
+          "id": "2a40e669-8853-492b-bebb-4aafcacee93e",
+          "name": "Matushka's Command",
+          "count": 2
+        },
+        {
+          "id": "aa1acf45-ef2c-4b17-9619-78e191f52007",
+          "name": "Matushka's Efficiency",
+          "count": 2
+        },
+        {
+          "id": "3a0f405a-dc4a-4553-8919-ae9217e1c11c",
+          "name": "Matushka's Song",
+          "count": 2
+        },
+        {
+          "id": "80cbd288-9a7f-419c-a460-2f08ef4c71b7",
+          "name": "Mireli's Revision",
+          "count": 2
+        },
+        {
+          "id": "d5cd9678-ccd9-4d35-a4c3-34589d2dc85b",
+          "name": "My Fight, Alone",
+          "count": 2
+        },
+        {
+          "id": "1acf2a5a-f57d-4f52-bde8-9df02482d793",
+          "name": "Razrushitel",
+          "count": 2
+        },
+        {
+          "id": "96d1bff7-8fcf-4f77-9ae9-fd7f47cd8006",
+          "name": "Strong Hands",
+          "count": 2
+        },
+        {
+          "id": "8d1fc029-1518-4ade-8b3e-e89ebba427a6",
+          "name": "Stubborn",
+          "count": 2
+        },
+        {
+          "id": "fa8b4fc5-f2b3-4d45-aa86-d1fb5d154c49",
+          "name": "Sunder",
+          "count": 2
+        },
+        {
+          "id": "ca31c952-f690-4401-bae0-b95982b893b0",
+          "name": "Voice of the Gods",
+          "count": 2
+        },
+        {
+          "id": "2213f924-ad8f-423b-bd6e-acb3a070f850",
+          "name": "Heroic Intervention",
+          "count": 2
+        },
+        {
+          "id": "392b9d83-b47f-4759-bcbf-dabe0bce3347",
+          "name": "Opulence",
+          "count": 2
+        },
+        {
+          "id": "db01b017-8d12-4394-bb8e-3bfc77bbebf1",
+          "name": "Unsanctioned Duel",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n(No thread discussion - deck list only.)",
+      "source_file": "Ussura - 06.23.2026 - EuroChamps - Top 16 - Marrote.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "luc-marotte",
+        "wins": 2,
+        "losses": 2,
+        "points": 10,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Ussura_-_06.23.2026_-_EuroChamps_-_Top_8_-_Smith.txt",
+      "name": "Ussura - 06.23.2026 - EuroChamps - Top 8 - Smith",
+      "faction": "Ussura",
+      "event": "European Championship 2026",
+      "position": "8th Place",
+      "date": "2026-06-23",
+      "author": "M. Smith",
+      "archetype": "Switch",
+      "meta": "BaS",
+      "leader": {
+        "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
+        "name": "Yevgeni"
+      },
+      "cards": [
+        {
+          "id": "57b48a68-6731-4ac6-a0d3-6cc91d36ff52",
+          "name": "Ekaterina Ilyanava",
+          "count": 1
+        },
+        {
+          "id": "a120fc0e-29c0-431e-aff5-ff80c36268a6",
+          "name": "Kaj Kousei",
+          "count": 1
+        },
+        {
+          "id": "b9d06ad2-269b-4873-9cfc-54d638707360",
+          "name": "Jak-Sen",
+          "count": 1
+        },
+        {
+          "id": "15228c0e-7472-44da-82e0-8ac3b91793c9",
+          "name": "Elina Georginova",
+          "count": 1
+        },
+        {
+          "id": "192e9003-281a-4c18-950b-e22c22c06bdb",
+          "name": "Torsten Vakt",
+          "count": 1
+        },
+        {
+          "id": "175fcf8c-ddf8-4872-b52d-ad62a12297a3",
+          "name": "Adrift in the Wind",
+          "count": 1
+        },
+        {
+          "id": "1e450950-dcd7-4f53-97ac-e2cbdbf72a0a",
+          "name": "Path to Poluchatel",
+          "count": 1
+        },
+        {
+          "id": "dc1194ef-3da4-43bf-af47-673bda159f40",
+          "name": "Filling the Ranks",
+          "count": 1
+        },
+        {
+          "id": "043e026b-bae5-47a1-89a9-9c9e988d5f0e",
+          "name": "Winter's Winds",
+          "count": 1
+        },
+        {
+          "id": "b1ea7c6d-e1d3-4953-b06a-6fdbb39aac6c",
+          "name": "The Boar's Guile",
+          "count": 1
+        },
+        {
+          "id": "3a8ca4b6-1a89-41a3-ab89-3bd45fd10e32",
+          "name": "Syrneth Compass",
+          "count": 1
+        },
+        {
+          "id": "987862c9-9651-4350-9d22-168735ecbae6",
+          "name": "Strength of Ten",
+          "count": 1
+        },
+        {
+          "id": "7a1f1f32-5073-464f-a91a-582c9f607184",
+          "name": "Blood Like Winter",
+          "count": 2
+        },
+        {
+          "id": "98fb6f0d-9a16-43df-97c8-ece498768389",
+          "name": "Worldly",
+          "count": 2
+        },
+        {
+          "id": "e309eb07-7ecc-4e97-b967-26a7d6c27745",
+          "name": "Comforting",
+          "count": 2
+        },
+        {
+          "id": "b1ade75f-a929-4e2f-92e4-3e760ccf9ef3",
+          "name": "Astute",
+          "count": 2
+        },
+        {
+          "id": "8a9af61e-7515-4e80-af88-b32ed24b85c3",
+          "name": "Justice Served Cold",
+          "count": 2
+        },
+        {
+          "id": "7f4ca8ca-5fcf-49a9-959a-9d58df7b082a",
+          "name": "Predatory Pursuit",
+          "count": 2
+        },
+        {
+          "id": "8d1fc029-1518-4ade-8b3e-e89ebba427a6",
+          "name": "Stubborn",
+          "count": 2
+        },
+        {
+          "id": "ea137dbc-5f82-4ccb-b976-15daef28073d",
+          "name": "Indomitable Will",
+          "count": 2
+        },
+        {
+          "id": "1cda2af6-9b48-4172-a5fe-4bb006d707f1",
+          "name": "Shield Rite",
+          "count": 2
+        },
+        {
+          "id": "9702848a-26cc-4a73-9312-fd5fb44dedab",
+          "name": "Point of Order",
+          "count": 2
+        },
+        {
+          "id": "1acf2a5a-f57d-4f52-bde8-9df02482d793",
+          "name": "Razrushitel",
+          "count": 2
+        },
+        {
+          "id": "aa1acf45-ef2c-4b17-9619-78e191f52007",
+          "name": "Matushka's Efficiency",
+          "count": 2
+        },
+        {
+          "id": "d1a8f57c-a10e-41ef-b5da-d818a22a299b",
+          "name": "Matushka's Sight",
+          "count": 2
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "80cbd288-9a7f-419c-a460-2f08ef4c71b7",
+          "name": "Mireli's Revision",
+          "count": 2
+        },
+        {
+          "id": "2a40e669-8853-492b-bebb-4aafcacee93e",
+          "name": "Matushka's Command",
+          "count": 2
+        },
+        {
+          "id": "96d1bff7-8fcf-4f77-9ae9-fd7f47cd8006",
+          "name": "Strong Hands",
+          "count": 2
+        },
+        {
+          "id": "2213f924-ad8f-423b-bd6e-acb3a070f850",
+          "name": "Heroic Intervention",
+          "count": 2
+        },
+        {
+          "id": "3a0f405a-dc4a-4553-8919-ae9217e1c11c",
+          "name": "Matushka's Song",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\nMike Smith's write-up (6/23/2026):\n\"A few thoughts about the deck: Try not to let my relatively poor showing colour your opinion. I lost game 2 because I was overconfident and made a boneheaded play. Day 1 went perfectly, Yevgeni grabbed the Syrneth Hand and I was up by a couple of renown. Day 2, a duel got switched to influence and instead of taking 1 wound and ending the duel, I kept it going... Game 4, I lost an incredibly close game to the overall tournament winner that went to day 4 and we were both running on fumes. I just ran out of answers to two Commandings plus Armed and Marshalled that turn.\"\n\nUsual plan / character flop:\n- Day 1: Kaj and grab the Puzzle Box for an extra sorcerer and greater deck consistency. It also turns on the ability to yeet an opponent across the board. (He really enjoys using Kaj.) Scheme is either Path or Winds depending on the opponent.\n- Day 2: Ekaterina, one of the best options Ussura has to control which locations matter. Scheme, if possible, is Filling the Ranks - Yevgeni has a nasty habit of falling behind on characters day 1, and this is the answer (a free or very cheap merc; a body is a body).\n- Day 3: Jak-Sen, because games are often settled this day, so a character that hinders the opponent's control is aces. Most of the time he doesn't even use the ability because people look at him and frown. He loves him almost as much as Kaj; thanks to the design team for cool, non-duel-related cards this set.\n\n\"There's a couple of cards I'd cut from the deck knowing what I do now. But only having about 5 games prior to the tournament with the new expansion (and only 3 with a different iteration of this deck) I was running on theory rather than practice.\"",
+      "source_file": "Ussura - 06.23.2026 - EuroChamps - Top 8 - Smith.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "mike-smith",
+        "wins": 2,
+        "losses": 2,
+        "points": 10,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Ussura_-_06.27.2026_-_None_-_None_-_Sorenson.txt",
+      "name": "Ekat Degen or It Takes 5 characters to replace Yevgeni and one of them is Yevgeni",
+      "faction": "Ussura",
+      "event": "(Community deck / not a tournament placement)",
+      "position": "Unknown",
+      "date": "2026-06-27",
+      "author": "TomS Epic Gaming",
+      "archetype": "Dueling",
+      "meta": "BaS",
+      "leader": {
+        "id": "c6892bcc-8c56-4b4a-b09f-ee1631286957",
+        "name": "Ekaterina Ilyanava"
+      },
+      "cards": [
+        {
+          "id": "7f965a4a-7c71-460b-b331-a17d6bb7b3d8",
+          "name": "Tomoe Sango",
+          "count": 1
+        },
+        {
+          "id": "3fb36889-b1f5-4466-9009-fd1bdda654f0",
+          "name": "Ren",
+          "count": 1
+        },
+        {
+          "id": "9291852c-010c-4952-b15c-56e687acdcaf",
+          "name": "Miyato and Ota",
+          "count": 1
+        },
+        {
+          "id": "192e9003-281a-4c18-950b-e22c22c06bdb",
+          "name": "Torsten Vakt",
+          "count": 1
+        },
+        {
+          "id": "d4620225-2a82-41b4-9734-7eee1bca25d6",
+          "name": "Yevgeni",
+          "count": 1
+        },
+        {
+          "id": "1ef1fd41-cf4b-4105-b87e-6e27dcdbe690",
+          "name": "Motion to Delay",
+          "count": 1
+        },
+        {
+          "id": "ae492a51-442c-40c5-8583-b2f3058d1ae1",
+          "name": "Stand Your Ground",
+          "count": 1
+        },
+        {
+          "id": "0cadf8ca-fdcb-432b-b9c7-0d61dbd679e8",
+          "name": "Shifting Tides",
+          "count": 1
+        },
+        {
+          "id": "0292e20a-542a-4bc2-9c86-ae4fd8605096",
+          "name": "Leshiye of the Wood",
+          "count": 1
+        },
+        {
+          "id": "b1ea7c6d-e1d3-4953-b06a-6fdbb39aac6c",
+          "name": "The Boar's Guile",
+          "count": 1
+        },
+        {
+          "id": "fc534906-e8a7-4a97-aef8-6b50bad74fd4",
+          "name": "Grandfather's Hammer",
+          "count": 1
+        },
+        {
+          "id": "987862c9-9651-4350-9d22-168735ecbae6",
+          "name": "Strength of Ten",
+          "count": 1
+        },
+        {
+          "id": "56a12d5a-e4cd-4a71-b88c-21ab8043bd5d",
+          "name": "Severing Arc",
+          "count": 1
+        },
+        {
+          "id": "60b37df0-54ad-4317-85d6-d0fa84246d6e",
+          "name": "Relentless",
+          "count": 1
+        },
+        {
+          "id": "1f17f936-5a35-426f-8a8b-24706c163478",
+          "name": "Collateral Damage",
+          "count": 1
+        },
+        {
+          "id": "8a9af61e-7515-4e80-af88-b32ed24b85c3",
+          "name": "Justice Served Cold",
+          "count": 1
+        },
+        {
+          "id": "c9305680-42ff-4856-a742-015636a9ef43",
+          "name": "Mireli Sabre",
+          "count": 2
+        },
+        {
+          "id": "e1edf443-c33e-4d1e-b800-c14882abb508",
+          "name": "Borets",
+          "count": 2
+        },
+        {
+          "id": "ea137dbc-5f82-4ccb-b976-15daef28073d",
+          "name": "Indomitable Will",
+          "count": 2
+        },
+        {
+          "id": "96d1bff7-8fcf-4f77-9ae9-fd7f47cd8006",
+          "name": "Strong Hands",
+          "count": 2
+        },
+        {
+          "id": "05a20708-5ad2-4360-b765-6d50134f8105",
+          "name": "Greed",
+          "count": 2
+        },
+        {
+          "id": "2a40e669-8853-492b-bebb-4aafcacee93e",
+          "name": "Matushka's Command",
+          "count": 2
+        },
+        {
+          "id": "1acf2a5a-f57d-4f52-bde8-9df02482d793",
+          "name": "Razrushitel",
+          "count": 2
+        },
+        {
+          "id": "8d1fc029-1518-4ade-8b3e-e89ebba427a6",
+          "name": "Stubborn",
+          "count": 2
+        },
+        {
+          "id": "fa8b4fc5-f2b3-4d45-aa86-d1fb5d154c49",
+          "name": "Sunder",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        },
+        {
+          "id": "7a1f1f32-5073-464f-a91a-582c9f607184",
+          "name": "Blood Like Winter",
+          "count": 2
+        },
+        {
+          "id": "9702848a-26cc-4a73-9312-fd5fb44dedab",
+          "name": "Point of Order",
+          "count": 2
+        },
+        {
+          "id": "92ebbcdb-3638-4700-ab46-d3a3c4b0557f",
+          "name": "Bravado",
+          "count": 2
+        },
+        {
+          "id": "db01b017-8d12-4394-bb8e-3bfc77bbebf1",
+          "name": "Unsanctioned Duel",
+          "count": 2
+        },
+        {
+          "id": "3a089cb6-6353-4007-a250-8fb5599c859e",
+          "name": "Sabre",
+          "count": 2
+        },
+        {
+          "id": "9a9b1785-d852-4b68-b95b-d54abcafba89",
+          "name": "Sturdy Shield",
+          "count": 2
+        },
+        {
+          "id": "b1ade75f-a929-4e2f-92e4-3e760ccf9ef3",
+          "name": "Astute",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\nOP (TomS Epic Gaming) strategy:\nThis largely turned into the embodiment of his Epic Card Game philosophy: Get Ahead, Stay Ahead. The ultimate goal is to get a renown lead and sit on it, forcing the opponent to act to stop you.\n\nTomoe is the lynchpin - she can go sit on an empty location; if no one contests she claims, if someone does she fights. Sabre, Mireli Sabre, Unsanctioned Duel, Bravado, Relentless and Stand Your Ground help kill pacifists that don't fight back. All the equipment, Severing Arc and Borets help against fighters you want to fight; Sunder can kill opposing Sabers too. Sturdy Shield and Mireli Sabre + Matushka's Command and Point of Order give three parry-parry outs against fighters you don't want to fight (both otherwise effectively blank unless you get sorc capability from City Deck or get desperate).\n\nIf you sit back unchallenged, Ekat can hang out with Tomoe. When Tomoe claims at the End of High Drama, Ekat can jet over to a location the opponent claimed to deny one renown + potential Greed; then Shifting Tides/Leshiye can deny the stack completely. Strong Hands and Indom Will (Stubborn + Blood Like Winter) can help claim locations when needed. Razrushitel is movement + wound. Lodestone does everything - reposition your En Garde character by sending them home first, and let your engaged leader retreat after being Pulled from home. Astute is the quintessential Ekat card for running away / renown manipulation.\n\nCards considered but cut for space: (Iaijutsu?) Strike and Courageous (expensive maneuver / below-average RPT); Syrneth Compass (great RPT, an artifact for Ekat, a way to run to Yevgeni); Temnota (+1 resolve, surprise Matushka's Command). No Mireli's Revision, as he feels Unsanctioned Duel + Bravado should be cheaper/better against parry-outs. Note Yevgeni Approach is still a sorcerer, so he can Matushka's Command.\n\n[Community discussion highlights]\nFlukeytuba (steve): light suggestions on the list (given as personal opinion).\n\nThere was extended debate about low influence being a problem when opponents don't respect the duelists (turn 2 with Rosine + Armed and Marshalled can effectively lock the Ekat player out of participating that turn; worse with Commanding, and Blood Like Winter is weak because Kaspar/Eisen has lots of strength). TomS noted a large part of the deck is to avoid walking into a location that already has an opposing character; if Rosine beats you to a location, don't go there; if she walks into your fighter's location, challenge immediately (ideally with one of 4 sabers to send 4, and/or Unsanctioned/Bravado, and/or Relentless).\n\nCoxatris argued Elkor was underselling how poorly it can go for Ekat vs engagement, and that including more non-engaging challenge actions is hard because Ussura's such cards have restrictions and bad RPT.\n\nDiscussion of Kaspar (9 resolve) as a problem - possibly increase Justice Served Cold to 2 in that matchup. Unsanctioned and Bravado are the most important cards vs the Pacifist, with Strong Hands and Indom Will close behind, plus Sabers to send 4 on challenge.\n\nA \"Mōri Daichi\" variant was discussed: Borets makes Mori Daichi more interesting (9 flourishes to buff, wouldn't even need his own equipment if opening Borets with him). TomS: he'd probably drop Yevgeni + Hammer before Torsten (even though 6 threat on challenge is great), since Torsten is much less of a fighter and is a big speed bump who can safely refuse a challenge or parry out and be left with 4 resolve plus 2 inf and anti-sorc reaction. He'd forever remember Dave repeatedly abusing Torsten's low Finesse with You Cheated!s and -1 Fin from Soline. Having Mori as a 4th duelist to choose when needing inf early is a good suggestion, but a lot of the experimentation is to see how much leader Ekat can carry the squad. His main problem going a Mori Daichi route is it makes him try to fight fighting decks by fighting fighters, whereas the goal is generally not to fight as much as possible - especially fighters - and by not including many 5-thrust cards he lessens the deck's ability to outright kill fighters (\"I'm too greedy to trade. I want it ALL!\").\n\nHe listed cards he's curious about for a Dachi deck: Iaijutsu Strike, Courageous, Mireli's Revision, Worldly, Quick Reflexes, Syrneth Compass. Mori feels like he fits the deck a bit better overall with the Duelist trait, same influence, higher finesse, and still a decent technique.\n\nLater discussion (July 1) on other card evaluations: Courageous is a possibility but low inf means they generally don't need to stack up too much. Discussion of Astute (\"Astute was made for her tho\"); Elkor noted he's never gotten Astute to work well (9/10 moving a renown isn't worth giving the opponent something) - counterpoint that it works well with a 3-inf leader.\n\nOn Ekaterina claim shenanigans: Elkor thinks Ussura doesn't have as much claim/stand shenanigans as other factions, making it harder; Ekaterina is super mobile but can't do it by herself and can be isolated. Coxatris: they do have claim shenanigans, some good ones, but Ekaterina struggles to use both. Elkor: \"Both are amazing. Neither works great with Ekaterina.\" (Thread also contained several screenshot images of card interactions/board states.)\n\nTomS (7/3): considering dropping 1x Lodestone for 1x Matchlock Musket to make his RPT very slightly more aggressive, but is trying it as-is for streamed games. On Astute vs Angie: he was able to use it as Bacon described against Angie on day 1 - she chased him across the city but he got 3 renown day 1 to hoard, at the cost of 1-2 wounds while dodging challenge cards (both copies in hand day 1).\nBaconator: might want to just drop the parry-outs, or increase them - 5 is a very awkward number of parry-outs in general for any deck.\nTomS: not yet, still testing; 4 isn't too scary for the rare times gambling against a pacifist (Unsanctioned and Bravado). Against non-leader fighters he's fine parrying out of a fight mid-way. Between Ekat leader, Mireli's Saber, and Sturdy Shield, 3-parry parry-outs is too tempting.\nCoxatris: the Angie player is always going to chase you down; Bloody Entrance, Blood Mark, Pull and Come Hither give too much movement tech to run away from. What she doesn't have is influence, so you get a sweet renown stack - it's just whether you can keep staying away from Angie or not. Still in the Odette-over-Angeline camp; thinks she controls the same spaces better.\nBaconator: \"Odette is the leader I play if I want to win, Angie is the leader I play if I want to have fun.\"",
+      "source_file": "Ussura - 06.27.2026 - None - None - Sorenson.txt"
+    },
+    {
+      "id": "tourney:Ussura_-_06.28.2026_-_None_-_None_-_Sorenson.txt",
+      "name": "Mōri Daichi and Yevgeni: Best Bullies (inspired by Flukeytuba (steve))",
+      "faction": "Ussura",
+      "event": "(Community deck / not a tournament placement)",
+      "position": "Unknown",
+      "date": "2026-06-28",
+      "author": "TomS Epic Gaming",
+      "archetype": "Switch",
+      "meta": "BaS",
+      "leader": {
+        "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
+        "name": "Yevgeni"
+      },
+      "cards": [
+        {
+          "id": "ace7ba89-7e85-4ad9-9d57-f2faab2630e1",
+          "name": "Mōri Daichi",
+          "count": 1
+        },
+        {
+          "id": "a120fc0e-29c0-431e-aff5-ff80c36268a6",
+          "name": "Kaj Kousei",
+          "count": 1
+        },
+        {
+          "id": "57b48a68-6731-4ac6-a0d3-6cc91d36ff52",
+          "name": "Ekaterina Ilyanava",
+          "count": 1
+        },
+        {
+          "id": "b9d06ad2-269b-4873-9cfc-54d638707360",
+          "name": "Jak-Sen",
+          "count": 1
+        },
+        {
+          "id": "192e9003-281a-4c18-950b-e22c22c06bdb",
+          "name": "Torsten Vakt",
+          "count": 1
+        },
+        {
+          "id": "1e450950-dcd7-4f53-97ac-e2cbdbf72a0a",
+          "name": "Path to Poluchatel",
+          "count": 1
+        },
+        {
+          "id": "dc1194ef-3da4-43bf-af47-673bda159f40",
+          "name": "Filling the Ranks",
+          "count": 1
+        },
+        {
+          "id": "69dbff06-f740-48cb-bd61-2671f3a327c1",
+          "name": "Midnight Shipment",
+          "count": 1
+        },
+        {
+          "id": "175fcf8c-ddf8-4872-b52d-ad62a12297a3",
+          "name": "Adrift in the Wind",
+          "count": 1
+        },
+        {
+          "id": "b1ea7c6d-e1d3-4953-b06a-6fdbb39aac6c",
+          "name": "The Boar's Guile",
+          "count": 1
+        },
+        {
+          "id": "3a8ca4b6-1a89-41a3-ab89-3bd45fd10e32",
+          "name": "Syrneth Compass",
+          "count": 1
+        },
+        {
+          "id": "77b69c5c-f055-4f3b-9ccc-f898ea541397",
+          "name": "Temnota",
+          "count": 1
+        },
+        {
+          "id": "987862c9-9651-4350-9d22-168735ecbae6",
+          "name": "Strength of Ten",
+          "count": 1
+        },
+        {
+          "id": "fc534906-e8a7-4a97-aef8-6b50bad74fd4",
+          "name": "Grandfather's Hammer",
+          "count": 1
+        },
+        {
+          "id": "7690f817-f3b6-451f-b782-0585dcb8a2de",
+          "name": "Dame of Swords",
+          "count": 1
+        },
+        {
+          "id": "56a12d5a-e4cd-4a71-b88c-21ab8043bd5d",
+          "name": "Severing Arc",
+          "count": 1
+        },
+        {
+          "id": "7a1f1f32-5073-464f-a91a-582c9f607184",
+          "name": "Blood Like Winter",
+          "count": 1
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 1
+        },
+        {
+          "id": "2a40e669-8853-492b-bebb-4aafcacee93e",
+          "name": "Matushka's Command",
+          "count": 2
+        },
+        {
+          "id": "ea137dbc-5f82-4ccb-b976-15daef28073d",
+          "name": "Indomitable Will",
+          "count": 2
+        },
+        {
+          "id": "8a9af61e-7515-4e80-af88-b32ed24b85c3",
+          "name": "Justice Served Cold",
+          "count": 2
+        },
+        {
+          "id": "9e22364e-dd24-483f-b4c5-5bacc714f1b3",
+          "name": "Main Gauche",
+          "count": 2
+        },
+        {
+          "id": "96d1bff7-8fcf-4f77-9ae9-fd7f47cd8006",
+          "name": "Strong Hands",
+          "count": 2
+        },
+        {
+          "id": "98fb6f0d-9a16-43df-97c8-ece498768389",
+          "name": "Worldly",
+          "count": 2
+        },
+        {
+          "id": "ccf9170d-557c-4612-9889-625c0fb2c31a",
+          "name": "Quick Reflexes",
+          "count": 2
+        },
+        {
+          "id": "80cbd288-9a7f-419c-a460-2f08ef4c71b7",
+          "name": "Mireli's Revision",
+          "count": 2
+        },
+        {
+          "id": "11a19ddc-a8d7-4af1-8904-5790f84b42fd",
+          "name": "Iaijutsu Strike",
+          "count": 2
+        },
+        {
+          "id": "1acf2a5a-f57d-4f52-bde8-9df02482d793",
+          "name": "Razrushitel",
+          "count": 2
+        },
+        {
+          "id": "1cda2af6-9b48-4172-a5fe-4bb006d707f1",
+          "name": "Shield Rite",
+          "count": 2
+        },
+        {
+          "id": "aa1acf45-ef2c-4b17-9619-78e191f52007",
+          "name": "Matushka's Efficiency",
+          "count": 2
+        },
+        {
+          "id": "3a0f405a-dc4a-4553-8919-ae9217e1c11c",
+          "name": "Matushka's Song",
+          "count": 2
+        },
+        {
+          "id": "8d1fc029-1518-4ade-8b3e-e89ebba427a6",
+          "name": "Stubborn",
+          "count": 2
+        },
+        {
+          "id": "3ee83ee6-6d4f-4de2-939c-406d78e3071e",
+          "name": "Appealing to the People",
+          "count": 2
+        },
+        {
+          "id": "4dba47b0-981d-4a93-9faa-8a203a806c44",
+          "name": "Matchlock Musket",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\nFull thread text follows, including the OP's day-by-day game plan (Day 1 Mōri Daichi + Path to Poluchatel; Yevgeni grabs Temnota to corrupt into a sorcerer for +1 resolve and access to Shield Rite / Matushka's Song, etc.) and community discussion (tso, Flukeytuba, on Kaj + Puzzle Box openers, Lodestone as final cut, trading Musket for Lodestones, etc.).\n\n----- FULL THREAD -----\n\nMōri Daichi and Yevgeni: Best Bullies\nJune 28, 2026\nTomS Epic Gaming\nGrand Admiral of Five Sails\nOP\nOriginal Poster\n — \n6/28/26, 10:40 AM\nSunday, June 28, 2026 at 10:40 AM\nYevgeni Leader\n\nMōri Daichi\nKaj Kousei\nEkaterina Ilyanava\nJak-Sen\nTorsten Vakt\n\nPath to Poluchatel\nFilling the Ranks\nMidnight Shipment\nAdrift in the Wind\nThe Boar's Guile\n\n1x Syrneth Compass\n1x Temnota\n1x Strength of Ten\n1x Grandfather's Hammer\n1x Dame of Swords\n1x Severing Arc\n1x Blood Like Winter\n1x Pull\n2x Matushka's Command\n2x Indomitable Will\n2x Justice Served Cold\n2x Main Gauche\n2x Strong Hands\n2x Worldly\n2x Quick Reflexes\n2x Mireli's Revision\n2x Iajutsu Strike\n2x Razrushitel\n2x Shield Rite\n2x Matushka's Efficiency\n2x Matushka's Song\n2x Stubborn\n2x Appealing to the People\n2x Matchlock Musket\n\nInspired by @Flukeytuba (steve) \n\nDay 1 is Mōri Daichi + Path to Poluchetel. Yevgeni goes and gets Temnota to corrupt...turn him into a sorcerer. This gives him +1 resolve and access to Shield Rite and Matushka's Song as additional combat cards in addition to Worldly, Quick Reflexes, Mireli's Revision, and Iajutsu Strike. We also have Main Gauche's and a Dame of Swords for him. All of that together with his technique, potential healing from Song, and Mireli's Revision No to Valroux Exemplar/etc. should make him pretty hard for any deck to kill.\n\nOn the off chance Syrenth Hand pops up day 1, we likely go Midnight Shipment + Ekat instead to try to grab that and shift our usual day 1 to day 2.\n\nNormally, day 2 will be Kaj to grab Yev the Syneth Hand (make sure to hold over a card!). The only exception is we got Hand or Hammer day 1.\n\nAfter that, fairly typical Yev good stuff deck plan. Send Yev to location you want to bully before anyone gets there if you can. Have a second char come claim it eventually. Mōri does the same to a different location, but must rely on his inf and dueling to prevent opponent from claiming. Can intervene to protect more inf bodies. Could also stay back and be reactive, not sure yet.\n\nAdrift in the Wind is a good late game if ahead so Yev can stay home until a claim happens. Torsten back up Big Boi for Indom Will/Strong Hands/Blood like Winter\n1\nAdd Reaction\nFollow\nAdd this post to your channel list and receive notifications about it.\nCopy Link\ntso\nPatron\n — \n6/28/26, 10:42 AM\nSunday, June 28, 2026 at 10:42 AM\nYes. Please continue to influence for ussura. Get our numbers up for gencon \nTomS Epic Gaming\nGrand Admiral of Five Sails\nOP\nOriginal Poster\n — \n6/28/26, 10:47 AM\nSunday, June 28, 2026 at 10:47 AM\nSo many good different takes that can be brought!\n[\n10:48 AM\n]\nSunday, June 28, 2026 at 10:48 AM\n(mildly different), well, Ekat Degen is very different from Yev good stuff (edited)\nSunday, June 28, 2026 at 10:48 AM\n[\n10:50 AM\n]\nSunday, June 28, 2026 at 10:50 AM\nI don't think an all-in Murder build for Ussura is the greatest currently, but Pacifist Ekat is definitely a deck too (edited)\nSunday, June 28, 2026 at 10:50 AM\ntso\nPatron\n — \n6/28/26, 10:56 AM\nSunday, June 28, 2026 at 10:56 AM\nPath + daichi is pretty sick tho. A very dependable little ball\nTomS Epic Gaming\nGrand Admiral of Five Sails\nOP\nOriginal Poster\n — \n6/28/26, 10:59 AM\nSunday, June 28, 2026 at 10:59 AM\nDaichi was so close to being amazing, just one more Resolve and Sorcerer is all it takes!\ntso\nPatron\n — \n6/28/26, 11:00 AM\nSunday, June 28, 2026 at 11:00 AM\nHaha true of most characters!\nTomS Epic Gaming\nGrand Admiral of Five Sails\nOP\nOriginal Poster\n — \n6/28/26, 11:01 AM\nSunday, June 28, 2026 at 11:01 AM\nJust think if Anghos had that boost\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\n — \n6/28/26, 11:16 AM\nSunday, June 28, 2026 at 11:16 AM\nFirst turn Kaj + puzzle box was quite a popular move @ the Euros (only when play Yevgeni though)\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\n — \n6/28/26, 11:28 AM\nSunday, June 28, 2026 at 11:28 AM\nMaybe trade musket for stones stops send home on the big lads and alows the re deployment. \n(Why am I helping the green lads and not the purple bois? )\nTomS Epic Gaming\nGrand Admiral of Five Sails\nOP\nOriginal Poster\n — \n6/28/26, 11:29 AM\nSunday, June 28, 2026 at 11:29 AM\nLodestones were my final cuts to the list. Can't pass up on that sweet 5 thrust and potential finishing wounds though\n@Flukeytuba (steve)\n [DCC], \nServer Tag: DCC\nDCC\nFirst turn Kaj + puzzle box was quite a popular move @ the Euros (only when play Yevgeni though)\nMike Smith\n — \n6/28/26, 11:29 AM\nSunday, June 28, 2026 at 11:29 AM\nI was very happy with it, yes.\n\nIt gives Yevgeni the consistency he desperately needs.\n:thumbsup:\nClick to react\n:100:\nClick to react\n:rofl:\nClick to react\nAdd Reaction\nReply\nForward\nMore\nTomS Epic Gaming\nGrand Admiral of Five Sails\nOP\nOriginal Poster\n — \n6/28/26, 11:31 AM\nSunday, June 28, 2026 at 11:31 AM\nI prefer the raw power of a one-shotting Yev, but I lost the one game I got Festival of Fools into turn 1 Hand on Yev with Kaj, so that Festival may have been for me\n:thumbsup:\nClick to react\n:100:\nClick to react\n:rofl:\nClick to react\nAdd Reaction\nReply\nForward\nMore\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\n — \n6/28/26, 12:37 PM\nSunday, June 28, 2026 at 12:37 PM\nReally like this deck by the way! Really makes me want to brake out papa pumba again. (edited)\nSunday, June 28, 2026 at 12:44 PM\n[\n12:44 PM\n]\nSunday, June 28, 2026 at 12:44 PM\n2\n1\n1\nAdd Reaction\nTomS Epic Gaming\nGrand Admiral of Five Sails\nOP\nOriginal Poster\n — \n6/28/26, 1:22 PM\nSunday, June 28, 2026 at 1:22 PM\nWill be curious to hear how it goes if you do",
+      "source_file": "Ussura - 06.28.2026 - None - None - Sorenson.txt"
     },
     {
       "id": "tourney:Ussura_-_07.15.2026_-_None_-_None_-_Tristan.txt",
@@ -13541,6 +16241,1198 @@
       ],
       "notes": "Notes:\nEarly days playing with Vodacce but gameplan is predominalty to accumulate renown advantage while slowly haemorraging the opponent with wounds from non-dueling interactions + thug duels. Mid-game can consider switching to an assassination game plan using Scarpa biggest issue with my current list is the absence of Ambush...will probably need to fit it back into the deck and cut the 2 unique cards, I'm just enjoying exploring the card pool space atm.\n\nOverall the vast majority of the Vodacce cards feel very very powerful and I think as a faction they do a lot of the core fundementals towards obtaining victory quite well. As others have noted including I beleive the desigeners, thugs appear to be the strongest card type in the game at present. There is some hate coming to them next set but in the interim it's been really fun to explore the strengths and limited weaknesses of a Vodacce deck. \n\nNot sure how others feel about the scheme selection, I wish for 1 more +1 scheme but I find it hard to cut any of the ones selected for the current game plan as above. \n\nI also cut Fate's Burden due to the Errata but not sure whether it still has a home in this sort of deck.\n\nAdditional notes:\n- Source archive post 38: Vodacce (Core Set) -\u003e Renown/Domination with sneaky chance at assassination.\n- Archive attribution/date: Remedy — 2024-05-20\n- The author describes a Renown/Domination plan with incremental wounds and an opportunistic switch to assassination. The list is Core Set only.",
       "source_file": "Vodacce - 05.20.2024 - None - None - Remedy.txt"
+    },
+    {
+      "id": "tourney:Vodacce_-_06.23.2026_-_EuroChamps_-_Top_16_-_Souloumiac.txt",
+      "name": "Vodacce - 06.23.2026 - EuroChamps - Top 16 - Souloumiac",
+      "faction": "Vodacce",
+      "event": "European Championship 2026",
+      "position": "11th Place",
+      "date": "2026-06-23",
+      "author": "R. Souloumiac",
+      "archetype": "Passive",
+      "meta": "BaS",
+      "leader": {
+        "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
+        "name": "Cesca del Rosso"
+      },
+      "cards": [
+        {
+          "id": "903fa31b-668d-487b-8073-7c176a9d32ca",
+          "name": "Andriana Dondolo",
+          "count": 1
+        },
+        {
+          "id": "58260456-754a-401e-b034-e9d60926da28",
+          "name": "Don Constanzo Scarpa",
+          "count": 1
+        },
+        {
+          "id": "4d8e37dd-c536-4da0-aa2e-7d5b76db14d7",
+          "name": "Servo Scarpa",
+          "count": 1
+        },
+        {
+          "id": "aba6ae29-c517-47af-8942-7dc70799410b",
+          "name": "Sibella Scarpa",
+          "count": 1
+        },
+        {
+          "id": "dec41efe-4871-4084-a087-c665ae4e63a5",
+          "name": "Vissenta Scarpa",
+          "count": 1
+        },
+        {
+          "id": "e491334d-f63b-4403-a93c-312152cd8bbf",
+          "name": "Decipher the Strands",
+          "count": 1
+        },
+        {
+          "id": "990cf171-31fa-4077-8ce2-0fe0658b3fa2",
+          "name": "No Mercy",
+          "count": 1
+        },
+        {
+          "id": "e23c0bf3-6ed4-41c3-9dda-9e7d156582f4",
+          "name": "Plans within Plans",
+          "count": 1
+        },
+        {
+          "id": "c3c57925-c52e-4336-a495-cd31a05ecb32",
+          "name": "Until Morale Improves",
+          "count": 1
+        },
+        {
+          "id": "20c36e96-1348-4a35-960c-03375437528f",
+          "name": "Premonition",
+          "count": 1
+        },
+        {
+          "id": "c833918e-f734-4125-90e3-e297c2de6ed7",
+          "name": "Alcee",
+          "count": 1
+        },
+        {
+          "id": "06edcf7c-bdbd-446e-baad-752136a40c20",
+          "name": "Angelo",
+          "count": 1
+        },
+        {
+          "id": "78be9cef-8271-49da-83ad-eb62caec4fe8",
+          "name": "Bravos",
+          "count": 2
+        },
+        {
+          "id": "ac5eed47-0628-4bfd-8248-e6e4dfd630c9",
+          "name": "Buratino",
+          "count": 1
+        },
+        {
+          "id": "2898c315-59e5-4dee-aff2-22a898b14aeb",
+          "name": "Dante",
+          "count": 1
+        },
+        {
+          "id": "87a39799-223d-4f68-8a6f-52654194ae84",
+          "name": "Fate's Kiss",
+          "count": 2
+        },
+        {
+          "id": "05988d43-3b9d-47d9-a4bb-6b46c92cdf80",
+          "name": "Fate's Silence",
+          "count": 1
+        },
+        {
+          "id": "314dd029-a8da-415f-a4c5-8f710fd40637",
+          "name": "Pull the Strand",
+          "count": 1
+        },
+        {
+          "id": "0bd91854-fe5e-4a6d-80c8-3da0ec4953d4",
+          "name": "Matushka's Shears",
+          "count": 1
+        },
+        {
+          "id": "1cda2af6-9b48-4172-a5fe-4bb006d707f1",
+          "name": "Shield Rite",
+          "count": 1
+        },
+        {
+          "id": "8a986f50-5132-4fbb-b074-8bd19170a1ed",
+          "name": "Follow the Thread",
+          "count": 2
+        },
+        {
+          "id": "441114f8-1a98-4a84-9d02-2977446863f5",
+          "name": "Murder",
+          "count": 2
+        },
+        {
+          "id": "9d6ab774-859d-42bc-8bdb-784beb55ce12",
+          "name": "Pack Tactics",
+          "count": 2
+        },
+        {
+          "id": "08000b17-8d1d-412d-9c9e-a05055d7614e",
+          "name": "Stiletto",
+          "count": 2
+        },
+        {
+          "id": "d8c74b93-960b-4697-87d7-24dd232a5d86",
+          "name": "The Pressure is On",
+          "count": 2
+        },
+        {
+          "id": "2b594769-bcbb-4d6b-93e1-77948a3ff014",
+          "name": "Veronica's Guile",
+          "count": 2
+        },
+        {
+          "id": "480c9c56-3342-4914-858f-596b2e57aed2",
+          "name": "Wrath of the Don",
+          "count": 2
+        },
+        {
+          "id": "e3ff721f-8cd6-4d30-aef4-453e23216656",
+          "name": "Bleed Out",
+          "count": 2
+        },
+        {
+          "id": "3f0d31e8-14fa-480a-8e1c-2c5fe0b16484",
+          "name": "Hidden Corridors",
+          "count": 2
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "57698b10-cfdd-4e95-b3e9-260ea0f3c69b",
+          "name": "Rattle the Rigging",
+          "count": 2
+        },
+        {
+          "id": "e4a4194f-10f9-423f-a1b1-6a7aa7859b8a",
+          "name": "Unravel the Thread",
+          "count": 2
+        },
+        {
+          "id": "db01b017-8d12-4394-bb8e-3bfc77bbebf1",
+          "name": "Unsanctioned Duel",
+          "count": 2
+        },
+        {
+          "id": "98e75551-0345-45e4-bcad-a3a127d6e7a7",
+          "name": "For the Family",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n(No thread discussion - deck list only.)",
+      "source_file": "Vodacce - 06.23.2026 - EuroChamps - Top 16 - Souloumiac.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "romain-souloumiac",
+        "wins": 2,
+        "losses": 2,
+        "points": 10,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Vodacce_-_06.23.2026_-_EuroChamps_-_Top_4_-_McLeish.txt",
+      "name": "Vodacce - 06.23.2026 - EuroChamps - Top 4 - McLeish",
+      "faction": "Vodacce",
+      "event": "European Championship 2026",
+      "position": "4th Place",
+      "date": "2026-06-23",
+      "author": "S. McLeish",
+      "archetype": "Passive",
+      "meta": "BaS",
+      "leader": {
+        "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
+        "name": "Don Constanzo Scarpa"
+      },
+      "cards": [
+        {
+          "id": "7400a2b9-79fe-4eaa-9e91-3bd5cbef83f4",
+          "name": "Benci Bommarito",
+          "count": 1
+        },
+        {
+          "id": "aba6ae29-c517-47af-8942-7dc70799410b",
+          "name": "Sibella Scarpa",
+          "count": 1
+        },
+        {
+          "id": "a84e9480-8162-411c-b3a2-b5fe71d86b92",
+          "name": "Desideria Colomberia",
+          "count": 1
+        },
+        {
+          "id": "4d8e37dd-c536-4da0-aa2e-7d5b76db14d7",
+          "name": "Servo Scarpa",
+          "count": 1
+        },
+        {
+          "id": "ba000b9e-6f6b-40dc-a2ea-1c7da7d4719d",
+          "name": "Vittoria Anselmo",
+          "count": 1
+        },
+        {
+          "id": "82cb292e-feb2-44d3-a065-b1950f1f24d9",
+          "name": "Let's Haggle",
+          "count": 1
+        },
+        {
+          "id": "990cf171-31fa-4077-8ce2-0fe0658b3fa2",
+          "name": "No Mercy",
+          "count": 1
+        },
+        {
+          "id": "c12720f7-45de-4701-993f-a5290c6581f2",
+          "name": "Blood Money",
+          "count": 1
+        },
+        {
+          "id": "9898a728-1b61-4739-9399-15967bde44e4",
+          "name": "Crash the Party",
+          "count": 1
+        },
+        {
+          "id": "e23c0bf3-6ed4-41c3-9dda-9e7d156582f4",
+          "name": "Plans within Plans",
+          "count": 1
+        },
+        {
+          "id": "2ddf9253-b903-44cc-a581-58418e1ac261",
+          "name": "Unyielding Loyalty",
+          "count": 1
+        },
+        {
+          "id": "ac5eed47-0628-4bfd-8248-e6e4dfd630c9",
+          "name": "Buratino",
+          "count": 1
+        },
+        {
+          "id": "2898c315-59e5-4dee-aff2-22a898b14aeb",
+          "name": "Dante",
+          "count": 1
+        },
+        {
+          "id": "06edcf7c-bdbd-446e-baad-752136a40c20",
+          "name": "Angelo",
+          "count": 1
+        },
+        {
+          "id": "c833918e-f734-4125-90e3-e297c2de6ed7",
+          "name": "Alcee",
+          "count": 1
+        },
+        {
+          "id": "08000b17-8d1d-412d-9c9e-a05055d7614e",
+          "name": "Stiletto",
+          "count": 2
+        },
+        {
+          "id": "441114f8-1a98-4a84-9d02-2977446863f5",
+          "name": "Murder",
+          "count": 2
+        },
+        {
+          "id": "9d6ab774-859d-42bc-8bdb-784beb55ce12",
+          "name": "Pack Tactics",
+          "count": 2
+        },
+        {
+          "id": "98fb6f0d-9a16-43df-97c8-ece498768389",
+          "name": "Worldly",
+          "count": 2
+        },
+        {
+          "id": "57698b10-cfdd-4e95-b3e9-260ea0f3c69b",
+          "name": "Rattle the Rigging",
+          "count": 2
+        },
+        {
+          "id": "db01b017-8d12-4394-bb8e-3bfc77bbebf1",
+          "name": "Unsanctioned Duel",
+          "count": 2
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "60b37df0-54ad-4317-85d6-d0fa84246d6e",
+          "name": "Relentless",
+          "count": 2
+        },
+        {
+          "id": "e3ff721f-8cd6-4d30-aef4-453e23216656",
+          "name": "Bleed Out",
+          "count": 2
+        },
+        {
+          "id": "91dfdb34-3048-49fd-823d-23027b7c40bf",
+          "name": "Objection!",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        },
+        {
+          "name": "Fates Whisper",
+          "count": 1
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "46f27327-1a7b-4fc2-b069-4128523be45c",
+          "name": "Rough 'em Up",
+          "count": 2
+        },
+        {
+          "id": "78be9cef-8271-49da-83ad-eb62caec4fe8",
+          "name": "Bravos",
+          "count": 2
+        },
+        {
+          "id": "ccf9170d-557c-4612-9889-625c0fb2c31a",
+          "name": "Quick Reflexes",
+          "count": 2
+        },
+        {
+          "id": "d8c74b93-960b-4697-87d7-24dd232a5d86",
+          "name": "The Pressure is On",
+          "count": 2
+        },
+        {
+          "id": "2b594769-bcbb-4d6b-93e1-77948a3ff014",
+          "name": "Veronica's Guile",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n[Thread discussion]\n\ntso: \"ooh benci AND desideria. i like this deck\"\nFlukeytuba (steve): thanks - now that the event deck lists are up, he'll start posting his thoughts on the new cards on the original \"Give'em the clamps\" thread.\nFlukeytuba (steve): \"also fates whisper should be a 1 of... since it is unique\"\nskelton: How did Worldly fare? Did you get much use from it?\nFlukeytuba (steve): \"For the manoeuvre yes, the other effect no but there was a few time i was thinking about it. If you wanted to be a little more aggressive you could go for comforting instead.\" The thought with Worldly was to go in with a duelist, kill their guy after a claim, then unclaim it so the opponent doesn't get the renown.\nDave Laing: \"fwiw if this is the main goal (might not be, the maneuver/RPT is something to consider), Greed can achieve similar (deny renown) with a bit less work. A brute can use Greed to deny a single renown, eg. It also works well against renown claim/movement abilties. Worldly is better when it's more than one renown, or if it's domination you're attempting to deny, for sure.\"\nCoxatris: \"Losing a game while at 7 renown is rough.\" \"Your play lines were good though. That day 5 scheme just bit you in the ass.\"",
+      "source_file": "Vodacce - 06.23.2026 - EuroChamps - Top 4 - McLeish.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "stephen-mcleish",
+        "wins": 3,
+        "losses": 2,
+        "points": 15,
+        "topx": 4
+      }
+    },
+    {
+      "id": "tourney:Vodacce_-_06.23.2026_-_EuroChamps_-_Top_8_-_Hayes.txt",
+      "name": "Vodacce - 06.23.2026 - EuroChamps - Top 8 - Hayes",
+      "faction": "Vodacce",
+      "event": "European Championship 2026",
+      "position": "5th Place",
+      "date": "2026-06-23",
+      "author": "R. Hayes",
+      "archetype": "Passive",
+      "meta": "BaS",
+      "leader": {
+        "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
+        "name": "Cesca del Rosso"
+      },
+      "cards": [
+        {
+          "id": "a84e9480-8162-411c-b3a2-b5fe71d86b92",
+          "name": "Desideria Colomberia",
+          "count": 1
+        },
+        {
+          "id": "58260456-754a-401e-b034-e9d60926da28",
+          "name": "Don Constanzo Scarpa",
+          "count": 1
+        },
+        {
+          "id": "903fa31b-668d-487b-8073-7c176a9d32ca",
+          "name": "Andriana Dondolo",
+          "count": 1
+        },
+        {
+          "id": "b6c64139-40a3-4df3-a847-810d8d002c0d",
+          "name": "Elisabetta Bonora",
+          "count": 1
+        },
+        {
+          "id": "aba6ae29-c517-47af-8942-7dc70799410b",
+          "name": "Sibella Scarpa",
+          "count": 1
+        },
+        {
+          "id": "03b267fc-b8ae-4bb6-9d0e-31f9e8b8e04d",
+          "name": "The Great Game",
+          "count": 1
+        },
+        {
+          "id": "20c36e96-1348-4a35-960c-03375437528f",
+          "name": "Premonition",
+          "count": 1
+        },
+        {
+          "id": "e491334d-f63b-4403-a93c-312152cd8bbf",
+          "name": "Decipher the Strands",
+          "count": 1
+        },
+        {
+          "id": "e23c0bf3-6ed4-41c3-9dda-9e7d156582f4",
+          "name": "Plans within Plans",
+          "count": 1
+        },
+        {
+          "id": "dc1194ef-3da4-43bf-af47-673bda159f40",
+          "name": "Filling the Ranks",
+          "count": 1
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 1
+        },
+        {
+          "id": "c833918e-f734-4125-90e3-e297c2de6ed7",
+          "name": "Alcee",
+          "count": 1
+        },
+        {
+          "id": "2898c315-59e5-4dee-aff2-22a898b14aeb",
+          "name": "Dante",
+          "count": 1
+        },
+        {
+          "id": "ac5eed47-0628-4bfd-8248-e6e4dfd630c9",
+          "name": "Buratino",
+          "count": 1
+        },
+        {
+          "id": "06edcf7c-bdbd-446e-baad-752136a40c20",
+          "name": "Angelo",
+          "count": 1
+        },
+        {
+          "id": "314dd029-a8da-415f-a4c5-8f710fd40637",
+          "name": "Pull the Strand",
+          "count": 1
+        },
+        {
+          "id": "28bcb962-efb9-41f1-98f6-519fe4060c8b",
+          "name": "The Red Sceptre",
+          "count": 1
+        },
+        {
+          "id": "05988d43-3b9d-47d9-a4bb-6b46c92cdf80",
+          "name": "Fate's Silence",
+          "count": 1
+        },
+        {
+          "id": "78be9cef-8271-49da-83ad-eb62caec4fe8",
+          "name": "Bravos",
+          "count": 2
+        },
+        {
+          "id": "98e75551-0345-45e4-bcad-a3a127d6e7a7",
+          "name": "For the Family",
+          "count": 2
+        },
+        {
+          "id": "480c9c56-3342-4914-858f-596b2e57aed2",
+          "name": "Wrath of the Don",
+          "count": 2
+        },
+        {
+          "id": "c1a556e8-75fc-4df1-b44c-424d602b9250",
+          "name": "Subtle",
+          "count": 2
+        },
+        {
+          "id": "2b594769-bcbb-4d6b-93e1-77948a3ff014",
+          "name": "Veronica's Guile",
+          "count": 2
+        },
+        {
+          "id": "e3ff721f-8cd6-4d30-aef4-453e23216656",
+          "name": "Bleed Out",
+          "count": 2
+        },
+        {
+          "id": "441114f8-1a98-4a84-9d02-2977446863f5",
+          "name": "Murder",
+          "count": 2
+        },
+        {
+          "id": "d281e28e-e1f3-4824-9455-de4312d96416",
+          "name": "Shoddy Craftsmanship",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "d8c74b93-960b-4697-87d7-24dd232a5d86",
+          "name": "The Pressure is On",
+          "count": 2
+        },
+        {
+          "id": "8a986f50-5132-4fbb-b074-8bd19170a1ed",
+          "name": "Follow the Thread",
+          "count": 2
+        },
+        {
+          "id": "9d6ab774-859d-42bc-8bdb-784beb55ce12",
+          "name": "Pack Tactics",
+          "count": 2
+        },
+        {
+          "id": "c5531b82-b7a9-4df9-a3ac-8d6a2cbc3a86",
+          "name": "Twist of the Arcana",
+          "count": 2
+        },
+        {
+          "id": "08000b17-8d1d-412d-9c9e-a05055d7614e",
+          "name": "Stiletto",
+          "count": 2
+        },
+        {
+          "id": "e4a4194f-10f9-423f-a1b1-6a7aa7859b8a",
+          "name": "Unravel the Thread",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n[Thread discussion]\nCoxatris: \"How often was this deck able to fire Filling the Ranks? It feels like Cesca should be ahead on character, since she is effective at killing. Unless this is specifically anti-Cesca tech?\"",
+      "source_file": "Vodacce - 06.23.2026 - EuroChamps - Top 8 - Hayes.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "rob-hayes",
+        "wins": 3,
+        "losses": 1,
+        "points": 15,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Vodacce_-_06.23.2026_-_EuroChamps_-_Top_8_-_Skelton.txt",
+      "name": "Vodacce - 06.23.2026 - EuroChamps - Top 8 - Skelton",
+      "faction": "Vodacce",
+      "event": "European Championship 2026",
+      "position": "7th Place",
+      "date": "2026-06-23",
+      "author": "R. Skelton",
+      "archetype": "Passive",
+      "meta": "BaS",
+      "leader": {
+        "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
+        "name": "Cesca del Rosso"
+      },
+      "cards": [
+        {
+          "id": "58260456-754a-401e-b034-e9d60926da28",
+          "name": "Don Constanzo Scarpa",
+          "count": 1
+        },
+        {
+          "id": "b6c64139-40a3-4df3-a847-810d8d002c0d",
+          "name": "Elisabetta Bonora",
+          "count": 1
+        },
+        {
+          "id": "aba6ae29-c517-47af-8942-7dc70799410b",
+          "name": "Sibella Scarpa",
+          "count": 1
+        },
+        {
+          "id": "903fa31b-668d-487b-8073-7c176a9d32ca",
+          "name": "Andriana Dondolo",
+          "count": 1
+        },
+        {
+          "id": "a84e9480-8162-411c-b3a2-b5fe71d86b92",
+          "name": "Desideria Colomberia",
+          "count": 1
+        },
+        {
+          "id": "e23c0bf3-6ed4-41c3-9dda-9e7d156582f4",
+          "name": "Plans within Plans",
+          "count": 1
+        },
+        {
+          "id": "03b267fc-b8ae-4bb6-9d0e-31f9e8b8e04d",
+          "name": "The Great Game",
+          "count": 1
+        },
+        {
+          "id": "20c36e96-1348-4a35-960c-03375437528f",
+          "name": "Premonition",
+          "count": 1
+        },
+        {
+          "id": "990cf171-31fa-4077-8ce2-0fe0658b3fa2",
+          "name": "No Mercy",
+          "count": 1
+        },
+        {
+          "id": "e491334d-f63b-4403-a93c-312152cd8bbf",
+          "name": "Decipher the Strands",
+          "count": 1
+        },
+        {
+          "id": "06edcf7c-bdbd-446e-baad-752136a40c20",
+          "name": "Angelo",
+          "count": 1
+        },
+        {
+          "id": "ac5eed47-0628-4bfd-8248-e6e4dfd630c9",
+          "name": "Buratino",
+          "count": 1
+        },
+        {
+          "id": "2898c315-59e5-4dee-aff2-22a898b14aeb",
+          "name": "Dante",
+          "count": 1
+        },
+        {
+          "id": "c833918e-f734-4125-90e3-e297c2de6ed7",
+          "name": "Alcee",
+          "count": 1
+        },
+        {
+          "id": "05988d43-3b9d-47d9-a4bb-6b46c92cdf80",
+          "name": "Fate's Silence",
+          "count": 1
+        },
+        {
+          "id": "314dd029-a8da-415f-a4c5-8f710fd40637",
+          "name": "Pull the Strand",
+          "count": 1
+        },
+        {
+          "id": "4123610d-3257-4968-941e-a80447411fba",
+          "name": "Legion's Caress",
+          "count": 1
+        },
+        {
+          "id": "28bcb962-efb9-41f1-98f6-519fe4060c8b",
+          "name": "The Red Sceptre",
+          "count": 1
+        },
+        {
+          "id": "9d6ab774-859d-42bc-8bdb-784beb55ce12",
+          "name": "Pack Tactics",
+          "count": 2
+        },
+        {
+          "id": "2b594769-bcbb-4d6b-93e1-77948a3ff014",
+          "name": "Veronica's Guile",
+          "count": 2
+        },
+        {
+          "id": "78be9cef-8271-49da-83ad-eb62caec4fe8",
+          "name": "Bravos",
+          "count": 2
+        },
+        {
+          "id": "441114f8-1a98-4a84-9d02-2977446863f5",
+          "name": "Murder",
+          "count": 2
+        },
+        {
+          "id": "e4a4194f-10f9-423f-a1b1-6a7aa7859b8a",
+          "name": "Unravel the Thread",
+          "count": 2
+        },
+        {
+          "id": "08000b17-8d1d-412d-9c9e-a05055d7614e",
+          "name": "Stiletto",
+          "count": 2
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "d8c74b93-960b-4697-87d7-24dd232a5d86",
+          "name": "The Pressure is On",
+          "count": 2
+        },
+        {
+          "id": "c1a556e8-75fc-4df1-b44c-424d602b9250",
+          "name": "Subtle",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "e3ff721f-8cd6-4d30-aef4-453e23216656",
+          "name": "Bleed Out",
+          "count": 2
+        },
+        {
+          "id": "98e75551-0345-45e4-bcad-a3a127d6e7a7",
+          "name": "For the Family",
+          "count": 2
+        },
+        {
+          "id": "8a986f50-5132-4fbb-b074-8bd19170a1ed",
+          "name": "Follow the Thread",
+          "count": 2
+        },
+        {
+          "id": "1cda2af6-9b48-4172-a5fe-4bb006d707f1",
+          "name": "Shield Rite",
+          "count": 2
+        },
+        {
+          "id": "4dba47b0-981d-4a93-9faa-8a203a806c44",
+          "name": "Matchlock Musket",
+          "count": 2
+        },
+        {
+          "id": "cc57b1b8-17de-4ac5-8b64-109dfab540a1",
+          "name": "Leverage",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n(No thread discussion - deck list only.)",
+      "source_file": "Vodacce - 06.23.2026 - EuroChamps - Top 8 - Skelton.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "richard-skelton",
+        "wins": 2,
+        "losses": 2,
+        "points": 10,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Vodacce_-_06.26.2026_-_EuroChamps_-_Top_8_-_Beltran.txt",
+      "name": "Vodacce - 06.26.2026 - EuroChamps - Top 8 - Beltran",
+      "faction": "Vodacce",
+      "event": "European Championship 2026",
+      "position": "6th Place",
+      "date": "2026-06-26",
+      "author": "J. Beltran",
+      "archetype": "Passive",
+      "meta": "BaS",
+      "leader": {
+        "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
+        "name": "Cesca del Rosso"
+      },
+      "cards": [
+        {
+          "id": "903fa31b-668d-487b-8073-7c176a9d32ca",
+          "name": "Andriana Dondolo",
+          "count": 1
+        },
+        {
+          "id": "58260456-754a-401e-b034-e9d60926da28",
+          "name": "Don Constanzo Scarpa",
+          "count": 1
+        },
+        {
+          "id": "b6c64139-40a3-4df3-a847-810d8d002c0d",
+          "name": "Elisabetta Bonora",
+          "count": 1
+        },
+        {
+          "id": "aba6ae29-c517-47af-8942-7dc70799410b",
+          "name": "Sibella Scarpa",
+          "count": 1
+        },
+        {
+          "id": "a84e9480-8162-411c-b3a2-b5fe71d86b92",
+          "name": "Desideria Colomberia",
+          "count": 1
+        },
+        {
+          "id": "e491334d-f63b-4403-a93c-312152cd8bbf",
+          "name": "Decipher the Strands",
+          "count": 1
+        },
+        {
+          "id": "e23c0bf3-6ed4-41c3-9dda-9e7d156582f4",
+          "name": "Plans within Plans",
+          "count": 1
+        },
+        {
+          "id": "20c36e96-1348-4a35-960c-03375437528f",
+          "name": "Premonition",
+          "count": 1
+        },
+        {
+          "id": "03b267fc-b8ae-4bb6-9d0e-31f9e8b8e04d",
+          "name": "The Great Game",
+          "count": 1
+        },
+        {
+          "id": "a3a25566-f402-4474-9cd2-48db9dae3ad5",
+          "name": "A Shared Interest",
+          "count": 1
+        },
+        {
+          "id": "c833918e-f734-4125-90e3-e297c2de6ed7",
+          "name": "Alcee",
+          "count": 1
+        },
+        {
+          "id": "06edcf7c-bdbd-446e-baad-752136a40c20",
+          "name": "Angelo",
+          "count": 1
+        },
+        {
+          "id": "e3ff721f-8cd6-4d30-aef4-453e23216656",
+          "name": "Bleed Out",
+          "count": 2
+        },
+        {
+          "id": "78be9cef-8271-49da-83ad-eb62caec4fe8",
+          "name": "Bravos",
+          "count": 2
+        },
+        {
+          "id": "ac5eed47-0628-4bfd-8248-e6e4dfd630c9",
+          "name": "Buratino",
+          "count": 1
+        },
+        {
+          "id": "2898c315-59e5-4dee-aff2-22a898b14aeb",
+          "name": "Dante",
+          "count": 1
+        },
+        {
+          "id": "87a39799-223d-4f68-8a6f-52654194ae84",
+          "name": "Fate's Kiss",
+          "count": 2
+        },
+        {
+          "id": "8a986f50-5132-4fbb-b074-8bd19170a1ed",
+          "name": "Follow the Thread",
+          "count": 2
+        },
+        {
+          "id": "98e75551-0345-45e4-bcad-a3a127d6e7a7",
+          "name": "For the Family",
+          "count": 2
+        },
+        {
+          "id": "3f0d31e8-14fa-480a-8e1c-2c5fe0b16484",
+          "name": "Hidden Corridors",
+          "count": 1
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        },
+        {
+          "id": "0bd91854-fe5e-4a6d-80c8-3da0ec4953d4",
+          "name": "Matushka's Shears",
+          "count": 1
+        },
+        {
+          "id": "9d6ab774-859d-42bc-8bdb-784beb55ce12",
+          "name": "Pack Tactics",
+          "count": 2
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "314dd029-a8da-415f-a4c5-8f710fd40637",
+          "name": "Pull the Strand",
+          "count": 1
+        },
+        {
+          "id": "c1a556e8-75fc-4df1-b44c-424d602b9250",
+          "name": "Subtle",
+          "count": 2
+        },
+        {
+          "id": "d8c74b93-960b-4697-87d7-24dd232a5d86",
+          "name": "The Pressure is On",
+          "count": 2
+        },
+        {
+          "id": "28bcb962-efb9-41f1-98f6-519fe4060c8b",
+          "name": "The Red Sceptre",
+          "count": 1
+        },
+        {
+          "id": "c5531b82-b7a9-4df9-a3ac-8d6a2cbc3a86",
+          "name": "Twist of the Arcana",
+          "count": 2
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 1
+        },
+        {
+          "id": "2b594769-bcbb-4d6b-93e1-77948a3ff014",
+          "name": "Veronica's Guile",
+          "count": 2
+        },
+        {
+          "id": "08000b17-8d1d-412d-9c9e-a05055d7614e",
+          "name": "Stiletto",
+          "count": 1
+        },
+        {
+          "id": "cc57b1b8-17de-4ac5-8b64-109dfab540a1",
+          "name": "Leverage",
+          "count": 1
+        },
+        {
+          "id": "e05f56ca-30aa-4369-8cf0-24f58f1451b0",
+          "name": "Leather Spaulders",
+          "count": 2
+        },
+        {
+          "id": "1cda2af6-9b48-4172-a5fe-4bb006d707f1",
+          "name": "Shield Rite",
+          "count": 2
+        },
+        {
+          "id": "05a20708-5ad2-4360-b765-6d50134f8105",
+          "name": "Greed",
+          "count": 1
+        },
+        {
+          "id": "05988d43-3b9d-47d9-a4bb-6b46c92cdf80",
+          "name": "Fate's Silence",
+          "count": 1
+        },
+        {
+          "id": "e4a4194f-10f9-423f-a1b1-6a7aa7859b8a",
+          "name": "Unravel the Thread",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\n[Thread discussion]\nFlukeytuba (steve): \"Always a big fan of seeing what Cesca players are running.... Nice\"",
+      "source_file": "Vodacce - 06.26.2026 - EuroChamps - Top 8 - Beltran.txt",
+      "record": {
+        "source": "fivesails",
+        "tournament_id": 6,
+        "person": "joffrey-beltran",
+        "wins": 2,
+        "losses": 2,
+        "points": 10,
+        "topx": 257
+      }
+    },
+    {
+      "id": "tourney:Vodacce_-_06.30.2026_-_None_-_None_-_Flukeytuba.txt",
+      "name": "Give'em the clamps! (current version: Give'em the clamps 4.0)",
+      "faction": "Vodacce",
+      "event": "(Community deck / not a tournament placement) - later taken to Sheffields Winter Saloon (2nd) and 2026 Euros (4th)",
+      "position": "Unknown",
+      "date": "2026-06-30",
+      "author": "Flukeytuba (steve)",
+      "archetype": "Passive",
+      "meta": "BaS",
+      "leader": {
+        "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
+        "name": "Don Constanzo Scarpa"
+      },
+      "cards": [
+        {
+          "id": "7400a2b9-79fe-4eaa-9e91-3bd5cbef83f4",
+          "name": "Benci Bommarito",
+          "count": 1
+        },
+        {
+          "id": "aba6ae29-c517-47af-8942-7dc70799410b",
+          "name": "Sibella Scarpa",
+          "count": 1
+        },
+        {
+          "id": "a84e9480-8162-411c-b3a2-b5fe71d86b92",
+          "name": "Desideria Colomberia",
+          "count": 1
+        },
+        {
+          "id": "4d8e37dd-c536-4da0-aa2e-7d5b76db14d7",
+          "name": "Servo Scarpa",
+          "count": 1
+        },
+        {
+          "id": "ba000b9e-6f6b-40dc-a2ea-1c7da7d4719d",
+          "name": "Vittoria Anselmo",
+          "count": 1
+        },
+        {
+          "id": "82cb292e-feb2-44d3-a065-b1950f1f24d9",
+          "name": "Let's Haggle",
+          "count": 1
+        },
+        {
+          "id": "990cf171-31fa-4077-8ce2-0fe0658b3fa2",
+          "name": "No Mercy",
+          "count": 1
+        },
+        {
+          "id": "c12720f7-45de-4701-993f-a5290c6581f2",
+          "name": "Blood Money",
+          "count": 1
+        },
+        {
+          "id": "9898a728-1b61-4739-9399-15967bde44e4",
+          "name": "Crash the Party",
+          "count": 1
+        },
+        {
+          "id": "e23c0bf3-6ed4-41c3-9dda-9e7d156582f4",
+          "name": "Plans within Plans",
+          "count": 1
+        },
+        {
+          "id": "2ddf9253-b903-44cc-a581-58418e1ac261",
+          "name": "Unyielding Loyalty",
+          "count": 1
+        },
+        {
+          "id": "ac5eed47-0628-4bfd-8248-e6e4dfd630c9",
+          "name": "Buratino",
+          "count": 1
+        },
+        {
+          "id": "2898c315-59e5-4dee-aff2-22a898b14aeb",
+          "name": "Dante",
+          "count": 1
+        },
+        {
+          "id": "06edcf7c-bdbd-446e-baad-752136a40c20",
+          "name": "Angelo",
+          "count": 1
+        },
+        {
+          "id": "c833918e-f734-4125-90e3-e297c2de6ed7",
+          "name": "Alcee",
+          "count": 1
+        },
+        {
+          "id": "08000b17-8d1d-412d-9c9e-a05055d7614e",
+          "name": "Stiletto",
+          "count": 2
+        },
+        {
+          "id": "441114f8-1a98-4a84-9d02-2977446863f5",
+          "name": "Murder",
+          "count": 2
+        },
+        {
+          "id": "9d6ab774-859d-42bc-8bdb-784beb55ce12",
+          "name": "Pack Tactics",
+          "count": 2
+        },
+        {
+          "id": "98fb6f0d-9a16-43df-97c8-ece498768389",
+          "name": "Worldly",
+          "count": 2
+        },
+        {
+          "id": "57698b10-cfdd-4e95-b3e9-260ea0f3c69b",
+          "name": "Rattle the Rigging",
+          "count": 2
+        },
+        {
+          "id": "db01b017-8d12-4394-bb8e-3bfc77bbebf1",
+          "name": "Unsanctioned Duel",
+          "count": 2
+        },
+        {
+          "id": "c28cab3e-8dfd-4959-a728-c00f30626c1d",
+          "name": "Pull",
+          "count": 2
+        },
+        {
+          "id": "60b37df0-54ad-4317-85d6-d0fa84246d6e",
+          "name": "Relentless",
+          "count": 2
+        },
+        {
+          "id": "e3ff721f-8cd6-4d30-aef4-453e23216656",
+          "name": "Bleed Out",
+          "count": 2
+        },
+        {
+          "id": "91dfdb34-3048-49fd-823d-23027b7c40bf",
+          "name": "Objection!",
+          "count": 2
+        },
+        {
+          "id": "d8f16899-6b2a-4815-91b7-7856c0f3665e",
+          "name": "Lodestone",
+          "count": 2
+        },
+        {
+          "name": "Fates Whisper",
+          "count": 1
+        },
+        {
+          "id": "17ba277c-078b-438b-96dc-4b74ccabc00b",
+          "name": "Uppman's Jacket",
+          "count": 2
+        },
+        {
+          "id": "46f27327-1a7b-4fc2-b069-4128523be45c",
+          "name": "Rough 'em Up",
+          "count": 2
+        },
+        {
+          "id": "78be9cef-8271-49da-83ad-eb62caec4fe8",
+          "name": "Bravos",
+          "count": 2
+        },
+        {
+          "id": "ccf9170d-557c-4612-9889-625c0fb2c31a",
+          "name": "Quick Reflexes",
+          "count": 2
+        },
+        {
+          "id": "d8c74b93-960b-4697-87d7-24dd232a5d86",
+          "name": "The Pressure is On",
+          "count": 2
+        },
+        {
+          "id": "2b594769-bcbb-4d6b-93e1-77948a3ff014",
+          "name": "Veronica's Guile",
+          "count": 2
+        }
+      ],
+      "notes": "Notes:\nFull thread text follows (includes the author's notes on new cards - Blood Money, Rattle the Rigging, Harpoon, Hop on Board, etc. - the deck's evolution, matchup discussion, and community Q\u0026A). The original decklist message was an image (photo of physical cards).\n\n----- FULL THREAD -----\n\nGive'em the clamps!\nVodacce Deck\nFebruary 19, 2025\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n2/19/25, 5:16 AM\nWednesday, February 19, 2025 at 5:16 AM\nPlaying around with a deck idea that is heavy based off of @nickpruitt Assassination list. This one plays with a bit more control not primarily going after the leader (but can). More focused on bullying opponents utility cards and trying to win via renowned or a customer cheeky thug dominance win. \n\nI will add more insight to my card choices but I am more than happy to answer any questions, feedback or take any suggestions on the deck list. \n\nCheers \n\nFlukeytony (Steve) (edited)\nWednesday, February 19, 2025 at 6:01 AM\n:thumbsup:\nClick to react\n:100:\nClick to react\n:rofl:\nClick to react\nAdd Reaction\nReply\nForward\nMore\n5\n1\nAdd Reaction\nFollow\nAdd this post to your channel list and receive notifications about it.\nCopy Link\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n2/19/25, 6:02 AM\nWednesday, February 19, 2025 at 6:02 AM\nAdd to Favorites\nAgent006\n — \n2/19/25, 10:49 AM\nWednesday, February 19, 2025 at 10:49 AM\nIt's pretty solid\nFebruary 20, 2025\nDave Laing\nGrand Admiral of Five Sails\n — \n2/20/25, 3:27 AM\nThursday, February 20, 2025 at 3:27 AM\nDo you get enough value out of Andriana with only two sorceries in the deck? She isn't Red Hand so can be a bit annoying for things like Servo etc. What's the plan with her here?\nAgent006\n — \n2/20/25, 3:32 AM\nThursday, February 20, 2025 at 3:32 AM\nMy guess is the reaction\n1\nAdd Reaction\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n2/20/25, 8:37 AM\nThursday, February 20, 2025 at 8:37 AM\nYeah, so the reaction is one of the main reason that she has been  selected along with her stats (2,3,1). Make her able to gamble 3 card to allow the deck to cycle and hope to bleed cards from my opponents hands as they fight along. \n\nShe turns on quick reflexes and unsanctioned duel, 2 cards that i want to try out. \n\nAs for her other action sadly (right now) there isn't many spell that fit the deck so I don't think I'll get any mileage out of it. (edited)\nThursday, February 20, 2025 at 8:53 AM\nAgent006\n — \n2/20/25, 9:03 AM\nThursday, February 20, 2025 at 9:03 AM\nIt is a solid stat line for Andriana. There is some cool sorceries coming up for Vodacce in the new set, but it is not Red Hand burst damage friendly.\n@Flukeytuba (steve)\n [DCC], \nServer Tag: DCC\nDCC\nYeah, so the reaction is one of the main reason that she has been  selected along with her stats (2,3,1). Make her able to gamble 3 card to allow the deck to cycle and hope to bleed cards from my opponents hands as they fight along.   She turns on quick reflexes and unsanctioned duel, 2 cards that i want to try out.   As for her other action sadly (right now) there isn't many spell that fit the deck so I don't think I'll get any mileage out of it. (edited)\nThursday, February 20, 2025 at 8:53 AM\nDave Laing\nGrand Admiral of Five Sails\n — \n2/20/25, 3:10 PM\nThursday, February 20, 2025 at 3:10 PM\nFair, yeah. Quick reflexes is an amazing card, can't fault including someone that's going to benefit from the maneuver too\nFebruary 27, 2025\nIlyich\nVodacce\n — \n2/27/25, 9:15 AM\nThursday, February 27, 2025 at 9:15 AM\nHaven’t played in a while. I want to give this a spin tonight against Montaigne and Ussurie. Any specifics?\nFebruary 28, 2025\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n2/28/25, 1:56 AM\nFriday, February 28, 2025 at 1:56 AM\nHi, sorry for the late reply, I hope you enjoyed playing the deck. I also had the luck of playing this deck last night with @Dave Laing with some very tight games.\n\nHow i would play in to montaigne and Ussura starts off the same  Sibella and plans with in plans for the first day along with (my son) Anglio \n\nAnglio is my Dons thug choice. Awful stats but very good play stall, excellent speed bump, adds +1 to pressures (with the Don ability) good ability, 2 parry so you can sandbag a duel and is free.  \n\nSibella along with plans can allow you to double duty a city location with hopefully a recruit and a pressure. I my opinion the first day with vodacce is all about using the excellent influence to get ahead for second turn (merc and renowned)\n\nPlan first turn. This allows you to get Alcee and that turns on the possibility of the Vodacce first turn dominance victory. I would suggest only going for this if you certain that you can get away with it. Still your opponent needs to prep for it just incase. \n\nThat's a run down of a typical first turn for me. Second turn revolves around Servo and a knife (that's where the fun begins). \n\nI'll post up more thoughts soon but happy to help in any way. Again sorry for the wall of text.\n\nCheers Flukeytony (Steve)\nMarch 1, 2025\nIlyich\nVodacce\n — \n3/1/25, 8:01 AM\nSaturday, March 1, 2025 at 8:01 AM\nThanks @Flukeytuba (steve) !\nI had a fun and tight game with @Jerôme La Bévue you can feel that the deck is very solid and has a lot of options. \nI went with Sibella and Morale, he mustered with Réputation, but I bought Gacinto and claimed the location. So I started day 2 one renown ahead. I went Plans and Servo from there. \nI had a lucky draw with thugs. Will try day one plans in the next game. \n\nCheers (edited)\nSaturday, March 1, 2025 at 8:41 AM\n1\nAdd Reaction\nAugust 4, 2025\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n8/4/25, 6:44 AM\nMonday, August 4, 2025 at 6:44 AM\nUpdate to give'em the clamps\n[\n6:47 AM\n]\nMonday, August 4, 2025 at 6:47 AM\n1\nAdd Reaction\n@Flukeytuba (steve)\n [DCC], \nServer Tag: DCC\nDCC\nUpdate to give'em the clamps\nAgent006\n — \n8/4/25, 7:09 AM\nMonday, August 4, 2025 at 7:09 AM\nhave you tried the deckbuilder thinger?\n@Agent006\nhave you tried the deckbuilder thinger?\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n8/4/25, 7:24 AM\nMonday, August 4, 2025 at 7:24 AM\nI tried it when I was building my Cesca deck. But I need to build this for tomorrow's games ( same with the Cesca deck. ) So it was easy just to take a picture. (edited)\nMonday, August 4, 2025 at 7:25 AM\n1\nAdd Reaction\nDecember 9, 2025\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n12/9/25, 12:42 PM\nTuesday, December 9, 2025 at 12:42 PM\n[\n12:46 PM\n]\nTuesday, December 9, 2025 at 12:46 PM\nUpdate of Give'em the clamps with the new box. \n\nNot much for old Don in this cycle.\n\nNo Mercy is a solid new card, tried out provoking the pack, with little to no success. \n\nThe card that is missing is Crash the party \n\nThe new neutral cards, Harpoon has a sould ability helps out getting your opponent to spend cards from had.\n\nI did sleep on hop on board but is becoming quickly my fave card in this set  (edited)\nTuesday, December 9, 2025 at 12:48 PM\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n12/9/25, 12:51 PM\nTuesday, December 9, 2025 at 12:51 PM\nMore than likely I am going to be running this in the winter salon at Patriot games in January.\n\nIf you have any comments, questions or suggestions please feel free. \n\nCheers \nFlukeytuba (Steve)\n\nIf you look close enough you can spot Soline \n1\nAdd Reaction\nJanuary 14, 2026\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n1/14/26, 9:16 AM\nWednesday, January 14, 2026 at 9:16 AM\nCame 2nd in Sheffields, winter saloon\nJune 30, 2026\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n6/30/26, 9:14 AM\nTuesday, June 30, 2026 at 9:14 AM\n4th at this year's Euros \n\nGive'em the clamps 4.0\n\nFaction: Vodacce\nLeader: The Don\nApproach Deck\nBenci Bommarito \nSibella Scarpa\nDesideria Colomberia\nServo Scarpa\nVittoria Anselmo\nLet's haggle\nNo Mercy\nBlood Money\nCrash the Party\nPlans Within Plans\n\nFaction Deck\nUnyielding Loyalty x1\nBuratino x1\nDante x1\nAngelo x1\nAlice x1\nStiletto x2\nMurder x2\nPack Tactics x2\nWorldly x2\nRattle the Rigging x2\nUnsanctioned Duel x2\nPull x2\nRelentless x2\nBleed Out x2\nObjection x2\nLoadstone x2\nFates Whisper x1\nUpman’s Jacket x2\nRough ‘Em Up x2\nBravos x2\nQuick Reflexes x2\nPressure x2\nVeronica's Guile x2\n\nI wanted to keep everything in one thread so people can see the evolution of the deck. \nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n6/30/26, 9:48 AM\nTuesday, June 30, 2026 at 9:48 AM\nNew cards that really shined for me:\n\nBlood Money – I genuinely think this might be the best move a trait to town card. Getting the extra movement plus drawing a card if you get the kill with a Duelist feels incredibly strong. Movement and card draw together is always going to be solid value.\n\nRattle the Rigging – This card is really, really good. A reverse challenge card is already strong, but the added upside for Duelists pushes it even further. Even though I only got to fire it off a couple of times during the tournament, it definitely made an impact in those games. It can also let Servo do even more heavy lifting, which feels great.\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n6/30/26, 10:00 AM\nTuesday, June 30, 2026 at 10:00 AM\nI’m still not sure if the new Approach characters were actually that good, or if I’m just too stubborn and comfortable sticking with my original character choices.\nMy rough thinking usually looks something like this depending on the matchup:\nDay 1 – Vittoria / Sibella\nDay 2 – Vittoria / Servo / Sibella\nDay 3 – Servo / Desideria\nThat’s generally the order I naturally lean towards depending on what I’m playing into.\nDesideria did get to see some play on Day 3 in a few games mainly becauseof the 2 inf, and Benci ended up being more of a Day 4 or 5 pick.\nStill not sure if that says more about the strength of the new characters… or just me refusing to move away from what I know works  (edited)\nTuesday, June 30, 2026 at 10:59 AM\nskelton\nPatron\n — \n6/30/26, 12:25 PM\nTuesday, June 30, 2026 at 12:25 PM\nI really like Desideria so far out of the new characters. I haven't tried Benci or Danilo yet. Both of them look like they have potential but Vodacce have such a solid core of characters already.\nJuly 1, 2026\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n7/1/26, 9:34 AM\nWednesday, July 1, 2026 at 9:34 AM\nLooking forward to the running Desideria and the approach don with the new duelist leader  \n1\nAdd Reaction\nskelton\nPatron\n — \n7/1/26, 10:03 AM\nWednesday, July 1, 2026 at 10:03 AM\nApproach Don is so good. How did Benci perform for you in the end?\nFlukeytuba (steve) [DCC], \nServer Tag: DCC\nDCC\nVodacce\nOP\nOriginal Poster\n — \n7/1/26, 11:08 AM\nWednesday, July 1, 2026 at 11:08 AM\nI used her playing James as a 2 influence 5 resolve speed bump for Angeline . Didn’t get her to trigger her abilitys",
+      "source_file": "Vodacce - 06.30.2026 - None - None - Flukeytuba.txt"
     },
     {
       "id": "tourney:Vodacce_-_07.03.2025_-_None_-_None_-_flukeytuba.txt",
