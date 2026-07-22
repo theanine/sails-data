@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-22T22:17:10Z",
+  "generated_at": "2026-07-22T22:32:53Z",
   "decks": [
     {
       "id": "tourney:Castille_-_01.11.2026_-_WinterParley_-_Winner_-_Ovilord.txt",
@@ -12,6 +12,7 @@
       "author": "Ovilord",
       "archetype": "Switch",
       "meta": "FaF",
+      "person": "callum-overfield",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -745,6 +746,7 @@
       "author": "L. Sewell",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "liam-sewell",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -931,6 +933,7 @@
       "author": "C. Overfield",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "callum-overfield",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -1122,6 +1125,7 @@
       "author": "D. Laing",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "dave-laing",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -1656,6 +1660,7 @@
       "author": "El Vago",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "liam-sewell",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -1839,6 +1844,7 @@
       "author": "Laing",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "dave-laing",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -2032,6 +2038,7 @@
       "author": "Starrs",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "lee-starrs",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -2394,6 +2401,7 @@
       "author": "L. Sewell",
       "archetype": "Dueling",
       "meta": "BaS",
+      "person": "liam-sewell",
       "leader": {
         "id": "744d716f-2cc1-475a-96a7-dd6cd9cfe3f8",
         "name": "Sanjay"
@@ -2587,6 +2595,7 @@
       "author": "D. Laing",
       "archetype": "Passive",
       "meta": "BaS",
+      "person": "dave-laing",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -2775,6 +2784,7 @@
       "author": "C. Overfield",
       "archetype": "Switch",
       "meta": "BaS",
+      "person": "callum-overfield",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -2958,6 +2968,7 @@
       "author": "Timothy Tobeck",
       "archetype": "Switch",
       "meta": "FaF",
+      "person": "timothy-tobeck",
       "leader": {
         "id": "744d716f-2cc1-475a-96a7-dd6cd9cfe3f8",
         "name": "Sanjay"
@@ -3166,6 +3177,7 @@
       "author": "Tim Aldridge",
       "archetype": "Dueling",
       "meta": "FaF",
+      "person": "tim-aldridge",
       "leader": {
         "id": "744d716f-2cc1-475a-96a7-dd6cd9cfe3f8",
         "name": "Sanjay"
@@ -3359,6 +3371,7 @@
       "author": "Tom Sorenson",
       "archetype": "Switch",
       "meta": "FaF",
+      "person": "tom-sorenson",
       "leader": {
         "id": "744d716f-2cc1-475a-96a7-dd6cd9cfe3f8",
         "name": "Sanjay"
@@ -3562,6 +3575,7 @@
       "author": "Stephen Holder",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "stephen-holder",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -3755,6 +3769,7 @@
       "author": "Dustin Horn",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "dustin-horn",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -3943,6 +3958,7 @@
       "author": "Scott Carlson",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "scott-carlson",
       "leader": {
         "id": "744d716f-2cc1-475a-96a7-dd6cd9cfe3f8",
         "name": "Sanjay"
@@ -4126,6 +4142,7 @@
       "author": "Scott C. (Kaffis)",
       "archetype": "Switch",
       "meta": "TaC",
+      "person": "scott-carlson",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -4314,6 +4331,7 @@
       "author": "Dustin Horn",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "dustin-horn",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -4492,6 +4510,7 @@
       "author": "AJ Valle",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "aj-valle",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -4675,6 +4694,7 @@
       "author": "Horn",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "dustin-horn",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -4863,6 +4883,7 @@
       "author": "Valle",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "aj-valle",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -5046,6 +5067,7 @@
       "author": "Verhagen",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "andrew-verhagen",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -6840,6 +6862,7 @@
       "author": "Kaffis",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "scott-carlson",
       "leader": {
         "id": "0f9d8c96-4aa5-47f8-991c-cd9b5bb6e978",
         "name": "Soline el Gato"
@@ -7247,6 +7270,7 @@
       "author": "S. Aston",
       "archetype": "Dueling",
       "meta": "TaC",
+      "person": "stacey-aston",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -7433,6 +7457,7 @@
       "author": "D. Hancock",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "dave-hancock",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -7624,6 +7649,7 @@
       "author": "E. Zonneveld",
       "archetype": "Dueling",
       "meta": "TaC",
+      "person": "eleanore-zonneveld",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -7805,6 +7831,7 @@
       "author": "Gadd",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "stuart-gadd",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -7988,6 +8015,7 @@
       "author": "Hazelden",
       "archetype": "Dueling",
       "meta": "Core",
+      "person": "darren-hazelden",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -8519,6 +8547,7 @@
       "author": "D. Hancock",
       "archetype": "Switch",
       "meta": "BaS",
+      "person": "dave-hancock",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -8712,6 +8741,7 @@
       "author": "P. Roberts",
       "archetype": "Switch",
       "meta": "BaS",
+      "person": "phil-roberts",
       "leader": {
         "id": "6e76481b-0255-432d-93ed-ceb7e02e4e11",
         "name": "Daniella Dietrich"
@@ -8905,6 +8935,7 @@
       "author": "\"Diantre\" E. Zonneveld",
       "archetype": "Passive",
       "meta": "BaS",
+      "person": "eleanore-zonneveld",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -9640,6 +9671,7 @@
       "author": "Ken Nabbe",
       "archetype": "Dueling",
       "meta": "FaF",
+      "person": "ken-nabbe",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -9823,6 +9855,7 @@
       "author": "Jon Palmer",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "jon-palmer",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -10006,6 +10039,7 @@
       "author": "Alex Schmucki",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "alex-schmucki",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -10189,6 +10223,7 @@
       "author": "Jay Key",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "jay-key",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -10387,6 +10422,7 @@
       "author": "Jon Palmer",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "jon-palmer",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -10570,6 +10606,7 @@
       "author": "Alex Schmucki",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "alex-schmucki",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -10753,6 +10790,7 @@
       "author": "Palmer",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "jon-palmer",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -10936,6 +10974,7 @@
       "author": "Tom Sorenson",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "tom-sorenson",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -11487,6 +11526,7 @@
       "author": "Tom Sorenson",
       "archetype": "Dueling",
       "meta": "Core",
+      "person": "tom-sorenson",
       "leader": {
         "id": "cec83b13-c0fd-401b-bd94-515d37ba10cd",
         "name": "Kaspar Dietrich"
@@ -12923,6 +12963,7 @@
       "author": "R. Hayes",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "rob-hayes",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -13109,6 +13150,7 @@
       "author": "J. Nichols",
       "archetype": "Dueling",
       "meta": "TaC",
+      "person": "jessica-nichols",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -13290,6 +13332,7 @@
       "author": "Mike Smith",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "mike-smith",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -13474,6 +13517,7 @@
       "author": "OpTamusPrime",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "tam-fullard",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -13658,6 +13702,7 @@
       "author": "Hastur",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "sebastien-jules",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -13846,6 +13891,8 @@
       "author": "drkbcn",
       "archetype": "Switch",
       "meta": "FaF",
+      "planned_event": "Gen Con 2026",
+      "person": "derek-bacon",
       "leader": {
         "id": "54de271b-b707-445a-b5ee-eda0b7e0abce",
         "name": "Angeline Dèmone"
@@ -14224,6 +14271,8 @@
       "author": "drkbcn",
       "archetype": "Passive",
       "meta": "FaF",
+      "planned_event": "Gen Con 2026",
+      "person": "derek-bacon",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -14637,6 +14686,7 @@
       "author": "D. Hazelden",
       "archetype": "Switch",
       "meta": "BaS",
+      "person": "darren-hazelden",
       "leader": {
         "id": "54de271b-b707-445a-b5ee-eda0b7e0abce",
         "name": "Angeline Dèmone"
@@ -14845,6 +14895,7 @@
       "author": "J. Ritchie",
       "archetype": "Switch",
       "meta": "BaS",
+      "person": "james-ritchie",
       "leader": {
         "id": "54de271b-b707-445a-b5ee-eda0b7e0abce",
         "name": "Angeline Dèmone"
@@ -15043,6 +15094,7 @@
       "author": "Scott Goldberg",
       "archetype": "Dueling",
       "meta": "FaF",
+      "person": "scott-goldberg",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -15231,6 +15283,7 @@
       "author": "Derek Bacon",
       "archetype": "Switch",
       "meta": "FaF",
+      "person": "derek-bacon",
       "leader": {
         "id": "54de271b-b707-445a-b5ee-eda0b7e0abce",
         "name": "Angeline Dèmone"
@@ -15429,6 +15482,7 @@
       "author": "D. Bacon",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "derek-bacon",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -15612,6 +15666,7 @@
       "author": "Bacon",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "derek-bacon",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -15790,6 +15845,7 @@
       "author": "Cranor",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "matthew-cranor",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -16008,6 +16064,7 @@
       "author": "Urbanek",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "john-urbanek",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -16191,6 +16248,7 @@
       "author": "Nagelvoort",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "alex-nagelvoort",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -17264,6 +17322,7 @@
       "author": "Tom Sorenson",
       "archetype": "Switch",
       "meta": "TaC",
+      "person": "tom-sorenson",
       "leader": {
         "id": "a2668895-44b2-401a-a44d-9fd83707fbc1",
         "name": "Odette Dubois d'Arrent"
@@ -17805,6 +17864,7 @@
       "author": "D. Hazelden",
       "archetype": "Dueling",
       "meta": "TaC",
+      "person": "darren-hazelden",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -18001,6 +18061,7 @@
       "author": "T. McIntyre",
       "archetype": "Switch",
       "meta": "TaC",
+      "person": "trev-mcintyre",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -18187,6 +18248,7 @@
       "author": "P. Roberts",
       "archetype": "Dueling",
       "meta": "TaC",
+      "person": "phil-roberts",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -18368,6 +18430,7 @@
       "author": "M. Smith",
       "archetype": "Switch",
       "meta": "TaC",
+      "person": "mike-smith",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -18723,6 +18786,7 @@
       "author": "Sharp",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "george-sharp",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -18921,6 +18985,7 @@
       "author": "FlukeyTony",
       "archetype": "Dueling",
       "meta": "Core",
+      "person": "stephen-mcleish",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -19104,6 +19169,7 @@
       "author": "Longworth",
       "archetype": "Dueling",
       "meta": "Core",
+      "person": "darren-longworth",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -19466,6 +19532,7 @@
       "author": "L. Marrote",
       "archetype": "Dueling",
       "meta": "BaS",
+      "person": "luc-marotte",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -19684,6 +19751,7 @@
       "author": "M. Smith",
       "archetype": "Switch",
       "meta": "BaS",
+      "person": "mike-smith",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -20240,6 +20308,8 @@
       "author": "Vorrt",
       "archetype": "Switch",
       "meta": "BaS",
+      "planned_event": "Gen Con 2026",
+      "person": "vorrt",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -20592,6 +20662,7 @@
       "author": "Aaron Jozwiak",
       "archetype": "Dueling",
       "meta": "FaF",
+      "person": "aaron-jozwiak",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -20800,6 +20871,7 @@
       "author": "Jackson Chan",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "jackson-chan",
       "leader": {
         "id": "c6892bcc-8c56-4b4a-b09f-ee1631286957",
         "name": "Ekaterina Ilyanava"
@@ -20983,6 +21055,7 @@
       "author": "Tom Sorenson",
       "archetype": "Dueling",
       "meta": "TaC",
+      "person": "tom-sorenson",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -21186,6 +21259,7 @@
       "author": "Deputy Greg Melnyk",
       "archetype": "Dueling",
       "meta": "Core",
+      "person": "greg-melnyk",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -21379,6 +21453,7 @@
       "author": "Dixon",
       "archetype": "Dueling",
       "meta": "Core",
+      "person": "thomas-dixon",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -21562,6 +21637,7 @@
       "author": "Jacobson",
       "archetype": "Dueling",
       "meta": "Core",
+      "person": "daniel-jacobson",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -21745,6 +21821,7 @@
       "author": "Jozwiak",
       "archetype": "Dueling",
       "meta": "Core",
+      "person": "aaron-jozwiak",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -22485,6 +22562,7 @@
       "author": "tso",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "brian-mazurowski",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
@@ -23399,6 +23477,7 @@
       "author": "R. Hunt",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "russell-hunt",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -23590,6 +23669,7 @@
       "author": "K. Pillai",
       "archetype": "Switch",
       "meta": "TaC",
+      "person": "kai-pillai",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -23776,6 +23856,7 @@
       "author": "R. Skelton",
       "archetype": "Switch",
       "meta": "TaC",
+      "person": "richard-skelton",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -23972,6 +24053,7 @@
       "author": "S. McLeish",
       "archetype": "Switch",
       "meta": "TaC",
+      "person": "stephen-mcleish",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -24521,6 +24603,7 @@
       "author": "R. Souloumiac",
       "archetype": "Passive",
       "meta": "BaS",
+      "person": "romain-souloumiac",
       "leader": {
         "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
         "name": "Cesca del Rosso"
@@ -24724,6 +24807,7 @@
       "author": "S. McLeish",
       "archetype": "Passive",
       "meta": "BaS",
+      "person": "stephen-mcleish",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -24917,6 +25001,7 @@
       "author": "R. Hayes",
       "archetype": "Passive",
       "meta": "BaS",
+      "person": "rob-hayes",
       "leader": {
         "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
         "name": "Cesca del Rosso"
@@ -25115,6 +25200,7 @@
       "author": "R. Skelton",
       "archetype": "Passive",
       "meta": "BaS",
+      "person": "richard-skelton",
       "leader": {
         "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
         "name": "Cesca del Rosso"
@@ -25313,6 +25399,7 @@
       "author": "J. Beltran",
       "archetype": "Passive",
       "meta": "BaS",
+      "person": "joffrey-beltran",
       "leader": {
         "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
         "name": "Cesca del Rosso"
@@ -25725,6 +25812,7 @@
       "author": "Nick Pruitt",
       "archetype": "Switch",
       "meta": "FaF",
+      "person": "nick-pruitt",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -25918,6 +26006,7 @@
       "author": "Eric Schaffer",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "eric-schaffer",
       "leader": {
         "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
         "name": "Cesca del Rosso"
@@ -26121,6 +26210,7 @@
       "author": "Patric Ballou",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "patric-ballou",
       "leader": {
         "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
         "name": "Cesca del Rosso"
@@ -26329,6 +26419,7 @@
       "author": "Jake Laird",
       "archetype": "Passive",
       "meta": "FaF",
+      "person": "jake-laird",
       "leader": {
         "id": "4fbdd213-afb9-443e-af58-a54560ab5f55",
         "name": "Cesca del Rosso"
@@ -26537,6 +26628,7 @@
       "author": "Josh Jonas",
       "archetype": "Passive",
       "meta": "TaC",
+      "person": "joshua-jonas",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -26725,6 +26817,7 @@
       "author": "Nick Pruitt",
       "archetype": "Switch",
       "meta": "TaC",
+      "person": "nick-pruitt",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -26913,6 +27006,7 @@
       "author": "The Don",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "daniel-dineen",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -27101,6 +27195,7 @@
       "author": "Hayes",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "hayes-hunter",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -27289,6 +27384,7 @@
       "author": "Nick Pruitt",
       "archetype": "Switch",
       "meta": "Core",
+      "person": "nick-pruitt",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
@@ -27492,6 +27588,7 @@
       "author": "Laird",
       "archetype": "Passive",
       "meta": "Core",
+      "person": "jake-laird",
       "leader": {
         "id": "5338bc30-16f7-4c1a-9b0d-d1d0c0567aa8",
         "name": "Don Constanzo Scarpa"
