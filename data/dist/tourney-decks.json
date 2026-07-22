@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-22T06:30:29Z",
+  "generated_at": "2026-07-22T22:17:10Z",
   "decks": [
     {
       "id": "tourney:Castille_-_01.11.2026_-_WinterParley_-_Winner_-_Ovilord.txt",
@@ -179,7 +179,14 @@
         }
       ],
       "notes": "Additional notes:\n- Imported from sailsdb public decks: \"Winter Parley 1st Place \" by Ovilord (deck 0361d461-e63e-4661-a15a-9b83d1612df9, created 2026-01-11).\n- Date = sailsdb archive date; event date not independently known.",
-      "source_file": "Castille - 01.11.2026 - WinterParley - Winner - Ovilord.txt"
+      "source_file": "Castille - 01.11.2026 - WinterParley - Winner - Ovilord.txt",
+      "record": {
+        "source": "hand-winterparley2025",
+        "tournament_id": 1,
+        "person": "callum-overfield",
+        "points": 12,
+        "topx": 1
+      }
     },
     {
       "id": "tourney:Castille_-_03.05.2025_-_Local_-_Winner_-_SLan.txt",
@@ -13822,7 +13829,7 @@
       "record": {
         "source": "l5r",
         "tournament_id": 5791,
-        "person": "hastur-phaeglos",
+        "person": "sebastien-jules",
         "wins": 2,
         "losses": 2,
         "points": 20,
