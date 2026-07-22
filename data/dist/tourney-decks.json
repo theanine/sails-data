@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-22T22:32:53Z",
+  "generated_at": "2026-07-22T22:56:42Z",
   "decks": [
     {
       "id": "tourney:Castille_-_01.11.2026_-_WinterParley_-_Winner_-_Ovilord.txt",
@@ -20309,7 +20309,7 @@
       "archetype": "Switch",
       "meta": "BaS",
       "planned_event": "Gen Con 2026",
-      "person": "vorrt",
+      "person": "aaron-jozwiak",
       "leader": {
         "id": "4515bcca-9211-405c-b0ab-6ca472266f43",
         "name": "Yevgeni"
