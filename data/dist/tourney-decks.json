@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-22T02:02:35Z",
+  "generated_at": "2026-07-22T02:14:42Z",
   "decks": [
     {
       "id": "tourney:Castille_-_01.11.2026_-_WinterParley_-_Winner_-_Ovilord.txt",
@@ -28888,7 +28888,7 @@
       "event": "Unknown",
       "position": "Unknown",
       "date": "2024-09-24",
-      "author": "Abe",
+      "author": "Abe Corrigan",
       "archetype": "Switch",
       "meta": "Core",
       "leader": {
