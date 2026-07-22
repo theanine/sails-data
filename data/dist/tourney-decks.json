@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-22T01:19:36Z",
+  "generated_at": "2026-07-22T02:02:35Z",
   "decks": [
     {
       "id": "tourney:Castille_-_01.11.2026_-_WinterParley_-_Winner_-_Ovilord.txt",
@@ -25509,7 +25509,8 @@
           "count": 2
         },
         {
-          "name": "Fates Whisper",
+          "id": "05988d43-3b9d-47d9-a4bb-6b46c92cdf80",
+          "name": "Fate's Silence",
           "count": 1
         },
         {
@@ -26315,7 +26316,8 @@
           "count": 2
         },
         {
-          "name": "Fates Whisper",
+          "id": "05988d43-3b9d-47d9-a4bb-6b46c92cdf80",
+          "name": "Fate's Silence",
           "count": 1
         },
         {
