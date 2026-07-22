@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-22T02:14:42Z",
+  "generated_at": "2026-07-22T02:34:57Z",
   "decks": [
     {
       "id": "tourney:Castille_-_01.11.2026_-_WinterParley_-_Winner_-_Ovilord.txt",
@@ -905,14 +905,21 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 83: European Championships 2025 - Castille - L. Sewell\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Castille - 05.11.2025 - EuroChamps - None - Sewell.txt"
+      "source_file": "Castille - 05.11.2025 - EuroChamps - None - Sewell.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "liam-sewell",
+        "points": 6,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Castille_-_05.11.2025_-_EuroChamps_-_Top_4_-_Overfield.txt",
       "name": "Castille - 05.11.2025 - EuroChamps - Top 4 - Overfield",
       "faction": "Castille",
       "event": "European Championships 2025",
-      "position": "Semifinalist",
+      "position": "4th Place (Semifinalist)",
       "date": "2025-05-11",
       "author": "C. Overfield",
       "archetype": "Passive",
@@ -1089,7 +1096,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 76: European Championships 2025 - Castille Semi Finalist - C. Overfield\n- Archive attribution/date: Agent006 — 2025-05-11\n- The approach card 'Lucas Martinez - Doomed' is preserved exactly as transcribed.",
-      "source_file": "Castille - 05.11.2025 - EuroChamps - Top 4 - Overfield.txt"
+      "source_file": "Castille - 05.11.2025 - EuroChamps - Top 4 - Overfield.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "callum-overfield",
+        "points": 9,
+        "topx": 4
+      }
     },
     {
       "id": "tourney:Castille_-_05.11.2025_-_EuroChamps_-_Winner_-_Laing.txt",
@@ -1263,7 +1277,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 72: European Championships 2025 - Castille 1st Place - D. Laing\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Castille - 05.11.2025 - EuroChamps - Winner - Laing.txt"
+      "source_file": "Castille - 05.11.2025 - EuroChamps - Winner - Laing.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "dave-laing",
+        "points": 9,
+        "topx": 1
+      }
     },
     {
       "id": "tourney:Castille_-_05.14.2024_-_None_-_None_-_Remedy.txt",
@@ -7788,7 +7809,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 74: European Championships 2025 - Eisen - S. Aston\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Eisen - 05.11.2025 - EuroChamps - None - Aston.txt"
+      "source_file": "Eisen - 05.11.2025 - EuroChamps - None - Aston.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "stacey-aston",
+        "points": 3,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Eisen_-_05.11.2025_-_EuroChamps_-_None_-_Hancock.txt",
@@ -7972,7 +8000,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 80: European Championships 2025 - Eisen - D. Hancock\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Eisen - 05.11.2025 - EuroChamps - None - Hancock.txt"
+      "source_file": "Eisen - 05.11.2025 - EuroChamps - None - Hancock.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "dave-hancock",
+        "points": 6,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Eisen_-_05.11.2025_-_EuroChamps_-_Top_2_-_Zonneveld.txt",
@@ -8146,7 +8181,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 73: European Championships 2025 - Eisen 2nd Place - E. Zonneveld\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Eisen - 05.11.2025 - EuroChamps - Top 2 - Zonneveld.txt"
+      "source_file": "Eisen - 05.11.2025 - EuroChamps - Top 2 - Zonneveld.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "eleanore-zonneveld",
+        "points": 12,
+        "topx": 2
+      }
     },
     {
       "id": "tourney:Eisen_-_06.01.2024_-_UKGE_-_None_-_Gadd.txt",
@@ -13630,7 +13672,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 81: European Championships 2025 - Montaigne - R. Hayes\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Montaigne - 05.11.2025 - EuroChamps - None - Hayes.txt"
+      "source_file": "Montaigne - 05.11.2025 - EuroChamps - None - Hayes.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "rob-hayes",
+        "points": 6,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Montaigne_-_05.11.2025_-_EuroChamps_-_None_-_Nichols.txt",
@@ -13804,7 +13853,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 75: European Championships 2025 - Montaigne - J. Nichols\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Montaigne - 05.11.2025 - EuroChamps - None - Nichols.txt"
+      "source_file": "Montaigne - 05.11.2025 - EuroChamps - None - Nichols.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "jessica-nichols",
+        "points": 0,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Montaigne_-_06.01.2024_-_UKGE_-_Top_2_-_Smith.txt",
@@ -18508,7 +18564,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 69: European Championships 2025 - Ussura - D. Hazelden\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Ussura - 05.11.2025 - EuroChamps - None - Hazelden.txt"
+      "source_file": "Ussura - 05.11.2025 - EuroChamps - None - Hazelden.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "darren-hazelden",
+        "points": 6,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Ussura_-_05.11.2025_-_EuroChamps_-_None_-_McIntyre.txt",
@@ -18687,7 +18750,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 82: European Championships 2025 - Ussura - T. McIntyre\n- Archive attribution/date: Agent006 — 2025-05-11\n- The supplied SailsDB transcription totals 41 faction cards, one above the standard 40. It is preserved exactly as displayed.\n- Validation note: the transcribed faction deck totals 41 cards rather than the standard 40.",
-      "source_file": "Ussura - 05.11.2025 - EuroChamps - None - McIntyre.txt"
+      "source_file": "Ussura - 05.11.2025 - EuroChamps - None - McIntyre.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "trev-mcintyre",
+        "points": 6,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Ussura_-_05.11.2025_-_EuroChamps_-_None_-_Roberts.txt",
@@ -18861,7 +18931,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 78: European Championships 2025 - Ussura - P. Roberts\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Ussura - 05.11.2025 - EuroChamps - None - Roberts.txt"
+      "source_file": "Ussura - 05.11.2025 - EuroChamps - None - Roberts.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "phil-roberts",
+        "points": 3,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Ussura_-_05.11.2025_-_EuroChamps_-_None_-_Smith.txt",
@@ -19035,7 +19112,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 79: European Championships 2025 - Ussura - M. Smith\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Ussura - 05.11.2025 - EuroChamps - None - Smith.txt"
+      "source_file": "Ussura - 05.11.2025 - EuroChamps - None - Smith.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "mike-smith",
+        "points": 6,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Ussura_-_05.20.2024_-_None_-_None_-_Remedy.txt",
@@ -24069,7 +24153,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 68: European Championships 2025 - Vodacce - R. Hunt\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Vodacce - 05.11.2025 - EuroChamps - None - Hunt.txt"
+      "source_file": "Vodacce - 05.11.2025 - EuroChamps - None - Hunt.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "russell-hunt",
+        "points": 3,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Vodacce_-_05.11.2025_-_EuroChamps_-_None_-_Pillai.txt",
@@ -24248,7 +24339,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 77: European Championships 2025 - Vodacce - K. Pillai\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Vodacce - 05.11.2025 - EuroChamps - None - Pillai.txt"
+      "source_file": "Vodacce - 05.11.2025 - EuroChamps - None - Pillai.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "kai-pillai",
+        "points": 3,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Vodacce_-_05.11.2025_-_EuroChamps_-_None_-_Skelton.txt",
@@ -24437,14 +24535,21 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 70: European Championships 2025 - Vodacce - R. Skelton\n- Archive attribution/date: Agent006 — 2025-05-11\n- The supplied source list totals 41 faction cards, one above the standard 40. It is preserved exactly as displayed.\n- Validation note: the transcribed faction deck totals 41 cards rather than the standard 40.",
-      "source_file": "Vodacce - 05.11.2025 - EuroChamps - None - Skelton.txt"
+      "source_file": "Vodacce - 05.11.2025 - EuroChamps - None - Skelton.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "richard-skelton",
+        "points": 6,
+        "topx": 257
+      }
     },
     {
       "id": "tourney:Vodacce_-_05.11.2025_-_EuroChamps_-_Top_4_-_McLeish.txt",
       "name": "Vodacce - 05.11.2025 - EuroChamps - Top 4 - McLeish",
       "faction": "Vodacce",
       "event": "European Championships 2025",
-      "position": "Semifinalist",
+      "position": "3rd Place (Semifinalist)",
       "date": "2025-05-11",
       "author": "S. McLeish",
       "archetype": "Switch",
@@ -24616,7 +24721,14 @@
         }
       ],
       "notes": "Additional notes:\n- Source archive post 71: European Championships 2025 - Vodacce Semi Finalist - S. McLeish\n- Archive attribution/date: Agent006 — 2025-05-11",
-      "source_file": "Vodacce - 05.11.2025 - EuroChamps - Top 4 - McLeish.txt"
+      "source_file": "Vodacce - 05.11.2025 - EuroChamps - Top 4 - McLeish.txt",
+      "record": {
+        "source": "hand-euros2025",
+        "tournament_id": 1,
+        "person": "stephen-mcleish",
+        "points": 12,
+        "topx": 4
+      }
     },
     {
       "id": "tourney:Vodacce_-_05.17.2024_-_None_-_None_-_lonki.txt",
