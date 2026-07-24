@@ -1304,10 +1304,16 @@ listening = false
 watermarks = {}   -- player -> last spawned manifest timestamp
 pollHandle = nil
 
--- Where spawned objects land, relative to the tile. Tuned in-game.
-local DECK_OFFSET = { x = 2.2, y = 1.5, z = 0 }
-local LEADER_OFFSET = { x = -0.6, y = 1.5, z = 0 }
+-- The imported deck always spawns at this fixed world position.
+local SPAWN_POS = { x = 0, y = 3, z = 0 }
 local POLL_SECONDS = 5
+
+-- TTS stacks a Deck's ContainedObjects bottom-first: index 1 is the bottom
+-- card and the last index is the TOP. buildDeckObject consumes entries in
+-- that same order, so the caller passes them bottom-to-top. If an imported
+-- deck ever comes out inverted (Faction on top instead of the Leader), flip
+-- this to false.
+DECK_LAST_IS_TOP = true
 
 function onLoad(saved)
   if saved ~= nil and saved ~= "" then
@@ -1427,53 +1433,86 @@ function onFetchNow()
   pollOnce()
 end
 
+-- orderedDeckEntries flattens a parsed list into deck entries in BOTTOM-to-TOP
+-- order, so the spawned deck reads from the top down as: Leader, then the
+-- Approach cards, then the Faction cards (and any other type below those).
+-- Within each group cards are ordered by printing id for a stable layout.
+function orderedDeckEntries(list)
+  -- Lower rank sinks toward the bottom of the deck; the Leader (added last)
+  -- ends up on top.
+  local function rank(pid)
+    local d = (CARD_DB[pid] and CARD_DB[pid].deck) or ""
+    if d == "Faction" then return 2 end
+    if d == "Approach" then return 3 end
+    return 1 -- unexpected types (e.g. City) go to the very bottom
+  end
+  local entries = {}
+  for _, e in ipairs(list.cards) do
+    entries[#entries + 1] = { pid = e.pid, count = e.count }
+  end
+  table.sort(entries, function(a, b)
+    local ra, rb = rank(a.pid), rank(b.pid)
+    if ra ~= rb then return ra < rb end
+    return a.pid < b.pid
+  end)
+  if list.leader ~= nil then
+    entries[#entries + 1] = { pid = list.leader, count = 1 } -- top of the deck
+  end
+  if not DECK_LAST_IS_TOP then
+    -- Reverse so the Leader lands on top under the opposite TTS convention.
+    local rev = {}
+    for i = #entries, 1, -1 do rev[#rev + 1] = entries[i] end
+    return rev
+  end
+  return entries
+end
+
 -- importText parses and spawns. Kept separate from the click handler so the
--- fetch path (M3) can feed relay text through the same pipeline.
+-- fetch path feeds relay text through the same pipeline.
 function importText(text)
   local list = parseList(text)
   local total = totalCards(list)
+  local haveLeader = list.leader ~= nil
 
-  if total == 0 and list.leader == nil then
+  if total == 0 and not haveLeader then
     broadcastToAll("Deck Importer: nothing to import (no recognized cards).", { 1, 0.6, 0.2 })
     reportProblems(list)
     return
   end
 
-  local origin = self.getPosition()
   local nick = list.title
   if nick == "" then nick = "Imported Deck" end
 
-  local deck = buildDeckObject(list.cards, nick)
+  -- One deck, sorted Leader (top) -> Approach -> Faction, spawned at a fixed
+  -- position so it always lands in the same clear spot.
+  local ordered = orderedDeckEntries(list)
+  local deck = buildDeckObject(ordered, nick)
   if deck ~= nil then
-    deck.Transform.posX = origin.x + DECK_OFFSET.x
-    deck.Transform.posY = origin.y + DECK_OFFSET.y
-    deck.Transform.posZ = origin.z + DECK_OFFSET.z
+    deck.Transform.posX = SPAWN_POS.x
+    deck.Transform.posY = SPAWN_POS.y
+    deck.Transform.posZ = SPAWN_POS.z
     spawnObjectJSON({ json = JSON.encode(deck) })
-  elseif #list.cards == 1 then
-    local co = singleCardObject(list.cards[1].pid, false)
-    co.Transform.posX = origin.x + DECK_OFFSET.x
-    co.Transform.posY = origin.y + DECK_OFFSET.y
-    co.Transform.posZ = origin.z + DECK_OFFSET.z
+  else
+    -- Fewer than two cards total (e.g. a leader-only list): spawn the one
+    -- card face up rather than an illegal one-card deck.
+    local onlyPid = haveLeader and list.leader or list.cards[1].pid
+    local co = singleCardObject(onlyPid, true)
+    co.Transform.posX = SPAWN_POS.x
+    co.Transform.posY = SPAWN_POS.y
+    co.Transform.posZ = SPAWN_POS.z
     spawnObjectJSON({ json = JSON.encode(co) })
   end
 
-  if list.leader ~= nil then
-    local lead = singleCardObject(list.leader, true)
-    lead.Transform.posX = origin.x + LEADER_OFFSET.x
-    lead.Transform.posY = origin.y + LEADER_OFFSET.y
-    lead.Transform.posZ = origin.z + LEADER_OFFSET.z
-    spawnObjectJSON({ json = JSON.encode(lead) })
-  end
-
-  local msg = "Imported " .. total .. " card" .. (total == 1 and "" or "s")
-  if list.leader ~= nil then
-    msg = msg .. " + leader " .. CARD_DB[list.leader].name
+  local n = total + (haveLeader and 1 or 0)
+  local msg = "Imported " .. n .. " card" .. (n == 1 and "" or "s")
+  if haveLeader then
+    msg = msg .. " (leader " .. CARD_DB[list.leader].name .. " on top)"
   end
   if nick ~= "Imported Deck" then msg = "\"" .. nick .. "\": " .. msg end
   broadcastToAll(msg, { 0.4, 0.8, 0.4 })
 
-  -- Soft, non-blocking sanity notes -- the app's deck model does not enforce
-  -- these either, so we only warn.
+  -- Soft, non-blocking sanity note -- the app's deck model does not enforce
+  -- this either, so we only warn. Counts the faction deck (excludes leader).
   if total ~= 40 and total ~= 0 then
     broadcastToAll("  note: " .. total .. " cards (a legal faction deck is 40).", { 0.8, 0.8, 0.4 })
   end
