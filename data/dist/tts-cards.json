@@ -1,8 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-23T00:00:00Z",
+  "generated_at": "2026-07-24T05:51:40Z",
   "image_base": "https://raw.githubusercontent.com/theanine/sails-data/main/data/img/tts/",
   "back_url": "https://steamusercontent-a.akamaihd.net/ugc/2024965758624758171/B64A4862148ADD6AE1999602EA4E176EA9C52EE2/",
+  "relay_url": "https://sails-tts-relay.theanine.workers.dev",
   "cards": [
     {
       "printing_id": "TAC-35",

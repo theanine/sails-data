@@ -2,6 +2,7 @@
 SCHEMA_VERSION = 1
 IMAGE_BASE = "https://raw.githubusercontent.com/theanine/sails-data/main/data/img/tts/"
 BACK_URL = "https://steamusercontent-a.akamaihd.net/ugc/2024965758624758171/B64A4862148ADD6AE1999602EA4E176EA9C52EE2/"
+RELAY_URL = "https://sails-tts-relay.theanine.workers.dev"
 
 CARD_DB = {
   ["7S5S-1"] = {name="The Forums", type="Location", deck="City", faction="City", text=""},
@@ -1267,16 +1268,68 @@ function singleCardObject(pid, faceUp)
   return co
 end
 
+-- ===== table code + relay polling (pure parts) =====
+
+-- Unambiguous alphabet: no I/L/O/0/1, so a code read off the tile is easy to
+-- type into the app without confusion.
+CODE_ALPHABET = "ABCDEFGHJKMNPQRSTUVWXYZ23456789"
+
+function newTableCode()
+  local t = {}
+  for i = 1, 6 do
+    local n = math.random(1, #CODE_ALPHABET)
+    t[i] = string.sub(CODE_ALPHABET, n, n)
+  end
+  return table.concat(t)
+end
+
+-- playersToFetch returns the players whose manifest timestamp is newer than
+-- the recorded watermark -- the decks uploaded since we last spawned them.
+-- Kept pure (no TTS API) so the "spawn each delivery exactly once" rule is
+-- unit-tested off-table.
+function playersToFetch(manifest, watermarks)
+  local out = {}
+  for player, ts in pairs(manifest) do
+    if ts > (watermarks[player] or 0) then out[#out + 1] = player end
+  end
+  return out
+end
+
 -- ===== TTS integration (not exercised off-table) =====
 
 pastedText = ""
+tableCode = nil
+relayURL = nil
+listening = false
+watermarks = {}   -- player -> last spawned manifest timestamp
+pollHandle = nil
 
--- Where spawned objects land, relative to the tile. Tuned in-game (M2).
+-- Where spawned objects land, relative to the tile. Tuned in-game.
 local DECK_OFFSET = { x = 2.2, y = 1.5, z = 0 }
 local LEADER_OFFSET = { x = -0.6, y = 1.5, z = 0 }
+local POLL_SECONDS = 5
 
 function onLoad(saved)
+  if saved ~= nil and saved ~= "" then
+    local ok, state = pcall(function() return JSON.decode(saved) end)
+    if ok and type(state) == "table" then
+      tableCode = state.code
+      relayURL = state.relay
+      watermarks = state.watermarks or {}
+    end
+  end
+  -- A fresh tile (no persisted code) mints its own, so every table is a
+  -- separate mailbox and no code is ever shared by baking it into the save.
+  if tableCode == nil or tableCode == "" then
+    math.randomseed(os.time())
+    tableCode = newTableCode()
+  end
+  if relayURL == nil then relayURL = RELAY_URL end
   createUI()
+end
+
+function onSave()
+  return JSON.encode({ code = tableCode, relay = relayURL, watermarks = watermarks })
 end
 
 function createUI()
@@ -1284,25 +1337,73 @@ function createUI()
   self.clearButtons()
 
   self.createInput({
-    label = "Accordlands Deck List",
+    label = "Accordlands Deck List (or use a table code below)",
     input_function = "onTextInput",
     function_owner = self,
     alignment = 2,
-    position = { 0, 0.2, -0.35 },
-    width = 2400, height = 1400,
+    position = { 0, 0.2, -0.45 },
+    width = 2400, height = 1050,
     font_size = 90,
     tab = 2,
     value = pastedText,
   })
 
   self.createButton({
-    label = "Import",
+    label = "Import pasted",
     click_function = "onImportClick",
     function_owner = self,
-    position = { 0, 0.2, 1.05 },
-    width = 1500, height = 350,
-    font_size = 180,
+    position = { 0, 0.2, 0.45 },
+    width = 1400, height = 260,
+    font_size = 140,
     color = { 0.2, 0.5, 0.2 },
+    font_color = { 1, 1, 1 },
+  })
+
+  -- Relay URL override (blank until the host pastes their Worker URL, or a
+  -- default was baked in at generation time).
+  self.createInput({
+    label = "Relay URL",
+    input_function = "onRelayInput",
+    function_owner = self,
+    alignment = 2,
+    position = { 0, 0.2, 0.9 },
+    width = 2400, height = 180,
+    font_size = 70,
+    tab = 2,
+    value = relayURL or "",
+  })
+
+  self.createButton({
+    label = "Table code: " .. (tableCode or "----"),
+    click_function = "onCopyCode",
+    function_owner = self,
+    position = { -0.7, 0.2, 1.3 },
+    width = 1400, height = 220,
+    font_size = 110,
+    color = { 0.1, 0.1, 0.1 },
+    font_color = { 1, 0.9, 0.5 },
+    tooltip = "Type this code into the app to send decks to this table.",
+  })
+
+  self.createButton({
+    label = listening and "Listening: ON" or "Listen: off",
+    click_function = "onToggleListen",
+    function_owner = self,
+    position = { 0.7, 0.2, 1.3 },
+    width = 1100, height = 220,
+    font_size = 110,
+    color = listening and { 0.2, 0.5, 0.2 } or { 0.4, 0.2, 0.2 },
+    font_color = { 1, 1, 1 },
+  })
+
+  self.createButton({
+    label = "Fetch now",
+    click_function = "onFetchNow",
+    function_owner = self,
+    position = { 0, 0.2, 1.65 },
+    width = 1100, height = 200,
+    font_size = 100,
+    color = { 0.2, 0.35, 0.55 },
     font_color = { 1, 1, 1 },
   })
 end
@@ -1311,8 +1412,31 @@ function onTextInput(_, _, text)
   pastedText = text
 end
 
+function onRelayInput(_, _, text)
+  relayURL = trim(text)
+end
+
 function onImportClick()
   importText(pastedText)
+end
+
+function onCopyCode()
+  broadcastToAll("This table's code is " .. tostring(tableCode)
+    .. " -- enter it in the app to send decks here.", { 1, 0.9, 0.5 })
+end
+
+function onToggleListen()
+  listening = not listening
+  if listening then
+    startPolling()
+  else
+    stopPolling()
+  end
+  createUI()
+end
+
+function onFetchNow()
+  pollOnce()
 end
 
 -- importText parses and spawns. Kept separate from the click handler so the
@@ -1374,4 +1498,59 @@ function reportProblems(list)
   for _, p in ipairs(list.problems) do
     broadcastToAll("    " .. p.line, { 1, 0.6, 0.2 })
   end
+end
+
+-- ===== relay polling (host only; guests' clients never run this) =====
+
+function relayBase()
+  local u = trim(relayURL or "")
+  if u == "" then return nil end
+  return string.gsub(u, "/+$", "") -- strip trailing slashes
+end
+
+function startPolling()
+  stopPolling()
+  pollOnce()
+  pollHandle = Wait.time(pollOnce, POLL_SECONDS, -1)
+end
+
+function stopPolling()
+  if pollHandle ~= nil then
+    Wait.stop(pollHandle)
+    pollHandle = nil
+  end
+end
+
+-- pollOnce fetches the manifest for our table code, then fetches and imports
+-- each player's deck whose timestamp advanced since we last spawned it. A
+-- cache-busting query defeats any CDN between us and the relay.
+function pollOnce()
+  local base = relayBase()
+  if base == nil then
+    broadcastToAll("Deck Importer: no relay URL set.", { 1, 0.6, 0.2 })
+    return
+  end
+  local url = base .. "/t/" .. tableCode .. "?t=" .. tostring(os.time())
+  WebRequest.get(url, function(req)
+    if req.is_error or req.response_code ~= 200 then
+      return
+    end
+    local ok, manifest = pcall(function() return JSON.decode(req.text) end)
+    if not ok or type(manifest) ~= "table" then return end
+    for _, player in ipairs(playersToFetch(manifest, watermarks)) do
+      fetchPlayerDeck(base, player, manifest[player])
+    end
+  end)
+end
+
+function fetchPlayerDeck(base, player, ts)
+  local url = base .. "/t/" .. tableCode .. "/" .. player .. "?t=" .. tostring(os.time())
+  WebRequest.get(url, function(req)
+    if req.is_error or req.response_code ~= 200 then return end
+    -- Record the watermark first: even if a spawn hiccups we never loop on
+    -- the same delivery.
+    watermarks[player] = ts
+    broadcastToAll("Deck from " .. player .. " received.", { 0.5, 0.7, 1 })
+    importText(req.text)
+  end)
 end
