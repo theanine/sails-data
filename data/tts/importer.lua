@@ -1332,18 +1332,24 @@ function onSave()
   return JSON.encode({ code = tableCode, relay = relayURL, watermarks = watermarks })
 end
 
+-- createUI lays the controls out in a single centered vertical column. TTS
+-- multiplies element POSITIONS by the object's scale, so every coordinate
+-- here is small and stays within the tile face; keeping x = 0 for all of them
+-- rules out the horizontal overlap that side-by-side buttons caused. The tile
+-- is a tall portrait (see EmitTile's scale) to give the column room. The relay
+-- URL is baked into RELAY_URL, so it is intentionally NOT shown here.
 function createUI()
   self.clearInputs()
   self.clearButtons()
 
   self.createInput({
-    label = "Accordlands Deck List (or use a table code below)",
+    label = "7th Sea Deck List (paste, or Fetch by table code)",
     input_function = "onTextInput",
     function_owner = self,
     alignment = 2,
-    position = { 0, 0.2, -0.45 },
-    width = 2400, height = 1050,
-    font_size = 90,
+    position = { 0, 0.2, -0.62 },
+    width = 1050, height = 360,
+    font_size = 44,
     tab = 2,
     value = pastedText,
   })
@@ -1352,47 +1358,33 @@ function createUI()
     label = "Import pasted",
     click_function = "onImportClick",
     function_owner = self,
-    position = { 0, 0.2, 0.45 },
-    width = 1400, height = 260,
-    font_size = 140,
-    color = { 0.2, 0.5, 0.2 },
+    position = { 0, 0.2, -0.10 },
+    width = 620, height = 150,
+    font_size = 78,
+    color = { 0.2, 0.55, 0.25 },
     font_color = { 1, 1, 1 },
   })
 
-  -- Relay URL override (blank until the host pastes their Worker URL, or a
-  -- default was baked in at generation time).
-  self.createInput({
-    label = "Relay URL",
-    input_function = "onRelayInput",
-    function_owner = self,
-    alignment = 2,
-    position = { 0, 0.2, 0.9 },
-    width = 2400, height = 180,
-    font_size = 70,
-    tab = 2,
-    value = relayURL or "",
-  })
-
   self.createButton({
-    label = "Table code: " .. (tableCode or "----"),
+    label = "Table code:  " .. (tableCode or "----"),
     click_function = "onCopyCode",
     function_owner = self,
-    position = { -0.7, 0.2, 1.3 },
-    width = 1400, height = 220,
-    font_size = 110,
-    color = { 0.1, 0.1, 0.1 },
-    font_color = { 1, 0.9, 0.5 },
+    position = { 0, 0.2, 0.18 },
+    width = 1050, height = 150,
+    font_size = 78,
+    color = { 0.12, 0.12, 0.12 },
+    font_color = { 1, 0.85, 0.4 },
     tooltip = "Type this code into the app to send decks to this table.",
   })
 
   self.createButton({
-    label = listening and "Listening: ON" or "Listen: off",
+    label = listening and "Listening: ON  (tap to stop)" or "Listen: off  (tap to start)",
     click_function = "onToggleListen",
     function_owner = self,
-    position = { 0.7, 0.2, 1.3 },
-    width = 1100, height = 220,
-    font_size = 110,
-    color = listening and { 0.2, 0.5, 0.2 } or { 0.4, 0.2, 0.2 },
+    position = { 0, 0.2, 0.46 },
+    width = 1050, height = 150,
+    font_size = 66,
+    color = listening and { 0.2, 0.5, 0.2 } or { 0.4, 0.22, 0.22 },
     font_color = { 1, 1, 1 },
   })
 
@@ -1400,9 +1392,9 @@ function createUI()
     label = "Fetch now",
     click_function = "onFetchNow",
     function_owner = self,
-    position = { 0, 0.2, 1.65 },
-    width = 1100, height = 200,
-    font_size = 100,
+    position = { 0, 0.2, 0.74 },
+    width = 620, height = 150,
+    font_size = 78,
     color = { 0.2, 0.35, 0.55 },
     font_color = { 1, 1, 1 },
   })
@@ -1410,10 +1402,6 @@ end
 
 function onTextInput(_, _, text)
   pastedText = text
-end
-
-function onRelayInput(_, _, text)
-  relayURL = trim(text)
 end
 
 function onImportClick()
