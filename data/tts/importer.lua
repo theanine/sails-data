@@ -1114,7 +1114,7 @@ function parseList(text)
     end
   end
 
-  local leaderName, cardsStarted = nil, false
+  local leaderName = nil
 
   for raw in string.gmatch(text .. "\n", "([^\n]*)\n") do
     local line = trim(raw)
@@ -1136,15 +1136,17 @@ function parseList(text)
           if val ~= "" then leaderName = val end
         end
       elseif count == nil then
-        -- A bare name before any counted line is the tournament leader;
-        -- after cards begin, trailing prose ends the list.
-        if (not cardsStarted) and leaderName == nil then
-          leaderName = line
-        else
-          break
+        -- A line naming a Leader printing is the leader wherever it appears
+        -- (tournament lists put it on top, hand-written ones at the bottom).
+        -- Any other bare line is ignored, so a note between two card lines
+        -- can't truncate the deck.
+        if leaderName == nil then
+          local lid = resolveRef(line, true)
+          if lid ~= nil and CARD_DB[lid] and CARD_DB[lid].deck == "Leader" then
+            leaderName = line
+          end
         end
       else
-        cardsStarted = true
         local n = tonumber(count)
         if n == nil or n <= 0 then
           list.problems[#list.problems + 1] = { line = line, reason = "bad quantity" }
@@ -1433,36 +1435,58 @@ function onFetchNow()
   pollOnce()
 end
 
--- orderedDeckEntries flattens a parsed list into deck entries in BOTTOM-to-TOP
--- order, so the spawned deck reads from the top down as: Leader, then the
--- Approach cards, then the Faction cards (and any other type below those).
--- Within each group cards are ordered by printing id for a stable layout.
+-- orderedDeckEntries flattens a parsed list into deck entries in the order the
+-- deck should stack. The requested top-to-bottom order is:
+--   Leader, Approach Characters, Approach Schemes, Faction Characters,
+--   Faction Attachments, Faction Risks (each group sorted alphabetically by
+--   name; anything unexpected, e.g. a City card, sinks to the very bottom).
+-- buildDeckObject fills ContainedObjects from index 1 up with the last entry
+-- on top, so we sort top-to-bottom then hand back the reverse (bottom-to-top).
 function orderedDeckEntries(list)
-  -- Lower rank sinks toward the bottom of the deck; the Leader (added last)
-  -- ends up on top.
   local function rank(pid)
-    local d = (CARD_DB[pid] and CARD_DB[pid].deck) or ""
-    if d == "Faction" then return 2 end
-    if d == "Approach" then return 3 end
-    return 1 -- unexpected types (e.g. City) go to the very bottom
+    local c = CARD_DB[pid]
+    local d = c and c.deck or ""
+    local t = c and c.type or ""
+    if d == "Leader" then return 0 end
+    if d == "Approach" then
+      if t == "Character" then return 1 end
+      if t == "Scheme" then return 2 end
+      return 3
+    end
+    if d == "Faction" then
+      if t == "Character" then return 4 end
+      if t == "Attachment" then return 5 end
+      if t == "Risk" then return 6 end
+      return 7
+    end
+    return 8 -- City or anything unexpected
   end
+  local function nameKey(pid)
+    local c = CARD_DB[pid]
+    return string.lower(c and c.name or pid)
+  end
+
   local entries = {}
   for _, e in ipairs(list.cards) do
     entries[#entries + 1] = { pid = e.pid, count = e.count }
   end
+  if list.leader ~= nil then
+    entries[#entries + 1] = { pid = list.leader, count = 1 }
+  end
+
+  -- Sort TOP-to-BOTTOM: by group rank, then alphabetically by name.
   table.sort(entries, function(a, b)
     local ra, rb = rank(a.pid), rank(b.pid)
     if ra ~= rb then return ra < rb end
+    local na, nb = nameKey(a.pid), nameKey(b.pid)
+    if na ~= nb then return na < nb end
     return a.pid < b.pid
   end)
-  if list.leader ~= nil then
-    entries[#entries + 1] = { pid = list.leader, count = 1 } -- top of the deck
-  end
-  if not DECK_LAST_IS_TOP then
-    -- Reverse so the Leader lands on top under the opposite TTS convention.
+
+  if DECK_LAST_IS_TOP then
     local rev = {}
     for i = #entries, 1, -1 do rev[#rev + 1] = entries[i] end
-    return rev
+    return rev -- bottom-to-top
   end
   return entries
 end
